@@ -1,8 +1,7 @@
 #pragma once
 #include <vector>
 using namespace std;
-template <typename T>
-T getMax(vector<T>& v, int n)
+int getMax(vector<int>& v, int n)
 {
     int mx = v[0];
     for (int i = 1; i < n; i++)
@@ -10,10 +9,9 @@ T getMax(vector<T>& v, int n)
             mx = v[i];
     return mx;
 }
-template <typename T>
-void countSort(vector<T>& v, int n, int exp)
+void countSort(vector<int>& v, int n, int exp)
 {
-    vector<T> output(n);
+    vector<int> output(n);
     int i, count[10] = { 0 };
     for (i = 0; i < n; i++)
         count[(v[i] / exp) % 10]++;
@@ -26,16 +24,14 @@ void countSort(vector<T>& v, int n, int exp)
     for (i = 0; i < n; i++)
         v[i] = output[i];
 }
-template <typename T>
-void radixsort(vector<T>& v, int n)
+void radixsort(vector<int>& v, int n)
 {
-    T m = getMax(v, n);
+    int m = getMax(v, n);
     for (int exp = 1; m / exp > 0; exp *= 10)
         countSort(v, n, exp);
 }
 
-template <typename T>
-vector<T> RadixSortLSD_by_Absalyamov(vector<T> data) {
+vector<int> RadixSortLSD_by_Absalyamov(vector<int> data) {
     int size = data.size();
     radixsort(data, size);
     return data;
