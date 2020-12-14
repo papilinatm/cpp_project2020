@@ -147,9 +147,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="DataGeneratorts.cpp" />
+    <ClCompile Include="heap_sort_by_Laputin.cpp" />
+    <ClCompile Include="heap_sort_by_Laputin_v2.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="test_run.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataGenerators.h" />
+    <ClInclude Include="heap_sort_bottomup_by_Laputin.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

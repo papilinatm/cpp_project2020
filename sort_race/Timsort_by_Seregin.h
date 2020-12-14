@@ -1,6 +1,6 @@
 #pragma once
 #include <vector>
-//#include <algorithm>
+#include <algorithm>
 
 using namespace std;
 
@@ -126,17 +126,3 @@ vector<T> Timsort_by_Seregin(vector<T> data)
     return data;
 }
 
-vector<int> GenerateDataPartiallySorted(int size)
-{
-    vector<int> data;
-    while (data.size() < size)
-    {
-        int sequance = rand() % 512;
-        vector<int> seq(sequance);
-        for (int& d : seq)
-            d = rand() % INT_MAX;
-        sort(seq.begin(), seq.end());
-        data.insert(data.end(), seq.begin(), seq.end());
-    }
-    return data;
-}

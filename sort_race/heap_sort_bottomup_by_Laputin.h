@@ -38,7 +38,7 @@ void heapify_BottomUp(vector<T>& arr, int start, int end)
         current = (current - 1) / 2;
     }
 
-    int temp = arr[current];
+    T temp = arr[current];
     arr[current] = arr[start];
 
     while (current > start) {
