@@ -86,6 +86,7 @@ int main()
                 RUN_INT(heapSortBotUp);
                 RUN_INT(Timsort_by_Seregin);
                 RUN_INT(RadixSortLSD_by_Absalyamov);
+                cout << endl;
             }
         }
         else if (choice == 2) {
