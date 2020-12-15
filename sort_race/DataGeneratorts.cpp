@@ -41,10 +41,10 @@ vector <int> GenerateWorstDataRadixLSD(int size) {
 
 vector<int> GenerateBestDataTimsort(int size)
 {
-    int i = rand() % INT_MAX/4;
+    int i = INT_MAX;
     vector<int> data(size);
     for (int& d : data)
-        d = i++;
+        d = i--;
     return data;
 }
 

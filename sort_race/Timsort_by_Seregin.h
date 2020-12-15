@@ -11,6 +11,15 @@ int GetMinrun(int N)
     return N;
 }
 
+template <typename T>
+void reflect(vector<T>& data, int begin, int end)
+{
+    while (begin < end)
+    {
+        swap(data[begin++], data[end--]);
+    }
+}
+
 // сортировка вставками внутри ранов
 template <typename T>
 void insertionSort(vector<T>& data, int start, int end)
@@ -76,14 +85,27 @@ vector<T> Timsort_by_Seregin(vector<T> data)
     {
         int RunStart = Index;
         int RunEnd = Index;
+        bool IsIncreasing = false;
         // выбор рана
-        while (data[Index] < data[nextIndex] && nextIndex < N - 1)
+        while (data[Index] < data[nextIndex] && nextIndex < N - 1 )
         {
             Index++;
             nextIndex++;
+            IsIncreasing = true;
+            RunEnd = nextIndex;
         }
-        RunEnd = Index;
-        if (Index - RunStart + 1 < minrun && Index < N - 1)
+        while (data[Index] > data[nextIndex] && nextIndex < N - 1 && !IsIncreasing)
+        {
+            Index++;
+            nextIndex++;
+            RunEnd = nextIndex;
+        }
+        if (!IsIncreasing)
+        {
+            reflect(data, RunStart, RunEnd);
+            Index = RunEnd;
+        }
+        if (Index - RunStart + 1 < minrun && Index < N-1)
         {
             if (N - minrun < Index)
                 RunEnd = N - 1;
@@ -99,7 +121,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
             RunEnd = Index;
         }
         Index = RunEnd + 1;
-        nextIndex = Index + 1;
+        nextIndex = Index +1;
         // добавление информации о длине рана и начальном элементе
         minruns.push_back(make_pair(RunStart, RunEnd - RunStart + 1));
         insertionSort(data, RunStart, RunEnd);
