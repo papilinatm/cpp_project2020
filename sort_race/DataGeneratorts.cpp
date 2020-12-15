@@ -69,8 +69,8 @@ vector <int> GenerateNormalDataRadixLSD(int size) {
 
 vector<int> GenerateBestDataQuicksort(int size) {
     vector<int> data(size);
-    for (int& i : data) {//если идет разбиение на n/2 и n/2-1 элементов каждый раз
-        i = 100 + rand() % 5000; ///////
+    for (int& i : data) {//если идет разбиение на n/2 и n/2-1 элементов каждый раз(или близко к этому)
+       i = i = 100 + rand() % 5000;
     }
     return data;
 }
