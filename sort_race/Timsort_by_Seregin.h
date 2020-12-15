@@ -92,7 +92,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
             Index++;
             nextIndex++;
             IsIncreasing = true;
-            RunEnd = nextIndex;
+            RunEnd = Index;
         }
         while (data[Index] > data[nextIndex] && nextIndex < N - 1 && !IsIncreasing)
         {
@@ -105,26 +105,18 @@ vector<T> Timsort_by_Seregin(vector<T> data)
             reflect(data, RunStart, RunEnd);
             Index = RunEnd;
         }
-        if (Index - RunStart + 1 < minrun && Index < N-1)
+        if (Index - RunStart < minrun && Index < N)
         {
             if (N - minrun < Index)
-                RunEnd = N - 1;
+                RunEnd = N-1;
             else
-                RunEnd = RunStart + minrun - 1;
-        }
-        else
-        {
-            if (Index < N - 1)
-            {
-                Index++;
-            }
-            RunEnd = Index;
+                RunEnd = RunStart + minrun;
+            insertionSort(data, RunStart, RunEnd);
         }
         Index = RunEnd + 1;
         nextIndex = Index +1;
         // добавление информации о длине рана и начальном элементе
         minruns.push_back(make_pair(RunStart, RunEnd - RunStart + 1));
-        insertionSort(data, RunStart, RunEnd);
     }
 
     // слияние получившихся ранов

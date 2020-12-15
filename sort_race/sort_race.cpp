@@ -180,15 +180,18 @@ int main()
                         int choice34 = GetCorrectNumber("Your choice (0-3): ", 0, 3);
                         if (choice34 == 1) {
                             cout << "Best case" << endl;
-                            //auto data = GenerateBestDataTimsort(size)
+                            auto data = GenerateBestDataTimsort(10000);
+                            RUN_INT(Timsort_by_Seregin);
                         }
                         else if (choice34 == 2) {
                             cout << "Normal case" << endl;
-                            //auto data = GenerateNormalDataTimsort(size)
+                            auto data = GenerateNormalDataTimsort(10000);
+                            RUN_INT(Timsort_by_Seregin);
                         }
                         else if (choice34 == 3) {
                             cout << "Worst case" << endl;
-                            //auto data = GenerateWorstDataTimsort(size)
+                            auto data = GenerateWorstDataTimsort(10000);
+                            RUN_INT(Timsort_by_Seregin);
                         }
                         else if (choice34 == 0) {
                             break;
