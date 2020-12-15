@@ -11,6 +11,7 @@ int GetMinrun(int N)
     return N;
 }
 
+// сортировка вставками внутри ранов
 template <typename T>
 void insertionSort(vector<T>& data, int start, int end)
 {
@@ -28,6 +29,7 @@ void insertionSort(vector<T>& data, int start, int end)
     }
 }
 
+// слияние ранов
 template <typename T>
 void merge(vector<T>& data, pair<int, int> X, pair<int, int> Y)
 {
@@ -60,6 +62,7 @@ void merge(vector<T>& data, pair<int, int> X, pair<int, int> Y)
 
 }
 
+// основное тело
 template <typename T>
 vector<T> Timsort_by_Seregin(vector<T> data)
 {
@@ -73,6 +76,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
     {
         int RunStart = Index;
         int RunEnd = Index;
+        // выбор рана
         while (data[Index] < data[nextIndex] && nextIndex < N - 1)
         {
             Index++;
@@ -96,10 +100,12 @@ vector<T> Timsort_by_Seregin(vector<T> data)
         }
         Index = RunEnd + 1;
         nextIndex = Index + 1;
+        // добавление информации о длине рана и начальном элементе
         minruns.push_back(make_pair(RunStart, RunEnd - RunStart + 1));
         insertionSort(data, RunStart, RunEnd);
     }
 
+    // слияние получившихся ранов
     while (minruns.size() >= 2)
     {
         int i = 0;
