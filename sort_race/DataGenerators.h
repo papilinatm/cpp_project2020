@@ -6,3 +6,7 @@ std::vector <int> GenerateNormalDataRadixLSD(int size);
 std::vector<int> GenerateNormalDataTimsort(int size);
 std::vector<int> GenerateBestDataTimsort(int size);
 std::vector<int> GenerateWorstDataTimsort(int size);
+
+std::vector<int> GenerateBestDataQuicksort(int size);
+std::vector<int> GenerateNormalDataQuicksort(int size);
+std::vector<int> GenerateWorstDataQuicksort(int size);

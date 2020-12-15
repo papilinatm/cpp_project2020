@@ -41,5 +41,8 @@
     <ClInclude Include="Timsort_by_Seregin.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="QuickSort_by_Ageenko.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -8,6 +8,7 @@
 #include "heap_sort_bottomup_by_Laputin.h"
 #include "RadixSortLSD_by_Absalyamov.h"
 #include "Timsort_by_Seregin.h"
+#include "QuickSort_by_Ageenko.h"
 
 #include "DataGenerators.h"
 
@@ -86,6 +87,7 @@ int main()
                 RUN_INT(heapSortBotUp);
                 RUN_INT(Timsort_by_Seregin);
                 RUN_INT(RadixSortLSD_by_Absalyamov);
+                RUN_INT(QuickSort_by_Ageenko);
                 cout << endl;
             }
         }
@@ -98,6 +100,7 @@ int main()
                 RUN_DOUBLE(heapSortBotUp);
                 RUN_DOUBLE(Timsort_by_Seregin);
                 RUN_DOUBLE(RadixSortLSD_by_Absalyamov);
+                RUN_DOUBLE(QuickSort_by_Ageenko);
             }
         }
         else if (choice == 3) {
@@ -158,15 +161,18 @@ int main()
                         int choice33 = GetCorrectNumber("Your choice (0-3): ", 0, 3);
                         if (choice33 == 1) {
                             cout << "Best case" << endl;
-                            //auto data = GenerateBestDataQuicksort(size)
+                            auto data = GenerateBestDataQuicksort(1000);
+                            RUN_INT(QuickSort_by_Ageenko);
                         }
                         else if (choice33 == 2) {
                             cout << "Normal case" << endl;
-                            //auto data = GenerateNormalDataQuicksort(size)
+                            auto data = GenerateNormalDataQuicksort(1000);
+                            RUN_INT(QuickSort_by_Ageenko);
                         }
                         else if (choice33 == 3) {
                             cout << "Worst case" << endl;
-                            //auto data = GenerateWorstDataQuicksort(size)
+                            auto data = GenerateWorstDataQuicksort(1000);
+                            RUN_INT(QuickSort_by_Ageenko);
                         }
                         else if (choice33 == 0) {
                             break;

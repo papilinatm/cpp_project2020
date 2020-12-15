@@ -155,6 +155,7 @@
   <ItemGroup>
     <ClInclude Include="DataGenerators.h" />
     <ClInclude Include="heap_sort_bottomup_by_Laputin.h" />
+    <ClInclude Include="QuickSort_by_Ageenko.h" />
     <ClInclude Include="RadixSortLSD_by_Absalyamov.h" />
     <ClInclude Include="Timsort_by_Seregin.h" />
   </ItemGroup>
