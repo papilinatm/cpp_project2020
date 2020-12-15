@@ -20,6 +20,7 @@ void Run(string method_name, Participant p, vector<int> data);
 vector<int> std_sort(vector<int>);
 vector <int> TimSortByTkachev(vector<int>);
 vector <int> CountingSortByTkachev(vector<int>);
+vector <int> QuickSortByKaryagin(vector<int>);
 
 int main()
 {
@@ -30,6 +31,7 @@ int main()
         RUN(std_sort);
         RUN(TimSortByTkachev);
         RUN(CountingSortByTkachev);
+        RUN(QuickSortByKaryagin);
 		//run your method here
     }
 }
