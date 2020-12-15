@@ -11,6 +11,7 @@ int GetMinrun(int N)
     return N;
 }
 
+//
 template <typename T>
 void reflect(vector<T>& data, int begin, int end)
 {
@@ -87,25 +88,28 @@ vector<T> Timsort_by_Seregin(vector<T> data)
         int RunEnd = Index;
         bool IsIncreasing = false;
         // выбор рана
-        while (data[Index] < data[nextIndex] && nextIndex < N - 1 )
+        if (nextIndex < N - 1)
         {
-            Index++;
-            nextIndex++;
-            IsIncreasing = true;
-            RunEnd = Index;
+            while (data[Index] < data[nextIndex] && nextIndex < N - 1)
+            {
+                Index++;
+                nextIndex++;
+                IsIncreasing = true;
+                RunEnd = Index;
+            }
+            if (!IsIncreasing)
+            {
+                while (data[Index] > data[nextIndex] && nextIndex < N - 1 && !IsIncreasing)
+                {
+                    Index++;
+                    nextIndex++;
+                    RunEnd = nextIndex;
+                }
+                reflect(data, RunStart, RunEnd);
+                Index = RunEnd;
+            }
         }
-        while (data[Index] > data[nextIndex] && nextIndex < N - 1 && !IsIncreasing)
-        {
-            Index++;
-            nextIndex++;
-            RunEnd = nextIndex;
-        }
-        if (!IsIncreasing)
-        {
-            reflect(data, RunStart, RunEnd);
-            Index = RunEnd;
-        }
-        if (Index - RunStart < minrun && Index < N)
+        if (Index - RunStart + 1 < minrun && Index < N)
         {
             if (N - minrun < Index)
                 RunEnd = N-1;
