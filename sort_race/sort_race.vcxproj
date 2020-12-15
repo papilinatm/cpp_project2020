@@ -147,9 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MergeSort_by_Badeev.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="test_run.cpp" />
+    <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
