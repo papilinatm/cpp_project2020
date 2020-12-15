@@ -96,7 +96,7 @@ int main()
                 RUN_DOUBLE(std_sort_double);
                 RUN_DOUBLE(heapSortBotUp);
                 RUN_DOUBLE(Timsort_by_Seregin);
-               // RUN_DOUBLE(RadixSortLSD_by_Absalyamov);
+                RUN_DOUBLE(RadixSortLSD_by_Absalyamov);
             }
         }
         else if (choice == 3) {
@@ -132,15 +132,18 @@ int main()
                         int choice32 = GetCorrectNumber("Your choice (0-3): ", 0, 3);
                         if (choice32 == 1) {
                             cout << "Best case" << endl;
-                            //auto data = GenerateBestDataRadixLSD(size)
+                            auto data = GenerateBestDataRadixLSD(1000);
+                            RUN_INT(RadixSortLSD_by_Absalyamov);
                         }
                         else if (choice32 == 2) {
                             cout << "Normal case" << endl;
-                            //auto data = GenerateNormalDataRadixLSDsort(size)
+                            auto data = GenerateNormalDataRadixLSD(1000);
+                            RUN_INT(RadixSortLSD_by_Absalyamov);
                         }
                         else if (choice32 == 3) {
                             cout << "Worst case" << endl;
-                            //auto data = GenerateWorstDatarRadixLSDsort(size)
+                            auto data = GenerateWorstDataRadixLSD(1000);
+                            RUN_INT(RadixSortLSD_by_Absalyamov);
                         }
                         else if (choice32 == 0) {
                             break;

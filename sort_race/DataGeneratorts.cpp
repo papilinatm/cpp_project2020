@@ -10,3 +10,21 @@ vector<int> MyGenerate(int size) {
 	}
 	return data;
 }
+vector <int> GenerateBestDataRadixLSD(int size) {
+	vector <int>data(size);
+	for (int& i : data)
+		i = rand() % 10;
+	return data;
+}
+vector <int> GenerateWorstDataRadixLSD(int size) {
+	vector <int>data(size);
+	for (int& i : data)
+		i = 1000000+rand()%8000000;
+	return data;
+}
+vector <int> GenerateNormalDataRadixLSD(int size) {
+	vector <int>data(size);
+	for (int& i : data)
+		i = 1000 + rand() %8000;
+	return data;
+}
