@@ -147,9 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CountingSortByTkachev.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="test_run.cpp" />
+    <ClCompile Include="TimSortByTkachev.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

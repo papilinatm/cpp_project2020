@@ -3,6 +3,7 @@
 
 #include <array>
 #include <vector>
+#include <string>
 
 using namespace std;
 
@@ -16,8 +17,9 @@ void Run(string method_name, Participant p, vector<int> data);
 }
 
 //place your method name here
-vector<int> Quick_Sort(vector<int>);
-
+vector<int> std_sort(vector<int>);
+vector <int> TimSortByTkachev(vector<int>);
+vector <int> CountingSortByTkachev(vector<int>);
 
 int main()
 {
@@ -25,7 +27,9 @@ int main()
     for (int n : N)
     {
         auto data = GenerateData(n);
-        RUN(Quick_Sort);
+        RUN(std_sort);
+        RUN(TimSortByTkachev);
+        RUN(CountingSortByTkachev);
 		//run your method here
     }
 }
