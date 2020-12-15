@@ -36,3 +36,9 @@ vector<int> RadixSortLSD_by_Absalyamov(vector<int> data) {
     radixsort(data, size);
     return data;
 }
+
+vector<double> RadixSortLSD_by_Absalyamov(vector<double> data)
+{
+    return data;
+}
+
