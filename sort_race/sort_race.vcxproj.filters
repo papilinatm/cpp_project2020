@@ -21,11 +21,18 @@
     <ClCompile Include="std_sort.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="test_run.cpp">
+    <ClCompile Include="tm_datasets.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DataSets.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Participants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSetRegister.h">
     <ClInclude Include="MergeSort_Shuranskiy.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
