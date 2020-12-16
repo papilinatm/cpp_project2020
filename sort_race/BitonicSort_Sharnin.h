@@ -9,40 +9,40 @@ void compAndSwap(vector<T>& mass, size_t i, size_t j, int direction)
         swap(mass[i], mass[j]);
 }
 template <typename T>
-void bitonicMerge(vector<T>& mass, size_t low, size_t Numb, int direction)
+void bitonicMergeBySharnin(vector<T>& mass, size_t low, size_t Numb, int direction)
 {
     if (Numb > 1)
     {
         size_t k = Numb / 2;
         for (size_t i = low; i < low + k; i++)
             compAndSwap(mass, i, i + k, direction);
-        bitonicMerge(mass, low, k, direction);
-        bitonicMerge(mass, low + k, k, direction);
+        bitonicMergeBySharnin(mass, low, k, direction);
+        bitonicMergeBySharnin(mass, low + k, k, direction);
     }
 }
 
 
 template <typename T>
-void bitonicSort(vector<T>& mass, size_t low, size_t Numb, int direction)
+void bitonicSortBySharnin(vector<T>& mass, size_t low, size_t Numb, int direction)
 {
     if (Numb > 1)
     {
         int k = Numb / 2;
         // сортировка в порядке возрастания, так как dir здесь равен 1
-        bitonicSort(mass, low, k, 1);
+        bitonicSortBySharnin(mass, low, k, 1);
         // сортировка по убыванию, так как dir здесь 0
-        bitonicSort(mass, low + k, k, 0);
+        bitonicSortBySharnin(mass, low + k, k, 0);
         // Будем объединять последовательность в порядке возрастания
         // так как dir = 1.
-        bitonicMerge(mass, low, Numb, direction);
+        bitonicMergeBySharnin(mass, low, Numb, direction);
     }
 }
 
 
 template <typename T>
-vector<T> Bitonic_Sort(vector<T> mass)
+vector<T> BitonicSortBySharnin(vector<T> mass)
 {
     size_t N = mass.size();
-    bitonicSort(mass, 0, N, 1);
+    bitonicSortBySharnin(mass, 0, N, 1);
     return mass;
 }

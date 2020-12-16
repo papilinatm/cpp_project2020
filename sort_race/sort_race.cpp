@@ -43,6 +43,7 @@ int main()
         RUN(MergeSortByShuranskiy);
         RUN(QuickSort_Pashayan);
         RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
         //run your method here
 
 
@@ -58,6 +59,7 @@ int main()
         RUN(MergeSortByShuranskiy);
         RUN(QuickSort_Pashayan);
         RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
         //run your method here
 
 
