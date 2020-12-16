@@ -41,6 +41,7 @@ int main()
         auto& data = ds.data;
         RUN(std_sort);
         RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
         //run your method here
 
 
@@ -54,6 +55,7 @@ int main()
         auto& data = ds.data;
         RUN(sort_for_integers_only);
         RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
         //run your method here
 
 
