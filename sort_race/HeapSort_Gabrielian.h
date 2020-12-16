@@ -5,45 +5,45 @@ using namespace std;
 
 // Функция нагромождения дерева
 template <typename T>
-void heapify(vector<T>& mass, size_t n, double first)
+void heapifyByGabrielian(vector<T>& mass, size_t n, double first)
 {
-    double largest = first;
+    double max = first;
     int l = 2 * first + 1;
     int r = 2 * first + 2;
 
-    if (l < n && mass[l] > mass[largest])
-        largest = l;
+    if (l < n && mass[l] > mass[max])
+        max = l;
 
-    if (r < n && mass[r] > mass[largest])
-        largest = r;
+    if (r < n && mass[r] > mass[max])
+        max = r;
 
-    if (largest != first)
+    if (max != first)
     {
-        swap(mass[first], mass[largest]);
+        swap(mass[first], mass[max]);
 
-        heapify(mass, n, largest);
+        heapifyByGabrielian(mass, n, max);
     }
 }
 
 // Функция сортировки
 template <typename T>
-void heapSort(vector<T>& mass, size_t n)
+void heapSortByGabrielian(vector<T>& mass, size_t n)
 {
     for (int i = n / 2 - 1; i >= 0; i--)
-        heapify(mass, n, i);
+        heapifyByGabrielian(mass, n, i);
 
     for (int i = n - 1; i >= 0; i--)
     {
         swap(mass[0], mass[i]);
 
-        heapify(mass, i, 0);
+        heapifyByGabrielian(mass, i, 0);
     }
 }
 
 template <typename T>
-vector<T> HeapSort(vector<T> mass)
+vector<T> HeapSortByGabrielian(vector<T> mass)
 {
     size_t N = mass.size();
-    heapSort(mass, N);
+    heapSortByGabrielian(mass, N);
     return mass;
 }

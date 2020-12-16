@@ -42,6 +42,7 @@ int main()
         RUN(std_sort);
         RUN(MergeSortByShuranskiy);
         RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
         //run your method here
 
 
@@ -56,6 +57,7 @@ int main()
         RUN(sort_for_integers_only);
         RUN(MergeSortByShuranskiy);
         RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
         //run your method here
 
 
