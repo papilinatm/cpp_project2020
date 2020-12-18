@@ -21,7 +21,7 @@
     <ClCompile Include="std_sort.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="test_run.cpp">
+    <ClCompile Include="tm_datasets.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="DataGeneratorts.cpp">
@@ -42,6 +42,17 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="QuickSort_by_Ageenko.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataSets.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Participants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSetRegister.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
