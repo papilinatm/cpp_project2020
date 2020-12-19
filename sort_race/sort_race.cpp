@@ -36,7 +36,6 @@ int main()
         auto& data = ds.data;
         RUN(std_sort);
         //run your method here
-        RUN(std_sort);
 
         cout << endl << "**************************" << endl << endl;
     }
