@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DataGeneratorts.cpp" />
+    <ClCompile Include="flapuitn_datasets.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
@@ -158,7 +158,6 @@
     <ClInclude Include="Participants.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DataGenerators.h" />
     <ClInclude Include="heap_sort_bottomup_by_Laputin.h" />
     <ClInclude Include="QuickSort_by_Ageenko.h" />
     <ClInclude Include="RadixSortLSD_by_Absalyamov.h" />
