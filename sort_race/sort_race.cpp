@@ -36,6 +36,7 @@ int main()
         auto& data = ds.data;
         RUN(std_sort);
         //run your method here
+        RUN(heapsort_by_polyakov);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -47,6 +48,7 @@ int main()
         auto& data = ds.data;
         RUN(sort_for_integers_only);
         //run your method here
+        RUN(heapsort_by_polyakov);
 
 
         cout << endl << "**************************" << endl << endl;
