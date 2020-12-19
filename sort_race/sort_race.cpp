@@ -9,6 +9,10 @@
 #include <iostream>
 #include "DataSetRegister.h"
 #include "Participants.h"
+#include"BitonicSort_Sharnin.h"
+#include"MergeSort_Shuranskiy.h"
+#include"HeapSort_Gabrielian.h"
+#include"QuickSort_Pashayan.h"
 
 using namespace std;
 
@@ -42,6 +46,11 @@ int main()
         RUN(quickSort_by_Ahmatzyanov);
         RUN(merge_sort_by_Burlin);
         RUN(combSort_by_Ismailova);
+        //ShuranskyTeam
+        RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
         //run your method here
 
 
@@ -59,6 +68,11 @@ int main()
         RUN(tim_sort_by_Taishev);
         RUN(quickSort_by_Ahmatzyanov);
         RUN(merge_sort_by_Burlin);
+        //ShuranskyTeam
+        RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
         //run your method here
       
       
