@@ -38,6 +38,7 @@ int main()
 
         RUN(merge_sort_by_iliushik);
         //run your method here
+        RUN(heapsort_by_polyakov);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -51,6 +52,7 @@ int main()
 
         RUN(merge_sort_by_iliushik);
         //run your method here
+        RUN(heapsort_by_polyakov);
 
 
         cout << endl << "**************************" << endl << endl;
