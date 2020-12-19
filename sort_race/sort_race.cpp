@@ -35,6 +35,8 @@ int main()
         cout << ds.description << endl << endl;
         auto& data = ds.data;
         RUN(std_sort);
+
+        RUN(merge_sort_by_iliushik);
         //run your method here
 
         cout << endl << "**************************" << endl << endl;
@@ -46,6 +48,8 @@ int main()
         cout << ds.description << endl << endl;
         auto& data = ds.data;
         RUN(sort_for_integers_only);
+
+        RUN(merge_sort_by_iliushik);
         //run your method here
 
 
