@@ -147,9 +147,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CombSortBySuleimenovaZh.cpp" />
+    <ClCompile Include="QuickSort_Efimenko.cpp" />
+    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp" />
+    <ClCompile Include="Shekhovtsova_team_dataset.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
+    <ClCompile Include="TreeSortByIssabek.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
