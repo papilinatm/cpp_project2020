@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <chrono>
-#include <algorithm>
+#include <algorithm>И
 #include <string>
 #include <iostream>
 #include "DataSetRegister.h"
