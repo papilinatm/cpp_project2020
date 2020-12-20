@@ -30,6 +30,9 @@
     <ClCompile Include="countingSortByTkachev.cpp">
       <Filter>Исходные файлы\TkachevTeam</Filter>
     </ClCompile>
+    <ClCompile Include="Quick_Sort_by_Karyagin.cpp">
+      <Filter>Исходные файлы\TkachevTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">
