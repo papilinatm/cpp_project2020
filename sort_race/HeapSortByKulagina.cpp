@@ -26,7 +26,7 @@ void max_heapify(std::vector<T>& arr, int i, int size_)
 }
 
 
-vector<int> HeapSortRecursionByKulagina(std::vector<int> arr)
+vector<int> HeapSortByKulagina(std::vector<int> arr)
 {
 	for (int i = (arr.size() / 2); i >= 0; i--)
 	{
@@ -42,7 +42,7 @@ vector<int> HeapSortRecursionByKulagina(std::vector<int> arr)
 	return arr;
 }
 
-vector<double> HeapSortRecursionByKulagina(std::vector<double> arr)
+vector<double> HeapSortByKulagina(std::vector<double> arr)
 {
 	for (int i = (arr.size() / 2); i >= 0; i--)
 	{

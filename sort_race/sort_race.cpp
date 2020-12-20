@@ -40,7 +40,7 @@ int main()
         RUN(countingSortByTkachev);
         RUN(QuickSortByKaryagin);
         RUN(merge_sort_by_Kotova);
-        RUN(HeapSortRecursionByKulagina);
+        RUN(HeapSortByKulagina);
         //run your method here
 
 
@@ -58,7 +58,7 @@ int main()
         RUN(countingSortByTkachev);
         RUN(QuickSortByKaryagin);
         RUN(merge_sort_by_Kotova);
-        RUN(HeapSortRecursionByKulagina);
+        RUN(HeapSortByKulagina);
         //run your method here
 
 
