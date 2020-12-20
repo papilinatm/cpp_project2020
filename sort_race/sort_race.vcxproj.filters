@@ -29,6 +29,9 @@
     <ClCompile Include="ShellSort_by_Skriplyuk.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
+    <ClCompile Include="mergeSortByMalakhov.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

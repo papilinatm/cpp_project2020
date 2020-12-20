@@ -54,6 +54,7 @@ int main()
         //KononenkoTeam
         RUN(CombSortByKononenko);
         RUN(ShellSort_by_Skriplyuk);
+        RUN(mergeSortByMalakhov);
         //run your method here
 
 
@@ -79,6 +80,7 @@ int main()
         //KononenkoTeam
         RUN(CombSortByKononenko);
         RUN(ShellSort_by_Skriplyuk);
+        RUN(mergeSortByMalakhov);
         //run your method here
       
       

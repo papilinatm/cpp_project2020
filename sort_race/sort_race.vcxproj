@@ -150,6 +150,7 @@
     <ClCompile Include="binaryheap_bySalikhova.cpp" />
     <ClCompile Include="combSortByIsmailova.cpp" />
     <ClCompile Include="CombSortByKononenko.cpp" />
+    <ClCompile Include="mergeSortByMalakhov.cpp" />
     <ClCompile Include="MergSortByBurlin.cpp" />
     <ClCompile Include="quickSortByAhmatzyanov.cpp" />
     <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
