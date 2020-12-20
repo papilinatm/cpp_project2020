@@ -23,6 +23,9 @@
     <ClCompile Include="std_sort.cpp">
       <Filter>TM</Filter>
     </ClCompile>
+    <ClCompile Include="quickSortBySimonov.cpp">
+      <Filter>SimonovTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
@@ -35,6 +38,9 @@
     </Filter>
     <Filter Include="TM">
       <UniqueIdentifier>{6213113b-9b1e-47b3-8561-b2a75b9a3555}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SimonovTeam">
+      <UniqueIdentifier>{2eae6a98-d3f0-44c3-b82c-661d31395547}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
