@@ -53,6 +53,7 @@ int main()
         RUN(BitonicSortBySharnin);
         //KononenkoTeam
         RUN(CombSortByKononenko);
+        RUN(ShellSort_by_Skriplyuk);
         //run your method here
 
 
@@ -77,6 +78,7 @@ int main()
         RUN(BitonicSortBySharnin);
         //KononenkoTeam
         RUN(CombSortByKononenko);
+        RUN(ShellSort_by_Skriplyuk);
         //run your method here
       
       

@@ -152,6 +152,7 @@
     <ClCompile Include="CombSortByKononenko.cpp" />
     <ClCompile Include="MergSortByBurlin.cpp" />
     <ClCompile Include="quickSortByAhmatzyanov.cpp" />
+    <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="timsortByTaishev.cpp" />

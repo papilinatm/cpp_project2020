@@ -23,4 +23,6 @@ std::vector <int> combSort_by_Ismailova(std::vector<int> data);
 //--------------------Team Kononenko---------------------------
 std::vector <int> CombSortByKononenko(std::vector<int> data);
 std::vector <double> CombSortByKononenko(std::vector<double> data);
+std::vector <int> ShellSort_by_Skriplyuk(std::vector<int> data);
+std::vector <double> ShellSort_by_Skriplyuk(std::vector<double> data);
 
