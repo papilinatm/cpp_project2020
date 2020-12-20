@@ -49,7 +49,7 @@ void heapify_BottomUp(vector<T>& arr, int start, int end)
 
 // Основная функция, выполняющая пирамидальную сортировку
 template<typename T>
-vector<T> heapSortBotUp(vector<T> arr)
+vector<T> HeapSortBotUp_by_Laputin(vector<T> arr)
 {
     // Построение кучи (перегруппируем массив)
     int n = arr.size();

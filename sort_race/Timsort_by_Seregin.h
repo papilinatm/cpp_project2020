@@ -11,6 +11,7 @@ int GetMinrun(int N)
     return N;
 }
 
+//
 template <typename T>
 void reflect(vector<T>& data, int begin, int end)
 {
@@ -77,44 +78,47 @@ vector<T> Timsort_by_Seregin(vector<T> data)
 {
     int N = data.size();
     int minrun = GetMinrun(N);
-    int Index = 0;
-    int nextIndex = Index + 1;
+    int Index = 1;
+    int prevIndex = Index - 1;
     vector <pair<int, int>> minruns;
 
     while (Index < N)
     {
-        int RunStart = Index;
-        int RunEnd = Index;
+        int RunStart = prevIndex;
+        int RunEnd = prevIndex;
         bool IsIncreasing = false;
         // выбор рана
-        while (data[Index] < data[nextIndex] && nextIndex < N - 1 )
+        while (data[prevIndex] < data[Index])
         {
             Index++;
-            nextIndex++;
+            prevIndex++;
             IsIncreasing = true;
-            RunEnd = Index;
-        }
-        while (data[Index] > data[nextIndex] && nextIndex < N - 1 && !IsIncreasing)
-        {
-            Index++;
-            nextIndex++;
-            RunEnd = nextIndex;
+            if (Index >= N)
+                break;
         }
         if (!IsIncreasing)
         {
+            while (data[prevIndex] > data[Index])
+            {
+                Index++;
+                prevIndex++;
+                if (Index >= N)
+                    break;
+            }
+            RunEnd = prevIndex;
             reflect(data, RunStart, RunEnd);
-            Index = RunEnd;
         }
-        if (Index - RunStart < minrun && Index < N)
+        RunEnd = prevIndex;
+        if (RunEnd - RunStart + 1 < minrun)
         {
-            if (N - minrun < Index)
+            if (N - 1 - minrun < Index)
                 RunEnd = N-1;
             else
-                RunEnd = RunStart + minrun;
+                RunEnd = RunStart + minrun - 1;
             insertionSort(data, RunStart, RunEnd);
         }
-        Index = RunEnd + 1;
-        nextIndex = Index +1;
+        prevIndex = RunEnd + 1;
+        Index = prevIndex + 1;
         // добавление информации о длине рана и начальном элементе
         minruns.push_back(make_pair(RunStart, RunEnd - RunStart + 1));
     }

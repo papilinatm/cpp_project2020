@@ -1,24 +1,12 @@
 #include <vector>
 #include <algorithm>
-#include "DataGenerators.h"
+#include "DataSets.h"
 
 using namespace std;
 
-vector<int> MyGenerate(int size) {
-	vector<int> data(size);
-	for (int& i : data) {
-		i = 156446465141;
-	}
-	return data;
-}
-vector <int> GenerateBestDataRadixLSD(int size) {
-    vector <int>data(size);
-    for (int& i : data)
-        i = rand() % 10;
-    return data;
-}
+
 // GENERATORS OF DIFFERENT INPUT DATA SCENARIOS FOR TIMSORT
-vector<int> GenerateNormalDataTimsort(int size)
+vector<int> LaputinTeamGenerateNormalDataTimsort(int size)
 {
     vector<int> data;
     while (data.size() < size)
@@ -33,13 +21,7 @@ vector<int> GenerateNormalDataTimsort(int size)
     data.resize(size);
     return data;
 }
-vector <int> GenerateWorstDataRadixLSD(int size) {
-    vector <int>data(size);
-    for (int& i : data)
-        i = 1000000 + rand() % 8000000;
-    return data;
-}
-vector<int> GenerateBestDataTimsort(int size)
+vector<int> LaputinTeamGenerateBestDataTimsort(int size)
 {
     int i = INT_MAX;
     vector<int> data(size);
@@ -47,8 +29,7 @@ vector<int> GenerateBestDataTimsort(int size)
         d = i--;
     return data;
 }
-
-vector<int> GenerateWorstDataTimsort(int size)
+vector<int> LaputinTeamGenerateWorstDataTimsort(int size)
 {
     int i = 2 + rand() / INT_MAX;
     vector<int> data(size);
@@ -60,22 +41,34 @@ vector<int> GenerateWorstDataTimsort(int size)
     }
     return data;
 }
-vector <int> GenerateNormalDataRadixLSD(int size) {
+
+vector <int> LaputinTeamGenerateBestDataRadixLSD(int size) {
+    vector <int>data(size);
+    for (int& i : data)
+        i = rand() % 10;
+    return data;
+}
+vector <int> LaputinTeamGenerateWorstDataRadixLSD(int size) {
+    vector <int>data(size);
+    for (int& i : data)
+        i = 1000000 + rand() % 8000000;
+    return data;
+}
+vector <int> LaputinTeamGenerateNormalDataRadixLSD(int size) {
 	vector <int>data(size);
 	for (int& i : data)
 		i = 1000 + rand() %8000;
 	return data;
 }
 
-vector<int> GenerateBestDataQuicksort(int size) {
+vector<int> LaputinTeamGenerateBestDataQuicksort(int size) {
     vector<int> data(size);
     for (int& i : data) {//если идет разбиение на n/2 и n/2-1 элементов каждый раз(или близко к этому)
        i = i = 100 + rand() % 5000;
     }
     return data;
 }
-
-vector<int> GenerateNormalDataQuicksort(int size) {
+vector<int> LaputinTeamGenerateNormalDataQuicksort(int size) {
     vector<int> data(size);
     for (int& i : data) {
         i = 100 + rand() % 5000;
@@ -83,8 +76,7 @@ vector<int> GenerateNormalDataQuicksort(int size) {
 
     return data;
 }
-
-vector<int> GenerateWorstDataQuicksort(int size) { // если идет разбиение на n-1 и 0 элементов каждый раз
+vector<int> LaputinTeamGenerateWorstDataQuicksort(int size) { // если идет разбиение на n-1 и 0 элементов каждый раз
     vector<int> data(size);
     for (int& i : data){
         i = 100 + rand() % 5000;
