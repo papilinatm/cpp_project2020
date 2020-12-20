@@ -1,9 +1,9 @@
-﻿#include <iostream>
-#include <vector>
+﻿#include <vector>
 
 using namespace std;
 
-void max_heapify(std::vector<int>& arr, int i, int size_)
+template <typename T>
+void max_heapify(std::vector<T>& arr, int i, int size_)
 {
 	int largest, l = (2 * i) + 1, r = l + 1;
 	if (l < size_ && arr[l] > arr[i])
@@ -26,9 +26,8 @@ void max_heapify(std::vector<int>& arr, int i, int size_)
 }
 
 
-vector<int> HeapSortRecursion(std::vector<int> arr)
+vector<int> HeapSortRecursionByKulagina(std::vector<int> arr)
 {
-	vector<int> Stack;
 	for (int i = (arr.size() / 2); i >= 0; i--)
 	{
 		max_heapify(arr, i, arr.size());
@@ -42,7 +41,19 @@ vector<int> HeapSortRecursion(std::vector<int> arr)
 	}
 	return arr;
 }
-int main()
-{
 
+vector<double> HeapSortRecursionByKulagina(std::vector<double> arr)
+{
+	for (int i = (arr.size() / 2); i >= 0; i--)
+	{
+		max_heapify(arr, i, arr.size());
+	}
+	int sz = arr.size();
+	for (int i = arr.size() - 1; i > 0; i--)
+	{
+		std::swap(arr[0], arr[i]);
+		sz--;
+		max_heapify(arr, 0, sz);
+	}
+	return arr;
 }

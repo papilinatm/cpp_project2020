@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="countingSortByTkachev.cpp" />
+    <ClCompile Include="HeapSortByKulagina.cpp" />
     <ClCompile Include="merge_sort_by_Kotova.cpp" />
     <ClCompile Include="Quick_Sort_by_Karyagin.cpp" />
     <ClCompile Include="sort_race.cpp" />

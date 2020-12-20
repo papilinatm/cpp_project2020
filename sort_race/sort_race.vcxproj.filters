@@ -36,6 +36,9 @@
     <ClCompile Include="merge_sort_by_Kotova.cpp">
       <Filter>Исходные файлы\TkachevTeam</Filter>
     </ClCompile>
+    <ClCompile Include="HeapSortByKulagina.cpp">
+      <Filter>Исходные файлы\TkachevTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">
