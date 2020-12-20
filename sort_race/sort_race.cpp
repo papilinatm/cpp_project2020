@@ -1,4 +1,4 @@
-﻿// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <vector>
@@ -8,6 +8,12 @@
 #include <iostream>
 #include "DataSetRegister.h"
 #include "Participants.h"
+
+#include"BitonicSort_Sharnin.h"
+#include"MergeSort_Shuranskiy.h"
+#include"HeapSort_Gabrielian.h"
+#include"QuickSort_Pashayan.h"
+
 
 using namespace std;
 
@@ -36,11 +42,26 @@ int main()
         auto& data = ds.data;
         RUN(std_sort);
 
+        //PolyakovTeam
         RUN(merge_sort_by_iliushik);
-        //run your method here
         RUN(heapsort_by_polyakov);
         RUN(quick_sort_by_Shabalinov);
         RUN(shellsort_by_kamenshchikov);
+
+        //AhmatzyanovTeam
+        RUN(binaryheap_by_Salikhova);
+        RUN(tim_sort_by_Taishev);
+        RUN(quickSort_by_Ahmatzyanov);
+        RUN(merge_sort_by_Burlin);
+        RUN(combSort_by_Ismailova);
+        //ShuranskyTeam
+        RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
+        //run your method here
+
+
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -52,12 +73,25 @@ int main()
         auto& data = ds.data;
         RUN(sort_for_integers_only);
 
+        //PolyakovTeam
         RUN(merge_sort_by_iliushik);
-        //run your method here
         RUN(heapsort_by_polyakov);
         RUN(quick_sort_by_Shabalinov);
         RUN(shellsort_by_kamenshchikov);
-
+      
+        //AhmatzyanovTeam
+        RUN(binaryheap_by_Salikhova);
+        RUN(tim_sort_by_Taishev);
+        RUN(quickSort_by_Ahmatzyanov);
+        RUN(merge_sort_by_Burlin);
+        //ShuranskyTeam
+        RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
+        //run your method here
+      
+      
 
         cout << endl << "**************************" << endl << endl;
     }
