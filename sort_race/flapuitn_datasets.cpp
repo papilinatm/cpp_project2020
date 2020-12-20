@@ -63,23 +63,23 @@ vector <int> LaputinTeamGenerateNormalDataRadixLSD(int size) {
 
 vector<int> LaputinTeamGenerateBestDataQuicksort(int size) {
     vector<int> data(size);
-    for (int& i : data) {//если идет разбиение на n/2 и n/2-1 элементов каждый раз(или близко к этому)
-       i = i = 100 + rand() % 5000;
+    for (int& i : data) {//если идет разбиение на n/2 и n/2-1 элементов каждый раз(или близко к этому), случайный набор данных в большинстве случаев дает результат близкий к лучшему
+        i = i = 100 + rand() % 500;
     }
     return data;
 }
-vector<int> LaputinTeamGenerateNormalDataQuicksort(int size) {
+vector<int> LaputinTeamGenerateNormalDataQuicksort(int size) {//случайный набор данных в большинстве случае дает результат близкий к лучшему
     vector<int> data(size);
     for (int& i : data) {
-        i = 100 + rand() % 5000;
+        i = 100 + rand() % 500;
     }
 
     return data;
 }
 vector<int> LaputinTeamGenerateWorstDataQuicksort(int size) { // если идет разбиение на n-1 и 0 элементов каждый раз
     vector<int> data(size);
-    for (int& i : data){
-        i = 100 + rand() % 5000;
+    for (int& i : data) {                                        //если опорный элемент всегда наибольший или наименьший
+        i = 1 + rand() % 2;                                  //если массив состоит из множества повтор€ющихс€ элементов
     }
     sort(data.begin(), data.end());
     return data;
