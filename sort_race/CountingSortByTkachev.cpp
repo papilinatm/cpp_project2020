@@ -15,9 +15,9 @@ vector<int> countingSortByTkachev(vector<int> data)
 	vector<int> count(max + 1, 0);
 	for (int elem : data)
 	{
-		if (elem < 0) // если хоть один элемент является отрицательным, то сортировка именно этим способом невозможна
+		if (elem < 0) // if even one number is negative, sorting by this algorithm is impossible
 		{
-			return data;
+			return { 1, 0 }; // return this to confirm that counting sort doesn't works (even when "data" is sorted before using this algorithm)
 		}
 		++count[elem];
 	}
@@ -34,6 +34,6 @@ vector<int> countingSortByTkachev(vector<int> data)
 }
 
 vector<double> countingSortByTkachev(vector<double> data)
-{// невыполнима для нецелых чисел
-	return data;
+{// also impossible for any floating point values
+	return { 1, 0 };
 }
