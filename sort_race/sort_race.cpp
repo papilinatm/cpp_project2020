@@ -88,5 +88,4 @@ int main()
       
         cout << endl << "**************************" << endl << endl;
     }
-    system("pause");
 }
