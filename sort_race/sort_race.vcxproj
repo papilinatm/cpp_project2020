@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="quickSortBySimonov.cpp" />
+    <ClCompile Include="shellSortByChiganov.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />

@@ -12,6 +12,8 @@ std::vector<double> sort_for_integers_only(std::vector<double> data);
 //------------------------Team Simonov---------------------------
 std::vector <int> quicksort_By_Simonov(std::vector<int> data);
 std::vector <double> quicksort_By_Simonov(std::vector<double> data);
+std::vector <int> shellsort_By_Chiganov(std::vector<int> data);
+std::vector <double> shellsort_By_Chiganov(std::vector<double> data);
 //---------------------------------------------------------------
 //place your method name here
 
