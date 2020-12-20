@@ -41,6 +41,9 @@
     <ClInclude Include="QuickSort_by_Ageenko.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">

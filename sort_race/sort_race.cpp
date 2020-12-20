@@ -41,6 +41,7 @@ int main()
         RUN(QuickSort_by_Ageenko);
         RUN(RadixSortLSD_by_Absalyamov);
         RUN(Timsort_by_Seregin);
+        RUN(Merge_sort_by_Niyazmuhammedow);
         //run your method here
 
 
@@ -58,6 +59,7 @@ int main()
         RUN(QuickSort_by_Ageenko);
         RUN(RadixSortLSD_by_Absalyamov);
         RUN(Timsort_by_Seregin);
+        RUN(Merge_sort_by_Niyazmuhammedow);
         //run your method here
 
 
