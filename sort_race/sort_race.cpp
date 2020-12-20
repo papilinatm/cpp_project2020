@@ -39,6 +39,7 @@ int main()
         // Tkachev Team
         RUN(countingSortByTkachev);
         RUN(QuickSortByKaryagin);
+        RUN(merge_sort_by_Kotova);
         //run your method here
 
 
@@ -55,6 +56,7 @@ int main()
         // Tkachev Team
         RUN(countingSortByTkachev);
         RUN(QuickSortByKaryagin);
+        RUN(merge_sort_by_Kotova);
         //run your method here
 
 

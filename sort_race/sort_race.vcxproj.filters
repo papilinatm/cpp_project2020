@@ -33,6 +33,9 @@
     <ClCompile Include="Quick_Sort_by_Karyagin.cpp">
       <Filter>Исходные файлы\TkachevTeam</Filter>
     </ClCompile>
+    <ClCompile Include="merge_sort_by_Kotova.cpp">
+      <Filter>Исходные файлы\TkachevTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">

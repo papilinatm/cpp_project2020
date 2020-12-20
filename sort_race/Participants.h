@@ -12,4 +12,6 @@ std::vector<int> countingSortByTkachev(std::vector<int> data);
 std::vector<double> countingSortByTkachev(std::vector<double> data);
 std::vector<int> QuickSortByKaryagin(std::vector<int> data);
 std::vector<double> QuickSortByKaryagin(std::vector<double> data);
+std::vector<int> merge_sort_by_Kotova(std::vector<int> data);
+std::vector<double> merge_sort_by_Kotova(std::vector<double> data);
 //place your method name here

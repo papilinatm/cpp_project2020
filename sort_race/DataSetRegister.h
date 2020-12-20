@@ -16,8 +16,9 @@ std::vector<DataSet<int>> GenerateIntDataSets()
         { "random integer", GenerateData(1000) },
 
         //TkachevTeam data sets
-        { "good case for counting sort by Tkachev", GenerateData(1000 , 50) }// less "max(data)" - better 
+        { "good case for counting sort by Tkachev", GenerateData(1000 , 50) },// less "max(data)" - better 
         //(but it would have been uninteresting to other participants, if I'd setted 3 e.g.)
+        { "bad case quick sort by Karyagin ", BadForKaryaginTkachevTeam(100) },// pre-sorted
     };
 }
 std::vector<DataSet<double>> GenerateDoubleDataSets()
