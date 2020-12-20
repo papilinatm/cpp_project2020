@@ -3,8 +3,8 @@
 using namespace std;
 
 template<typename T>
-int partition(vector<T>& data, int low, int high){
-    T l = data[low];         //выбираем опорный элемент как медиану трех
+int partition_Ageenko(vector<T>& data, int low, int high){
+    T l = data[low];         
     T pivot = l;
     T r = data[high];
     T m = data[(low + high) / 2];
@@ -28,19 +28,19 @@ int partition(vector<T>& data, int low, int high){
     }
 }
 template<typename T> 
-void quickSort(vector<T>& data, int low, int high)
+void quickSort_Ageenko(vector<T>& data, int low, int high)
 {
     if (low < high) {
-        int pi = partition(data, low, high);
-        quickSort(data, low, pi);
-        quickSort(data, pi + 1, high);
+        int pi = partition_Ageenko(data, low, high);
+        quickSort_Ageenko(data, low, pi);
+        quickSort_Ageenko(data, pi + 1, high);
     }
 }
 
 
 template<typename T>
 vector<T> QuickSort_by_Ageenko(vector<T> data) {
-    quickSort(data, 0, data.size() - 1);
+    quickSort_Ageenko(data, 0, data.size() - 1);
     return data;
 }
 
