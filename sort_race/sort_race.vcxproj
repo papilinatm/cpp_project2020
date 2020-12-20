@@ -150,6 +150,7 @@
     <ClCompile Include="heap_sort_by_Polyakov.cpp" />
     <ClCompile Include="merge_sort_by_Iliushik.cpp" />
     <ClCompile Include="sort_race.cpp" />
+    <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
   </ItemGroup>

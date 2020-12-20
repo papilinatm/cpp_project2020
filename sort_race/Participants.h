@@ -13,3 +13,6 @@ std::vector<double> heapsort_by_polyakov(std::vector<double> to_sort);
 
 std::vector<int> merge_sort_by_iliushik(std::vector<int> data);
 std::vector<double> merge_sort_by_iliushik(std::vector<double> data);
+
+std::vector<double> quick_sort_by_Shabalinov(std::vector<double> data);
+std::vector<int> quick_sort_by_Shabalinov(std::vector<int> data);
