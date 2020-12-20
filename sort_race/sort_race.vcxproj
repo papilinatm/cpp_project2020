@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="InsertsortBySafonov.cpp" />
     <ClCompile Include="quickSortBySimonov.cpp" />
     <ClCompile Include="shellSortByChiganov.cpp" />
     <ClCompile Include="sort_race.cpp" />

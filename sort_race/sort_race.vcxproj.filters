@@ -14,6 +14,9 @@
     <ClCompile Include="shellSortByChiganov.cpp">
       <Filter>SimonovTeam</Filter>
     </ClCompile>
+    <ClCompile Include="InsertsortBySafonov.cpp">
+      <Filter>SimonovTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

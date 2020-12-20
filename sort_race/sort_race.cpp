@@ -39,6 +39,7 @@ int main()
         //SimonovTeam
         RUN(quicksort_By_Simonov);
         RUN(shellsort_By_Chiganov);
+        RUN(insertsort_by_Safonov);
         //run your method here
 
         cout << endl << "**************************" << endl << endl;
@@ -53,6 +54,7 @@ int main()
         //SimonovTeam
         RUN(quicksort_By_Simonov);
         RUN(shellsort_By_Chiganov);
+        RUN(insertsort_by_Safonov);
         //run your method here
 
         cout << endl << "**************************" << endl << endl;
