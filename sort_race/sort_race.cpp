@@ -38,6 +38,7 @@ int main()
         
         // Tkachev Team
         RUN(countingSortByTkachev);
+        RUN(QuickSortByKaryagin);
         //run your method here
 
 
@@ -53,6 +54,7 @@ int main()
         
         // Tkachev Team
         RUN(countingSortByTkachev);
+        RUN(QuickSortByKaryagin);
         //run your method here
 
 

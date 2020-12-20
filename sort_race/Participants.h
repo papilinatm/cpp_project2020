@@ -10,4 +10,6 @@ std::vector<double> sort_for_integers_only(std::vector<double> data);
 //Tkachev Team
 std::vector<int> countingSortByTkachev(std::vector<int> data);
 std::vector<double> countingSortByTkachev(std::vector<double> data);
+std::vector<int> QuickSortByKaryagin(std::vector<int> data);
+std::vector<double> QuickSortByKaryagin(std::vector<double> data);
 //place your method name here
