@@ -33,6 +33,9 @@
     <ClCompile Include="quick_sort_by_Shabalinov.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">

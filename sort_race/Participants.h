@@ -10,6 +10,8 @@ std::vector<int> heapsort_by_polyakov(std::vector<int> to_sort);
 std::vector<double> heapsort_by_polyakov(std::vector<double> to_sort);
 
 //place your method name here
+std::vector<int> shellsort_by_kamenshchikov(std::vector<int> to_sort);
+std::vector<double> shellsort_by_kamenshchikov(std::vector<double> to_sort);
 
 std::vector<int> merge_sort_by_iliushik(std::vector<int> data);
 std::vector<double> merge_sort_by_iliushik(std::vector<double> data);

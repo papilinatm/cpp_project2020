@@ -40,6 +40,7 @@ int main()
         //run your method here
         RUN(heapsort_by_polyakov);
         RUN(quick_sort_by_Shabalinov);
+        RUN(shellsort_by_kamenshchikov);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -55,6 +56,7 @@ int main()
         //run your method here
         RUN(heapsort_by_polyakov);
         RUN(quick_sort_by_Shabalinov);
+        RUN(shellsort_by_kamenshchikov);
 
 
         cout << endl << "**************************" << endl << endl;
