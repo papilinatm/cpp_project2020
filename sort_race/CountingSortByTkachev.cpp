@@ -2,27 +2,29 @@
 
 using namespace std;
 
-vector<int> CountingSortByTkachev(vector<int> data)
+vector<int> countingSortByTkachev(vector<int> data)
 {
 	int max = data[0];
-	for (size_t i = 0; i < data.size(); i++)
+	for (int i = 1; i < data.size(); i++)
 	{
-		max = (data[i] > max) ? data[i] : max;
-		if (data[i] < 0)
+		if (data[i] > max)
 		{
-			return data; // не может работать с массивами, где есть хоть одно отрицательное число
+			max = data[i];
 		}
 	}
-	vector<int> c;
-	c.resize(max + 1);
+	vector<int> count(max + 1, 0);
 	for (int elem : data)
 	{
-		++c[elem];
+		if (elem < 0) // если хоть один элемент является отрицательным, то сортировка именно этим способом невозможна
+		{
+			return data;
+		}
+		++count[elem];
 	}
-	int b = 0;
-	for (size_t i = 0; i < c.size(); i++)
+	size_t b = 0;
+	for (size_t i = 0; i < count.size(); i++)
 	{
-		for (size_t j = 0; j < c[i]; j++)
+		for (size_t j = 0; j < count[i]; j++)
 		{
 			data[b] = i;
 			b++;
@@ -31,7 +33,7 @@ vector<int> CountingSortByTkachev(vector<int> data)
 	return data;
 }
 
-vector<double> CountingSortByTkachev(vector<double> data)
-{
-	return data; // не будет работать с double, так как принципиально построен на располжении кол-ва чисел в соответствующий элемент массива
+vector<double> countingSortByTkachev(vector<double> data)
+{// невыполнима для нецелых чисел
+	return data;
 }

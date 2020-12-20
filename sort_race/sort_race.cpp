@@ -1,37 +1,85 @@
-﻿// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <array>
 #include <vector>
+
+#include <chrono>
+#include <algorithm>
 #include <string>
+#include <iostream>
+#include "DataSetRegister.h"
+#include "Participants.h"
+#include"BitonicSort_Sharnin.h"
+#include"MergeSort_Shuranskiy.h"
+#include"HeapSort_Gabrielian.h"
+#include"QuickSort_Pashayan.h"
 
 using namespace std;
-
-vector<int> GenerateData(int size, int max_value = INT_MAX);
-using Participant = std::vector<int>(*)(std::vector<int>);
-void Run(string method_name, Participant p, vector<int> data);
-
 
 #define RUN(x) {                \
     Run(#x, x, data);           \
 }
+template <typename T>
+void Run(string method_name, Participant<T> p, vector<T> data)
+{
+    auto start = chrono::system_clock::now();
+    vector<T> res = p(data);
+    auto stop = chrono::system_clock::now();
+    auto time = chrono::duration_cast<chrono::microseconds>(stop - start).count();
 
-//place your method name here
-vector<int> std_sort(vector<int>);
-vector <int> TimSortByTkachev(vector<int>);
-vector <int> CountingSortByTkachev(vector<int>);
-vector <int> QuickSortByKaryagin(vector<int>);
+    cout << method_name << "\t"
+        << data.size() << "\t"
+        << (is_sorted(res.begin(), res.end()) ? to_string(time) + "\tmcs" : "failed") << endl;
+}
 
 int main()
 {
-    const array<int, 4> N = { 10, 1'000, 10'000, 1'000'000 };
-    for (int n : N)
+    auto intDataSets = GenerateIntDataSets();
+    for (auto& ds : intDataSets)
     {
-        auto data = GenerateData(n);
+        cout << ds.description << endl << endl;
+        auto& data = ds.data;
         RUN(std_sort);
-        RUN(TimSortByTkachev);
-        RUN(CountingSortByTkachev);
-        RUN(QuickSortByKaryagin);
-		//run your method here
+        //AhmatzyanovTeam
+        RUN(binaryheap_by_Salikhova);
+        RUN(tim_sort_by_Taishev);
+        RUN(quickSort_by_Ahmatzyanov);
+        RUN(merge_sort_by_Burlin);
+        RUN(combSort_by_Ismailova);
+        //ShuranskyTeam
+        RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
+        //TkachevTeam
+        RUN(countingSortByTkachev);
+        //run your method here
+
+
+        cout << endl << "**************************" << endl << endl;
+    }
+
+    auto doubleDataSets = GenerateDoubleDataSets();
+    for (auto& ds : doubleDataSets)
+    {
+        cout << ds.description << endl << endl;
+        auto& data = ds.data;
+        RUN(sort_for_integers_only);
+        //AhmatzyanovTeam
+        RUN(binaryheap_by_Salikhova);
+        RUN(tim_sort_by_Taishev);
+        RUN(quickSort_by_Ahmatzyanov);
+        RUN(merge_sort_by_Burlin);
+        //ShuranskyTeam
+        RUN(MergeSortByShuranskiy);
+        RUN(QuickSort_Pashayan);
+        RUN(HeapSortByGabrielian);
+        RUN(BitonicSortBySharnin);
+        //TkachevTeam
+        RUN(countingSortByTkachev);
+        //run your method here
+      
+      
+        cout << endl << "**************************" << endl << endl;
     }
 }
