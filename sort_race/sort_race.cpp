@@ -41,6 +41,8 @@ int main()
         RUN(shellsort_By_Chiganov);
         RUN(insertsort_by_Safonov);
         RUN(mergeSort_by_Pulkov);
+        RUN(smooth_Samedov);
+        
         //run your method here
 
         cout << endl << "**************************" << endl << endl;
