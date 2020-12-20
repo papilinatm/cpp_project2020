@@ -16,6 +16,8 @@ std::vector <int> shellsort_By_Chiganov(std::vector<int> data);
 std::vector <double> shellsort_By_Chiganov(std::vector<double> data);
 std::vector <double> insertsort_by_Safonov(std::vector<double> data);
 std::vector <int> insertsort_by_Safonov(std::vector<int> data);
+std::vector <double> mergeSort_by_Pulkov(std::vector<double> data);
+std::vector <int> mergeSort_by_Pulkov(std::vector<int> data);
 //---------------------------------------------------------------
 //place your method name here
 

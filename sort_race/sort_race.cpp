@@ -40,6 +40,7 @@ int main()
         RUN(quicksort_By_Simonov);
         RUN(shellsort_By_Chiganov);
         RUN(insertsort_by_Safonov);
+        RUN(mergeSort_by_Pulkov);
         //run your method here
 
         cout << endl << "**************************" << endl << endl;
@@ -55,6 +56,7 @@ int main()
         RUN(quicksort_By_Simonov);
         RUN(shellsort_By_Chiganov);
         RUN(insertsort_by_Safonov);
+        RUN(mergeSort_by_Pulkov);
         //run your method here
 
         cout << endl << "**************************" << endl << endl;
