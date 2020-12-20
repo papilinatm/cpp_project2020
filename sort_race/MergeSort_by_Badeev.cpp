@@ -62,12 +62,12 @@ void MergeSort(vector <T>& a, int first, int last) {
 		return;
 }
 
-vector<int> int_myMergeSort(vector<int> mas) {
+vector<int> MergeSort_by_Badeev(vector<int> mas) {
 	MergeSort(mas, 0, (int)mas.size() - 1);
 	return mas;
 }
 
-vector<double> double_myMergeSort(vector<double> mas) {
+vector<double> MergeSort_by_Badeev(vector<double> mas) {
 	MergeSort(mas, 0, (int)mas.size() - 1);
 	return mas;
 }

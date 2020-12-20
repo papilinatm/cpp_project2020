@@ -1,65 +1,60 @@
 ﻿// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
-#include <iostream>
-#include <array>
+
 #include <vector>
+
+#include <chrono>
+#include <algorithm>
 #include <string>
+#include <iostream>
+#include "DataSetRegister.h"
+#include "Participants.h"
 
 using namespace std;
-
-vector<int> GenerateData(int size, int max_value = INT_MAX);
-vector<double> GenerateDoubleData(int size);
-vector<int> GenerateNegativeData(int size, int max_value = INT_MAX);
-
-using Participant = std::vector<int>(*)(std::vector<int>);
-using ParticipantDouble = std::vector<double>(*)(std::vector<double>);
-
-void Run(string method_name, Participant p, vector<int> data);
-void RunForDoubles(string method_name, ParticipantDouble p, vector<double> data);
-
-int GetCorrectNumber(std::string text, int min, int max);
-
 
 #define RUN(x) {                \
     Run(#x, x, data);           \
 }
+template <typename T>
+void Run(string method_name, Participant<T> p, vector<T> data)
+{
+    auto start = chrono::system_clock::now();
+    vector<T> res = p(data);
+    auto stop = chrono::system_clock::now();
+    auto time = chrono::duration_cast<chrono::microseconds>(stop - start).count();
 
-#define RUNDOUBLE(x) {                \
-    RunForDoubles(#x, x, data);       \
-}   
-
-vector<double> double_myMergeSort(vector<double> mas);
-vector<int> std_sort_for_integers(vector<int>);
-vector<int> int_myMergeSort(vector<int> mas);
-vector<double> std_sort_for_doubles(vector<double> data);
+    cout << method_name << "\t"
+        << data.size() << "\t"
+        << (is_sorted(res.begin(), res.end()) ? to_string(time) + "\tmcs" : "failed") << endl;
+}
 
 int main()
 {
-    const array<int, 4> N = { 10, 1'000, 10'000, 1'000'000 };
-    cout << "1 - sort integer array" << endl << "2 - sort doudle array" << endl << "3 - sort negative array" << endl;
-    int Choise = GetCorrectNumber("Action", 1, 3);
-    if (Choise == 1) {
-        for (int n : N)
-        {
-            auto data = GenerateData(n);
-            RUN(std_sort_for_integers);
-            RUN(int_myMergeSort);
-        }
+    auto intDataSets = GenerateIntDataSets();
+    for (auto& ds : intDataSets)
+    {
+        cout << ds.description << endl << endl;
+        auto& data = ds.data;
+        RUN(std_sort);
+        //BaveevTeam
+        RUN(MergeSort_by_Badeev);
+        //run your method here
+
+
+        cout << endl << "**************************" << endl << endl;
     }
-    if (Choise == 2) {
-        for (int n : N)
-        {
-            auto data = GenerateDoubleData(n);
-            RUNDOUBLE(std_sort_for_doubles);
-            RUNDOUBLE(double_myMergeSort);
-        }
-    }
-    if (Choise == 3) {
-        for (int n : N)
-        {
-            auto data = GenerateNegativeData(n);
-            RUN(std_sort_for_integers);
-            RUN(int_myMergeSort);
-        }
+
+    auto doubleDataSets = GenerateDoubleDataSets();
+    for (auto& ds : doubleDataSets)
+    {
+        cout << ds.description << endl << endl;
+        auto& data = ds.data;
+        RUN(sort_for_integers_only);
+        //BaveevTeam
+        RUN(MergeSort_by_Badeev);
+        //run your method here
+
+
+        cout << endl << "**************************" << endl << endl;
     }
 }
