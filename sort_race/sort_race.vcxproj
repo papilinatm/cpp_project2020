@@ -155,6 +155,7 @@
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
     <ClInclude Include="DataSets.h" />
+    <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h" />
     <ClInclude Include="Participants.h" />
   </ItemGroup>
   <ItemGroup>
