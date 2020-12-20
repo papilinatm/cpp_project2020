@@ -27,4 +27,6 @@ std::vector <int> ShellSort_by_Skriplyuk(std::vector<int> data);
 std::vector <double> ShellSort_by_Skriplyuk(std::vector<double> data);
 std::vector <int> mergeSortByMalakhov(std::vector<int> arr);
 std::vector <double> mergeSortByMalakhov(std::vector<double> arr);
+std::vector <int> quickSortbyMaltsev(std::vector<int> arr);
+std::vector <double> quickSortbyMaltsev(std::vector<double> arr);
 

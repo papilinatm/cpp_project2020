@@ -55,6 +55,7 @@ int main()
         RUN(CombSortByKononenko);
         RUN(ShellSort_by_Skriplyuk);
         RUN(mergeSortByMalakhov);
+        RUN(quickSortbyMaltsev);
         //run your method here
 
 
@@ -81,9 +82,11 @@ int main()
         RUN(CombSortByKononenko);
         RUN(ShellSort_by_Skriplyuk);
         RUN(mergeSortByMalakhov);
+        RUN(quickSortbyMaltsev);
         //run your method here
       
       
         cout << endl << "**************************" << endl << endl;
     }
+    system("pause");
 }

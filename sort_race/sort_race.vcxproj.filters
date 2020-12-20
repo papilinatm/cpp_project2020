@@ -32,6 +32,9 @@
     <ClCompile Include="mergeSortByMalakhov.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
+    <ClCompile Include="QuicksortbyMaltsev.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
