@@ -38,6 +38,8 @@ int main()
         RUN(std_sort);
         //BaveevTeam
         RUN(MergeSort_by_Badeev);
+        RUN(int_QuickSort_by_Knyazkin);
+        RUN(CombSortInt_Schekotovskaya);
         //run your method here
 
 
@@ -52,6 +54,8 @@ int main()
         RUN(sort_for_integers_only);
         //BaveevTeam
         RUN(MergeSort_by_Badeev);
+        //RUN(double_QuickSort_by_Knyazkin);
+        RUN(CombSortDouble_Schekotovskaya);
         //run your method here
 
 

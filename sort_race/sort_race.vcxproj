@@ -147,7 +147,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CombSort_by_Schekotovskaya.cpp" />
     <ClCompile Include="MergeSort_by_Badeev.cpp" />
+    <ClCompile Include="QuickSort_by_Knyazkin.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
@@ -155,7 +157,6 @@
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
     <ClInclude Include="DataSets.h" />
-    <ClInclude Include="Header.h" />
     <ClInclude Include="Participants.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

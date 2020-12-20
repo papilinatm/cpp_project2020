@@ -1,3 +1,4 @@
+#pragma once
 #include <vector>
 
 template <typename T>
@@ -11,7 +12,11 @@ std::vector<double> sort_for_integers_only(std::vector<double> data);
 //--------------------Team Badeev---------------------------
 std::vector<int> MergeSort_by_Badeev(std::vector<int> mas);
 std::vector<double> MergeSort_by_Badeev(std::vector<double> mas);
+std::vector<int> CombSortInt_Schekotovskaya(std::vector<int> data);
+std::vector<double> CombSortDouble_Schekotovskaya(std::vector<double> data);
+std::vector<int> int_QuickSort_by_Knyazkin(std::vector<int> data);
+//std::vector<double> double_QuickSort_by_Knyazkin(std::vector<double> data);
 //---------------------------------------------------------------
 //place your method name here
 
-#pragma once
+
