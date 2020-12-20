@@ -1,6 +1,5 @@
 #pragma once
 #include <vector>
-
 template <typename T>
 using Participant = std::vector<T>(*)(std::vector<T>);
 
@@ -21,4 +20,7 @@ std::vector<double> merge_sort_by_Burlin(std::vector<double> data);
 std::vector <int> combSort_by_Ismailova(std::vector<int> data);
 //---------------------------------------------------------------
 //place your method name here
+//--------------------Team Kononenko---------------------------
+std::vector <int> CombSortByKononenko(std::vector<int> data);
+std::vector <double> CombSortByKononenko(std::vector<double> data);
 

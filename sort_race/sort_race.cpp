@@ -51,7 +51,8 @@ int main()
         RUN(QuickSort_Pashayan);
         RUN(HeapSortByGabrielian);
         RUN(BitonicSortBySharnin);
-        //test
+        //KononenkoTeam
+        RUN(CombSortByKononenko);
         //run your method here
 
 
@@ -74,6 +75,8 @@ int main()
         RUN(QuickSort_Pashayan);
         RUN(HeapSortByGabrielian);
         RUN(BitonicSortBySharnin);
+        //KononenkoTeam
+        RUN(CombSortByKononenko);
         //run your method here
       
       

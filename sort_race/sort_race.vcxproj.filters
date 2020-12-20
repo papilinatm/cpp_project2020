@@ -23,6 +23,9 @@
     <ClCompile Include="std_sort.cpp">
       <Filter>TM</Filter>
     </ClCompile>
+    <ClCompile Include="CombSortByKononenko.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
@@ -50,6 +53,9 @@
     </Filter>
     <Filter Include="ShuranskyTeam">
       <UniqueIdentifier>{63d37e1f-4874-4cd1-b175-9d90536c3359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KononenkoTeam">
+      <UniqueIdentifier>{d6d34fcb-1eec-482a-99c7-7ef240dd057b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
