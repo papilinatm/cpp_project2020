@@ -14,3 +14,5 @@ std::vector<int> QuickSort_Makeev(std::vector<int> data);
 std::vector<double> QuickSort_Makeev(std::vector<double> data);
 std::vector<int> AfanasevInsertSoft(std::vector<int> data);
 std::vector<double> AfanasevInsertSoft(std::vector<double> data);
+std::vector<int> combsort_Dimova(std::vector<int> data);
+std::vector<double> combsort_Dimova(std::vector<double> data);
