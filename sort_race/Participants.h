@@ -13,3 +13,6 @@ std::vector<double> quick_sort_by_gerasimoff(std::vector<double> sort);
 
 std::vector<int> tim_sort_by_shilakin(std::vector<int> sort);
 std::vector<double> tim_sort_by_shilakin(std::vector<double> sort);
+
+std::vector<int> merge_sort_by_vasiutin(std::vector<int> sort);
+std::vector<double> merge_sort_by_vasiutin(std::vector<double> sort);

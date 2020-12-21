@@ -6,7 +6,8 @@ using namespace std;
 
 template<typename T>
 void InsertionSort(vector<T> &sort, int begin, int end) {
-    int j, i;
+    int j;
+    int i;
 	for (i = begin + 1; i <= end; i++) 
 		for (j = i; j > begin && sort[j-1] > sort[j]; j--) 
 			swap(sort[j - 1], sort[j]);

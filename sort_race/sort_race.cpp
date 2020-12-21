@@ -38,6 +38,7 @@ int main()
         //run your method here
         RUN(quick_sort_by_gerasimoff);
         RUN(tim_sort_by_shilakin);
+        RUN(merge_sort_by_vasiutin);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -51,6 +52,7 @@ int main()
         //run your method here
         RUN(quick_sort_by_gerasimoff);
         RUN(tim_sort_by_shilakin);
+        RUN(merge_sort_by_vasiutin);
 
         cout << endl << "**************************" << endl << endl;
     }

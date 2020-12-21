@@ -147,6 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="merge_sort_by_Vasiutin.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_gerasimoff.cpp" />
     <ClCompile Include="std_sort.cpp" />
