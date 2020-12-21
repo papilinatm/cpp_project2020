@@ -5,20 +5,20 @@ using namespace std;
 vector<int> countingSortByTkachev(vector<int> data)
 {
 	int max = data[0];
-	for (int i = 1; i < data.size(); i++)
+	for (int i = 0; i < data.size(); i++)
 	{
 		if (data[i] > max)
 		{
 			max = data[i];
 		}
+		if (data[i] < 0) // if even one number is negative, sorting by this algorithm is impossible
+		{
+			return { 1, 0 }; // return this to confirm that counting sort doesn't works (even when "data" is sorted before using this algorithm)
+		}
 	}
 	vector<int> count(max + 1, 0);
 	for (int elem : data)
 	{
-		if (elem < 0) // if even one number is negative, sorting by this algorithm is impossible
-		{
-			return { 1, 0 }; // return this to confirm that counting sort doesn't works (even when "data" is sorted before using this algorithm)
-		}
 		++count[elem];
 	}
 	size_t b = 0;
