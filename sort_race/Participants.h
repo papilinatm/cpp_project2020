@@ -10,3 +10,6 @@ std::vector<double> sort_for_integers_only(std::vector<double> data);
 //place your method name here
 std::vector<int> quick_sort_by_gerasimoff(std::vector<int> sort);
 std::vector<double> quick_sort_by_gerasimoff(std::vector<double> sort);
+
+std::vector<int> tim_sort_by_shilakin(std::vector<int> sort);
+std::vector<double> tim_sort_by_shilakin(std::vector<double> sort);

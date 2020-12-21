@@ -37,6 +37,7 @@ int main()
         RUN(std_sort);
         //run your method here
         RUN(quick_sort_by_gerasimoff);
+        RUN(tim_sort_by_shilakin);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -49,6 +50,7 @@ int main()
         RUN(sort_for_integers_only);
         //run your method here
         RUN(quick_sort_by_gerasimoff);
+        RUN(tim_sort_by_shilakin);
 
         cout << endl << "**************************" << endl << endl;
     }

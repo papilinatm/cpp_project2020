@@ -150,6 +150,7 @@
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_gerasimoff.cpp" />
     <ClCompile Include="std_sort.cpp" />
+    <ClCompile Include="tim_sort_by_shilakin.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
   </ItemGroup>
   <ItemGroup>

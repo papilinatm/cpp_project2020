@@ -27,6 +27,9 @@
     <ClCompile Include="quick_sort_by_gerasimoff.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="tim_sort_by_shilakin.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">
