@@ -36,6 +36,9 @@
     <ClCompile Include="..\..\..\Users\HP\Downloads\Combsort_Dimova.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="SelectSort_Klisunova.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">

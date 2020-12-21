@@ -39,7 +39,8 @@ int main()
         RUN(ShellSort_Kirillov);
         RUN(QuickSort_Makeev);
         RUN(AfanasevInsertSoft);
-        RUN(combsort_Dimova);
+        RUN(Combsort_Dimova);
+        RUN(SelectSort_Klisunova);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -54,7 +55,8 @@ int main()
         RUN(ShellSort_Kirillov);
         RUN(QuickSort_Makeev);
         RUN(AfanasevInsertSoft);
-        RUN(combsort_Dimova);
+        RUN(Combsort_Dimova);
+        RUN(SelectSort_Klisunova);
 
         cout << endl << "**************************" << endl << endl;
     }

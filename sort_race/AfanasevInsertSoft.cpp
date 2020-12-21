@@ -7,13 +7,20 @@ bool larger(T aValue1, T aValue2)
 	return aValue1 > aValue2;
 }
 
+
 template<typename T>
 void insert_sort(vector<T>& aVector)
 {
 	unsigned end = aVector.size() - 1;
 	for (unsigned i = end; i > 0; --i)
 		if (larger<T>(aVector[i - 1], aVector[i]))
-			swap(aVector[i - 1], aVector[i]);
+		{
+			T tmp;
+			tmp = aVector[i-1];
+			aVector[i-1] = aVector[i];
+			aVector[i] = tmp;
+
+		}
 
 	for (unsigned i = 2; i <= end; ++i)
 	{
