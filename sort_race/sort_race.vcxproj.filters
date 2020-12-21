@@ -33,10 +33,10 @@
     <ClCompile Include="Quick_Sort_by_Karyagin.cpp">
       <Filter>Исходные файлы\TkachevTeam</Filter>
     </ClCompile>
-    <ClCompile Include="merge_sort_by_Kotova.cpp">
+    <ClCompile Include="HeapSortByKulagina.cpp">
       <Filter>Исходные файлы\TkachevTeam</Filter>
     </ClCompile>
-    <ClCompile Include="HeapSortByKulagina.cpp">
+    <ClCompile Include="Merge_sort_by_Kotova.cpp">
       <Filter>Исходные файлы\TkachevTeam</Filter>
     </ClCompile>
   </ItemGroup>
