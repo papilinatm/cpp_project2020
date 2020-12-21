@@ -1,3 +1,4 @@
+//https://drive.google.com/file/d/1NO-b1Yx4EfT1f1Eknq-YRfDqNcLW_o9i/view
 #include <vector>
 using namespace std;
 
@@ -16,37 +17,36 @@ vector<double> quick_sort_by_gerasimoff(vector<double> arr)
     return arr;
 }
 
-
 template<typename T>
 int delimiter(vector<T>& arr, int low, int high)
 {
-    auto pivot = arr[high];
-    int i = (low - 1);
+    auto pivot = arr[high]; 
+        int i = (low - 1);  
 
-    for (int j = low; j <= high - 1; j++)
+    for (int j = low; j <= high - 1; j++) 
     {
-        if (arr[j] < pivot)
+        if (arr[j] < pivot) 
         {
-            i++;
-            auto temp = arr[i];
+            i++; 
+            auto temp = arr[i];     
             arr[i] = arr[j];
             arr[j] = temp;
         }
     }
-    auto temp = arr[i + 1];
+    auto temp = arr[i + 1];  
     arr[i + 1] = arr[high];
     arr[high] = temp;
     return (i + 1);
 }
 
 template<typename T>
-void quick_sort(vector<T>& arr, int low, int high)
+void quick_sort(vector<T>& arr, int low, int high) 
 {
-    if (low < high)
+    if (low < high) 
     {
-        int delim = delimiter(arr, low, high);
+        int delim = delimiter(arr, low, high); 
 
-        quick_sort(arr, low, delim - 1);
-        quick_sort(arr, delim + 1, high);
+        quick_sort(arr, low, delim - 1);  
+        quick_sort(arr, delim + 1, high); 
     }
 }
