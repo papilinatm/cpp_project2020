@@ -12,3 +12,5 @@ std::vector<int> ShellSort_Kirillov(std::vector<int> data);
 std::vector<double> ShellSort_Kirillov(std::vector<double> data);
 std::vector<int> QuickSort_Makeev(std::vector<int> data);
 std::vector<double> QuickSort_Makeev(std::vector<double> data);
+std::vector<int> AfanasevInsertSoft(std::vector<int> data);
+std::vector<double> AfanasevInsertSoft(std::vector<double> data);

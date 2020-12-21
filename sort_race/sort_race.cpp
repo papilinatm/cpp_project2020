@@ -38,6 +38,7 @@ int main()
         //run your method here
         RUN(ShellSort_Kirillov);
         RUN(QuickSort_Makeev);
+        RUN(AfanasevInsertSoft);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -51,6 +52,7 @@ int main()
         //run your method here
         RUN(ShellSort_Kirillov);
         RUN(QuickSort_Makeev);
+        RUN(AfanasevInsertSoft);
 
         cout << endl << "**************************" << endl << endl;
     }
