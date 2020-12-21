@@ -15,6 +15,7 @@ void InsertionSort(vector<T> &sort, int begin, int end) {
 
 template<typename T>
 void merge(vector<T> &sort, int begin, int mid, int end){
+    if (mid > end) return;
     vector<T> left, right;
     int left_size = mid - begin + 1, right_size = end - mid;
     left.resize(left_size);
@@ -42,7 +43,7 @@ void merge(vector<T> &sort, int begin, int mid, int end){
 }
 
 vector<double> tim_sort_by_shilakin(vector<double> sort) {
-    int RUN = 32;
+    int RUN = 16;
     for (int i = 0; i < sort.size(); i += RUN)
         InsertionSort(sort, i, min((i + RUN - 1), int(sort.size() - 1)));
 
@@ -57,8 +58,7 @@ vector<double> tim_sort_by_shilakin(vector<double> sort) {
 }
 
 vector<int> tim_sort_by_shilakin(vector<int> sort) {
-    int RUN = 32;
-    
+    int RUN = 16;
     for (int i = 0; i < sort.size(); i += RUN)
         InsertionSort(sort, i, min((i + RUN-1), int(sort.size() - 1)));
 
