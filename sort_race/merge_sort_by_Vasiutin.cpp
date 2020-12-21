@@ -1,9 +1,9 @@
+//https://drive.google.com/drive/folders/1H6aRLBoLaRta_iDyv_hwVaUbvrj0D-eC?usp=sharing
 #include <vector>
 using namespace std;
 
 void merge(vector<int> &sort, int low, int mid, int high)
 {
-    //int high = sort.size() - 1;
     vector<int> temp;
     temp.resize(sort.size());
     int i = low;
