@@ -1,5 +1,9 @@
 #pragma once
 #include <vector>
+#include"BitonicSort_Sharnin.h"
+#include"MergeSort_Shuranskiy.h"
+#include"HeapSort_Gabrielian.h"
+#include"QuickSort_Pashayan.h"
 
 template <typename T>
 using Participant = std::vector<T>(*)(std::vector<T>);

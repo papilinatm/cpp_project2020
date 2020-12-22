@@ -9,10 +9,6 @@
 #include <iostream>
 #include "DataSetRegister.h"
 #include "Participants.h"
-#include"BitonicSort_Sharnin.h"
-#include"MergeSort_Shuranskiy.h"
-#include"HeapSort_Gabrielian.h"
-#include"QuickSort_Pashayan.h"
 
 using namespace std;
 
@@ -51,8 +47,6 @@ int main()
         RUN(QuickSort_Pashayan);
         RUN(HeapSortByGabrielian);
         RUN(BitonicSortBySharnin);
-        //run your method here
-
         //Shekhovtsova_team
         RUN(RadixSort_by_Shekhovtsova);
         RUN(QuickSort_Efimenko);
