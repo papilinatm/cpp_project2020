@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="binaryheap_bySalikhova.cpp">
       <Filter>AkhmatzyanovTeam</Filter>
     </ClCompile>
@@ -44,9 +43,12 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Исходные файлы\TkachevTeam">
-      <UniqueIdentifier>{a3dcfab6-4b98-4ccf-91d9-8f587af540e1}</UniqueIdentifier>
-    </Filter>
+    <ClCompile Include="sort_race.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="tm_datasets.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="std_sort.cpp">
@@ -79,13 +81,8 @@
     <ClCompile Include="QuicksortbyMaltsev.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
-    <ClInclude Include="DataSetRegister.h" />
-    <ClInclude Include="DataSets.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DataSetRegister.h" />
-    <ClInclude Include="DataSets.h" />
-    <ClInclude Include="Participants.h" />
     <ClInclude Include="BitonicSort_Sharnin.h">
       <Filter>ShuranskyTeam</Filter>
     </ClInclude>
@@ -98,7 +95,15 @@
     <ClInclude Include="QuickSort_Pashayan.h">
       <Filter>ShuranskyTeam</Filter>
     </ClInclude>
-    <ClInclude Include="Participants.h" />
+    <ClInclude Include="DataSets.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Participants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSetRegister.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="AkhmatzyanovTeam">
@@ -119,31 +124,20 @@
     <Filter Include="PolyakovTeam">
       <UniqueIdentifier>{6d76911f-cb06-4e79-a810-02f4a2ef2b1b}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="tm_datasets.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="countingSortByTkachev.cpp">
-      <Filter>Исходные файлы\TkachevTeam</Filter>
+      <Filter>TkachevTeam</Filter>
     </ClCompile>
     <ClCompile Include="Quick_Sort_by_Karyagin.cpp">
-      <Filter>Исходные файлы\TkachevTeam</Filter>
+      <Filter>TkachevTeam</Filter>
     </ClCompile>
     <ClCompile Include="HeapSortByKulagina.cpp">
-      <Filter>Исходные файлы\TkachevTeam</Filter>
+      <Filter>TkachevTeam</Filter>
     </ClCompile>
     <ClCompile Include="Merge_sort_by_Kotova.cpp">
-      <Filter>Исходные файлы\TkachevTeam</Filter>
+      <Filter>TkachevTeam</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="DataSets.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="Participants.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="DataSetRegister.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
+    <Filter Include="TkachevTeam">
+      <UniqueIdentifier>{a3dcfab6-4b98-4ccf-91d9-8f587af540e1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
