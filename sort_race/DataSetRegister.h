@@ -58,6 +58,9 @@ std::vector<DataSet<int>> GenerateIntDataSets()
         { "Worst Team Sort Test Laputin Team", LaputinTeamGenerateWorstDataTimsort(1000)},
         { "Normal Team Sort Test Laputin Team", LaputinTeamGenerateNormalDataTimsort(1000)},
         //{ "Best Team Sort Test Laputin Team", LaputinTeamGenerateBestDataTimsort(1000)},
+        { "Danilova team-already sorted integer", ReadDataFromFileDanilova("DanilovaAlreadySortedInt")},
+        { "Danilova team-partly sorted integer", ReadDataFromFileDanilova("DanilovaPartlySortedInt")},
+        { "Danilova team-worst for quicksort integer", ReadDataFromFileDanilova("DanilovaWorstQuick")},
     };
 }
 std::vector<DataSet<double>> GenerateDoubleDataSets()
@@ -80,5 +83,8 @@ std::vector<DataSet<double>> GenerateDoubleDataSets()
        { "semi-sorted double Kononenko", SemiSortedDoubleGenerateData(100) },
        { "full-sorted double Kononenko", FullSortedDoubleGenerateData(1000) },
 
+       { "Danilova team-random doubles, size=10", GenerateDoublesDanilova(10)},
+       { "Danilova team-random doubles, size=100", GenerateDoublesDanilova(100)},
+       { "Danilova team-random doubles, size=1000", GenerateDoublesDanilova(1000)},
     };
 }

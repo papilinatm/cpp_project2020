@@ -71,7 +71,13 @@ int main()
         //RUN(RadixSortLSD_by_Absalyamov);
         //RUN(Timsort_by_Seregin);
         RUN(Merge_sort_by_Niyazmuhammedow);
-        //run your method here
+        //DanilovaTeam
+        RUN(merge_sort_by_danilova);
+        RUN(Insertion_sort_Stepuro);
+        RUN(heapsort_by_makarov);
+        RUN(QuickSort_by_Byankina);
+        RUN(Sort_by_Igoshkina);
+
 
 
         cout << endl << "**************************" << endl << endl;
@@ -118,7 +124,12 @@ int main()
         //RUN(RadixSortLSD_by_Absalyamov);
         //RUN(Timsort_by_Seregin);
         RUN(Merge_sort_by_Niyazmuhammedow);
-        //run your method here
+        //DanilovaTeam
+        RUN(merge_sort_by_danilova);
+        RUN(Insertion_sort_Stepuro);
+        RUN(heapsort_by_makarov_d);
+        RUN(QuickSort_by_Byankina);
+        RUN(Sort_by_Igoshkina_d);
 
 
         cout << endl << "**************************" << endl << endl;

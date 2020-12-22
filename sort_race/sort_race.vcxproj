@@ -173,9 +173,7 @@
     <ClCompile Include="flapuitn_datasets.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
-    <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="TkachevTeamDataset.cpp" />
-    <ClCompile Include="tm_datasets.cpp" />
     <ClCompile Include="timsortByTaishev.cpp" />
     <ClCompile Include="TreeSortByIssabek.cpp" />
   </ItemGroup>
@@ -184,6 +182,15 @@
     <ClInclude Include="HeapSort_Gabrielian.h" />
     <ClInclude Include="MergeSort_Shuranskiy.h" />
     <ClInclude Include="QuickSort_Pashayan.h" />
+    <ClCompile Include="Danilova_datasets.cpp" />
+    <ClCompile Include="Insertion_sort_Stepuro.cpp" />
+    <ClCompile Include="merge_sort_by_danilova.cpp" />
+    <ClCompile Include="Quick_sort_by_Byankina.cpp" />
+    <ClCompile Include="Selection_Sort_by_Igoshkina.cpp" />
+    <ClCompile Include="sort_race.cpp" />
+    <ClCompile Include="heapsort_by_makarov.cpp" />
+    <ClCompile Include="std_sort.cpp" />
+    <ClCompile Include="tm_datasets.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

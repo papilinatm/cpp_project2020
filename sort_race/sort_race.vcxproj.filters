@@ -46,9 +46,6 @@
     <ClCompile Include="sort_race.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="tm_datasets.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="KononenkoTeamDataset.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
@@ -113,9 +110,6 @@
     <ClInclude Include="QuickSort_Pashayan.h">
       <Filter>ShuranskyTeam</Filter>
     </ClInclude>
-    <ClInclude Include="DataSets.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
     <ClInclude Include="heap_sort_bottomup_by_Laputin.h">
       <Filter>LaputinTeam</Filter>
     </ClInclude>
@@ -125,6 +119,26 @@
     <ClInclude Include="QuickSort_by_Ageenko.h">
       <Filter>LaputinTeam</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="merge_sort_by_danilova.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Insertion_sort_Stepuro.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Danilova_datasets.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="heapsort_by_makarov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Quick_sort_by_Byankina.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Selection_Sort_by_Igoshkina.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSets.h">
