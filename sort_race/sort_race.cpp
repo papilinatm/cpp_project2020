@@ -38,7 +38,7 @@ int main()
         RUN(std_sort);
         //AhmatzyanovTeam
         RUN(binaryheap_by_Salikhova);
-        RUN(tim_sort_by_Taishev);
+      //  RUN(tim_sort_by_Taishev);
         RUN(quickSort_by_Ahmatzyanov);
         RUN(merge_sort_by_Burlin);
         RUN(combSort_by_Ismailova);

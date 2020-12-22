@@ -37,6 +37,7 @@
     </ClCompile>
     <ClCompile Include="CombSortBySuleimenovaZh.cpp">
       <Filter>ShekhovtsovaTeam</Filter>
+    </ClCompile>
     <ClCompile Include="CombSortByKononenko.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
@@ -79,7 +80,7 @@
     </Filter>
     <Filter Include="ShekhovtsovaTeam">
       <UniqueIdentifier>{38928351-6232-4d67-9339-2f256bd2d194}</UniqueIdentifier>
-        </Filter>
+    </Filter>
     <Filter Include="KononenkoTeam">
       <UniqueIdentifier>{d6d34fcb-1eec-482a-99c7-7ef240dd057b}</UniqueIdentifier>
     </Filter>
