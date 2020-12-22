@@ -23,6 +23,21 @@
     <ClCompile Include="std_sort.cpp">
       <Filter>TM</Filter>
     </ClCompile>
+    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort_Efimenko.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="CombSortBySuleimenovaZh.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeSortByIssabek.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Shekhovtsova_team_dataset.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

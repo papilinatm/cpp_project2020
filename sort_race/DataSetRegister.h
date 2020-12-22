@@ -23,6 +23,13 @@ std::vector<DataSet<int>> GenerateIntDataSets()
         { "random integer for BitonicSortBySharnin", GenerateData(8) }, //to sort Bitonik it is necessary that the array contains 2 ^ n elements 
         { "random integer for BitonicSortBySharnin", GenerateData(128) },
         { "random integer for BitonicSortBySharnin", GenerateData(1024) },
+        { "partially sorted integer", Data1_by_Shekhovtsova_team() },
+        { "negative and positive integer", Data2_by_Shekhovtova_team(100) },
+        { "negative and positive integer", Data2_by_Shekhovtova_team(1000) },
+        { "repetitive integer", Data3_by_Shekhovtsova_team(1000) },
+        { "repetitive integer", Data3_by_Shekhovtsova_team(10000) },
+        { "decreasing integer", Data4_by_Shekhovtsova_team(1000) },
+        { "decreasing integer", Data4_by_Shekhovtsova_team(100) },
     };
 }
 std::vector<DataSet<double>> GenerateDoubleDataSets()

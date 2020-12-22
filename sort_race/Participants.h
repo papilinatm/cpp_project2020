@@ -20,5 +20,13 @@ std::vector<int> merge_sort_by_Burlin(std::vector<int> data);
 std::vector<double> merge_sort_by_Burlin(std::vector<double> data);
 std::vector <int> combSort_by_Ismailova(std::vector<int> data);
 //---------------------------------------------------------------
-//place your method name here
 
+//Shekhovtsova_team
+std::vector<int> RadixSort_by_Shekhovtsova(std::vector<int> data);
+std::vector<int> QuickSort_Efimenko(std::vector<int> data);
+std::vector<int> CombSortBySuleimenovaZH(std::vector<int> data);
+std::vector<int> TreeSortByIssabek(std::vector<int> a);
+std::vector<double> RadixSort_by_Shekhovtsova(std::vector<double> data);
+std::vector<double> QuickSort_Efimenko(std::vector<double> data);
+std::vector<double> CombSortBySuleimenovaZH(std::vector<double> data);
+std::vector<double> TreeSortByIssabek(std::vector<double> a);

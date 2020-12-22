@@ -4,7 +4,7 @@
 #include <vector>
 
 #include <chrono>
-#include <algorithm>
+#include <algorithm>И
 #include <string>
 #include <iostream>
 #include "DataSetRegister.h"
@@ -53,6 +53,11 @@ int main()
         RUN(BitonicSortBySharnin);
         //run your method here
 
+        //Shekhovtsova_team
+        RUN(RadixSort_by_Shekhovtsova);
+        RUN(QuickSort_Efimenko);
+        RUN(TreeSortByIssabek);
+        RUN(CombSortBySuleimenovaZH);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -73,9 +78,12 @@ int main()
         RUN(QuickSort_Pashayan);
         RUN(HeapSortByGabrielian);
         RUN(BitonicSortBySharnin);
-        //run your method here
-      
-      
+        //Shekhovtsova_team
+        RUN(RadixSort_by_Shekhovtsova);
+        RUN(QuickSort_Efimenko);
+        RUN(TreeSortByIssabek);
+        RUN(CombSortBySuleimenovaZH);
+
         cout << endl << "**************************" << endl << endl;
     }
 }
