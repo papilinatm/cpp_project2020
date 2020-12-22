@@ -18,6 +18,33 @@
       <Filter>AkhmatzyanovTeam</Filter>
     </ClCompile>
     <ClCompile Include="tm_datasets.cpp">
+
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort_by_Iliushik.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_sort_by_Polyakov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort_by_Shabalinov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataSets.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Participants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="DataSetRegister.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+
       <Filter>TM</Filter>
     </ClCompile>
     <ClCompile Include="std_sort.cpp">
@@ -84,5 +111,6 @@
     <Filter Include="KononenkoTeam">
       <UniqueIdentifier>{d6d34fcb-1eec-482a-99c7-7ef240dd057b}</UniqueIdentifier>
     </Filter>
+
   </ItemGroup>
 </Project>
