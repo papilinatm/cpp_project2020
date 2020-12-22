@@ -37,6 +37,17 @@
     </ClCompile>
     <ClCompile Include="CombSortBySuleimenovaZh.cpp">
       <Filter>ShekhovtsovaTeam</Filter>
+    <ClCompile Include="CombSortByKononenko.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellSort_by_Skriplyuk.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="mergeSortByMalakhov.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="QuicksortbyMaltsev.cpp">
+      <Filter>KononenkoTeam</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -68,6 +79,9 @@
     </Filter>
     <Filter Include="ShekhovtsovaTeam">
       <UniqueIdentifier>{38928351-6232-4d67-9339-2f256bd2d194}</UniqueIdentifier>
+        </Filter>
+    <Filter Include="KononenkoTeam">
+      <UniqueIdentifier>{d6d34fcb-1eec-482a-99c7-7ef240dd057b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

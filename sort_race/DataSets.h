@@ -17,4 +17,11 @@ std::vector<int> Data3_by_Shekhovtsova_team(int size, int max_val = 10);
 std::vector<int> Data4_by_Shekhovtsova_team(int size);
 
 
+// Kononenko team 
+std::vector<int> NegativeIntegerGenerateData(int size, int max_value = INT_MAX);
+std::vector<double> NegativeDuobleGenerateData(double size, int max_value = INT_MAX);
+std::vector<int> SemiSortedIntegerGenerateData(int size, int max_value = INT_MAX);
+std::vector<double> SemiSortedDoubleGenerateData(double size, int max_value = INT_MAX);
+std::vector<int> FullSortedIntegerGenerateData(int size, int max_value = INT_MAX);
+std::vector<double> FullSortedDoubleGenerateData(double size, int max_value = INT_MAX);
 

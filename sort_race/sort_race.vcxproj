@@ -149,12 +149,16 @@
   <ItemGroup>
     <ClCompile Include="binaryheap_bySalikhova.cpp" />
     <ClCompile Include="combSortByIsmailova.cpp" />
+    <ClCompile Include="CombSortByKononenko.cpp" />
+    <ClCompile Include="mergeSortByMalakhov.cpp" />
     <ClCompile Include="MergSortByBurlin.cpp" />
     <ClCompile Include="quickSortByAhmatzyanov.cpp" />
     <ClCompile Include="CombSortBySuleimenovaZh.cpp" />
     <ClCompile Include="QuickSort_Efimenko.cpp" />
     <ClCompile Include="RadixSort_by_Shekhovtsova.cpp" />
     <ClCompile Include="Shekhovtsova_team_dataset.cpp" />
+    <ClCompile Include="QuicksortbyMaltsev.cpp" />
+    <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="timsortByTaishev.cpp" />

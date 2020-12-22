@@ -52,6 +52,13 @@ int main()
         RUN(QuickSort_Efimenko);
         RUN(TreeSortByIssabek);
         RUN(CombSortBySuleimenovaZH);
+        //KononenkoTeam
+        RUN(CombSortByKononenko);
+        RUN(ShellSort_by_Skriplyuk);
+        RUN(mergeSortByMalakhov);
+        RUN(quickSortbyMaltsev);
+        //run your method here
+
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -78,6 +85,14 @@ int main()
         RUN(TreeSortByIssabek);
         RUN(CombSortBySuleimenovaZH);
 
+        //KononenkoTeam
+        RUN(CombSortByKononenko);
+        RUN(ShellSort_by_Skriplyuk);
+        RUN(mergeSortByMalakhov);
+        RUN(quickSortbyMaltsev);
+        //run your method here
+      
+      
         cout << endl << "**************************" << endl << endl;
     }
 }

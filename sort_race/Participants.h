@@ -25,6 +25,16 @@ std::vector<double> merge_sort_by_Burlin(std::vector<double> data);
 std::vector <int> combSort_by_Ismailova(std::vector<int> data);
 //---------------------------------------------------------------
 
+//--------------------Team Kononenko---------------------------
+std::vector <int> CombSortByKononenko(std::vector<int> data);
+std::vector <double> CombSortByKononenko(std::vector<double> data);
+std::vector <int> ShellSort_by_Skriplyuk(std::vector<int> data);
+std::vector <double> ShellSort_by_Skriplyuk(std::vector<double> data);
+std::vector <int> mergeSortByMalakhov(std::vector<int> arr);
+std::vector <double> mergeSortByMalakhov(std::vector<double> arr);
+std::vector <int> quickSortbyMaltsev(std::vector<int> arr);
+std::vector <double> quickSortbyMaltsev(std::vector<double> arr);
+
 //Shekhovtsova_team
 std::vector<int> RadixSort_by_Shekhovtsova(std::vector<int> data);
 std::vector<int> QuickSort_Efimenko(std::vector<int> data);
