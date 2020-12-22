@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="heap_sort_by_Polyakov.cpp" />
+    <ClCompile Include="KononenkoTeamDataset.cpp" />
     <ClCompile Include="merge_sort_by_Iliushik.cpp" />
     <ClCompile Include="shell_sort_by_Kamenshchikov.cpp" />
     <ClCompile Include="binaryheap_bySalikhova.cpp" />
@@ -162,7 +163,6 @@
     <ClCompile Include="Shekhovtsova_team_dataset.cpp" />
     <ClCompile Include="QuicksortbyMaltsev.cpp" />
     <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
-
     <ClCompile Include="countingSortByTkachev.cpp" />
     <ClCompile Include="HeapSortByKulagina.cpp" />
     <ClCompile Include="Merge_sort_by_Kotova.cpp" />
@@ -171,7 +171,6 @@
     <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
-
     <ClCompile Include="timsortByTaishev.cpp" />
     <ClCompile Include="TreeSortByIssabek.cpp" />
   </ItemGroup>
@@ -180,7 +179,6 @@
     <ClInclude Include="HeapSort_Gabrielian.h" />
     <ClInclude Include="MergeSort_Shuranskiy.h" />
     <ClInclude Include="QuickSort_Pashayan.h" />
-
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

@@ -49,6 +49,9 @@
     <ClCompile Include="tm_datasets.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="KononenkoTeamDataset.cpp">
+      <Filter>KononenkoTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="std_sort.cpp">
