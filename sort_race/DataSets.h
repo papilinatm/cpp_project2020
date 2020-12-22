@@ -25,3 +25,15 @@ std::vector<double> SemiSortedDoubleGenerateData(double size, int max_value = IN
 std::vector<int> FullSortedIntegerGenerateData(int size, int max_value = INT_MAX);
 std::vector<double> FullSortedDoubleGenerateData(double size, int max_value = INT_MAX);
 
+//TkachevTeam
+std::vector<int> BadForKaryaginTkachevTeam(int size)
+{
+	std::vector<int> data;
+	for (int i = 1; i < size; i++)
+		data.push_back(i);
+	return data;
+}
+//place your datasets here 
+//or include your "datasets_by_<comandname>.h" above
+
+

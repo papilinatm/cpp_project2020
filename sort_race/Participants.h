@@ -59,3 +59,13 @@ std::vector<double> QuickSort_Efimenko(std::vector<double> data);
 std::vector<double> CombSortBySuleimenovaZH(std::vector<double> data);
 std::vector<double> TreeSortByIssabek(std::vector<double> a);
 
+//Tkachev Team
+std::vector<int> countingSortByTkachev(std::vector<int> data);
+std::vector<double> countingSortByTkachev(std::vector<double> data);
+std::vector<int> QuickSortByKaryagin(std::vector<int> data);
+std::vector<double> QuickSortByKaryagin(std::vector<double> data);
+std::vector<int> merge_sort_by_Kotova(std::vector<int> data);
+std::vector<double> merge_sort_by_Kotova(std::vector<double> data);
+std::vector<int>  HeapSortByKulagina(std::vector<int> data);
+std::vector<double>  HeapSortByKulagina(std::vector<double> data);
+//place your method name here

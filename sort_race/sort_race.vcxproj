@@ -165,6 +165,10 @@
     <ClCompile Include="QuicksortbyMaltsev.cpp" />
     <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
 
+    <ClCompile Include="countingSortByTkachev.cpp" />
+    <ClCompile Include="HeapSortByKulagina.cpp" />
+    <ClCompile Include="Merge_sort_by_Kotova.cpp" />
+    <ClCompile Include="Quick_Sort_by_Karyagin.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
     <ClCompile Include="std_sort.cpp" />
@@ -182,6 +186,12 @@
     <ClInclude Include="Participants.h" />
     <ClInclude Include="QuickSort_Pashayan.h" />
 
+    <ClCompile Include="tm_datasets.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataSetRegister.h" />
+    <ClInclude Include="DataSets.h" />
+    <ClInclude Include="Participants.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

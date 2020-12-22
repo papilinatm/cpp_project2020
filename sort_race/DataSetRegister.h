@@ -44,6 +44,11 @@ std::vector<DataSet<int>> GenerateIntDataSets()
         { "negative integer Kononenko", NegativeIntegerGenerateData(10) },
         { "semi-sorted integer Kononenko", SemiSortedIntegerGenerateData(100) },
         { "full-sorted integer Kononenko", FullSortedIntegerGenerateData(1000) },
+
+        //TkachevTeam data sets
+        { "good case for counting sort by Tkachev", GenerateData(1000 , 50) },// less "max(data)" - better 
+        //(but it would have been uninteresting to other participants, if I'd setted 3 e.g.)
+        { "bad case quick sort by Karyagin ", BadForKaryaginTkachevTeam(100) },// pre-sorted
     };
 }
 std::vector<DataSet<double>> GenerateDoubleDataSets()

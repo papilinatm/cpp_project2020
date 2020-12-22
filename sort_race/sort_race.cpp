@@ -2,9 +2,8 @@
 //
 
 #include <vector>
-
 #include <chrono>
-#include <algorithm>И
+#include <algorithm>
 #include <string>
 #include <iostream>
 #include "DataSetRegister.h"
@@ -56,7 +55,12 @@ int main()
         RUN(CombSortByKononenko);
         RUN(ShellSort_by_Skriplyuk);
         RUN(mergeSortByMalakhov);
-        RUN(quickSortbyMaltsev);
+        RUN(quickSortbyMaltsev);        
+        // Tkachev Team
+        RUN(countingSortByTkachev);
+        RUN(QuickSortByKaryagin);
+        RUN(merge_sort_by_Kotova);
+        RUN(HeapSortByKulagina);
         //run your method here
 
 
@@ -84,15 +88,19 @@ int main()
         RUN(QuickSort_Efimenko);
         RUN(TreeSortByIssabek);
         RUN(CombSortBySuleimenovaZH);
-
         //KononenkoTeam
         RUN(CombSortByKononenko);
         RUN(ShellSort_by_Skriplyuk);
         RUN(mergeSortByMalakhov);
         RUN(quickSortbyMaltsev);
+        // Tkachev Team
+        RUN(countingSortByTkachev);
+        RUN(QuickSortByKaryagin);
+        RUN(merge_sort_by_Kotova);
+        RUN(HeapSortByKulagina);
         //run your method here
-      
-      
+
+
         cout << endl << "**************************" << endl << endl;
     }
 }

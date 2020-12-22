@@ -69,3 +69,4 @@ vector<double> FullSortedDoubleGenerateData(double size, int max_value = INT_MAX
 	return data;
 }
 // end -------------------------------------------------------
+}
