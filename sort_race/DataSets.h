@@ -26,13 +26,7 @@ std::vector<int> FullSortedIntegerGenerateData(int size, int max_value = INT_MAX
 std::vector<double> FullSortedDoubleGenerateData(double size, int max_value = INT_MAX);
 
 //TkachevTeam
-std::vector<int> BadForKaryaginTkachevTeam(int size)
-{
-	std::vector<int> data;
-	for (int i = 1; i < size; i++)
-		data.push_back(i);
-	return data;
-}
+std::vector<int> BadForKaryaginTkachevTeam(int size);
 //datasets by <Laputin>
 std::vector <int> LaputinTeamGenerateBestDataRadixLSD(int size);
 std::vector <int> LaputinTeamGenerateWorstDataRadixLSD(int size);

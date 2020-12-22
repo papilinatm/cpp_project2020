@@ -61,6 +61,12 @@
     <ClCompile Include="CombSort_by_Schekotovskaya.cpp">
       <Filter>BadeevTeam</Filter>
     </ClCompile>
+    <ClCompile Include="flapuitn_datasets.cpp">
+      <Filter>LaputinTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="TkachevTeamDataset.cpp">
+      <Filter>TkachevTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="std_sort.cpp">
@@ -110,25 +116,14 @@
     <ClInclude Include="DataSets.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClCompile Include="flapuitn_datasets.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="heap_sort_bottomup_by_Laputin.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="RadixSortLSD_by_Absalyamov.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="Timsort_by_Seregin.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="QuickSort_by_Ageenko.h">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>LaputinTeam</Filter>
     </ClInclude>
     <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h">
-      <Filter>Файлы заголовков</Filter>
+      <Filter>LaputinTeam</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickSort_by_Ageenko.h">
+      <Filter>LaputinTeam</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -137,7 +132,7 @@
     </ClInclude>
     <ClInclude Include="Participants.h">
       <Filter>Файлы заголовков</Filter>
-    </ClInclude>    
+    </ClInclude>
     <ClInclude Include="DataSetRegister.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
@@ -178,6 +173,9 @@
     </Filter>
     <Filter Include="BadeevTeam">
       <UniqueIdentifier>{dffec5fe-eee1-4c66-bcfd-862a8b2b8223}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LaputinTeam">
+      <UniqueIdentifier>{34acb13a-7d25-4608-92b7-04ad1d007212}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

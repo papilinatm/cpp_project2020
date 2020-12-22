@@ -79,7 +79,7 @@ std::vector<int> int_QuickSort_by_Knyazkin(std::vector<int> data);
 //--------------------Team Laputin---------------------------
 #include "heap_sort_bottomup_by_Laputin.h"
 #include "QuickSort_by_Ageenko.h"
-#include "RadixSortLSD_by_Absalyamov.h"
+//#include "RadixSortLSD_by_Absalyamov.h"
 #include "Merge_sort_by_Niyazmuhammedow.h"
-#include "Timsort_by_Seregin.h"
+//#include "Timsort_by_Seregin.h"
 //---------------------------------------------------------------

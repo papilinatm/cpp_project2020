@@ -57,7 +57,7 @@ std::vector<DataSet<int>> GenerateIntDataSets()
         { "Best Quick Sort Test Laputin Team", LaputinTeamGenerateBestDataQuicksort(1000)},
         { "Worst Team Sort Test Laputin Team", LaputinTeamGenerateWorstDataTimsort(1000)},
         { "Normal Team Sort Test Laputin Team", LaputinTeamGenerateNormalDataTimsort(1000)},
-        { "Best Team Sort Test Laputin Team", LaputinTeamGenerateBestDataTimsort(1000)},
+        //{ "Best Team Sort Test Laputin Team", LaputinTeamGenerateBestDataTimsort(1000)},
     };
 }
 std::vector<DataSet<double>> GenerateDoubleDataSets()
