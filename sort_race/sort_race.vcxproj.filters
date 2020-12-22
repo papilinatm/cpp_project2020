@@ -52,6 +52,15 @@
     <ClCompile Include="KononenkoTeamDataset.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
+    <ClCompile Include="QuickSort_by_Knyazkin.cpp">
+      <Filter>BadeevTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort_by_Badeev.cpp">
+      <Filter>BadeevTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="CombSort_by_Schekotovskaya.cpp">
+      <Filter>BadeevTeam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="std_sort.cpp">
@@ -101,17 +110,12 @@
     <ClInclude Include="DataSets.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Participants.h">
+    <ClInclude Include="DataSetRegister.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClCompile Include="MergeSort_by_Badeev.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="CombSort_by_Schekotovskaya.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="QuickSort_by_Knyazkin.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
+    <ClInclude Include="Participants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="AkhmatzyanovTeam">
@@ -146,6 +150,9 @@
     </ClCompile>
     <Filter Include="TkachevTeam">
       <UniqueIdentifier>{a3dcfab6-4b98-4ccf-91d9-8f587af540e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BadeevTeam">
+      <UniqueIdentifier>{dffec5fe-eee1-4c66-bcfd-862a8b2b8223}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
