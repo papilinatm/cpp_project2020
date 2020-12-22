@@ -167,6 +167,9 @@
     <ClCompile Include="HeapSortByKulagina.cpp" />
     <ClCompile Include="Merge_sort_by_Kotova.cpp" />
     <ClCompile Include="Quick_Sort_by_Karyagin.cpp" />
+    <ClCompile Include="CombSort_by_Schekotovskaya.cpp" />
+    <ClCompile Include="MergeSort_by_Badeev.cpp" />
+    <ClCompile Include="QuickSort_by_Knyazkin.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
     <ClCompile Include="std_sort.cpp" />

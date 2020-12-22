@@ -25,8 +25,6 @@ std::vector<double> quick_sort_by_Shabalinov(std::vector<double> data);
 std::vector<int> quick_sort_by_Shabalinov(std::vector<int> data);
 //---------------------------------------------------------------
 
-
-//place your method name here
 //--------------------Team Ahmatzyanov---------------------------
 std::vector<int> binaryheap_by_Salikhova(std::vector<int> data);
 std::vector<double> binaryheap_by_Salikhova(std::vector<double> data);
@@ -68,4 +66,15 @@ std::vector<int> merge_sort_by_Kotova(std::vector<int> data);
 std::vector<double> merge_sort_by_Kotova(std::vector<double> data);
 std::vector<int>  HeapSortByKulagina(std::vector<int> data);
 std::vector<double>  HeapSortByKulagina(std::vector<double> data);
-//place your method name here
+
+//--------------------Team Badeev---------------------------
+std::vector<int> MergeSort_by_Badeev(std::vector<int> mas);
+std::vector<double> MergeSort_by_Badeev(std::vector<double> mas);
+std::vector<int> CombSortInt_Schekotovskaya(std::vector<int> data);
+std::vector<double> CombSortDouble_Schekotovskaya(std::vector<double> data);
+std::vector<int> int_QuickSort_by_Knyazkin(std::vector<int> data);
+//std::vector<double> double_QuickSort_by_Knyazkin(std::vector<double> data);
+//---------------------------------------------------------------
+
+
+

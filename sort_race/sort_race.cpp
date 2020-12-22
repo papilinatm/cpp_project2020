@@ -61,6 +61,10 @@ int main()
         RUN(QuickSortByKaryagin);
         RUN(merge_sort_by_Kotova);
         RUN(HeapSortByKulagina);
+        //BaveevTeam
+        RUN(MergeSort_by_Badeev);
+        RUN(int_QuickSort_by_Knyazkin);
+        RUN(CombSortInt_Schekotovskaya);
         //run your method here
 
 
@@ -98,6 +102,10 @@ int main()
         RUN(QuickSortByKaryagin);
         RUN(merge_sort_by_Kotova);
         RUN(HeapSortByKulagina);
+        //BaveevTeam
+        RUN(MergeSort_by_Badeev);
+        //RUN(double_QuickSort_by_Knyazkin);
+        RUN(CombSortDouble_Schekotovskaya);
         //run your method here
 
 
