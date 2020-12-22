@@ -65,6 +65,12 @@ int main()
         RUN(MergeSort_by_Badeev);
         RUN(int_QuickSort_by_Knyazkin);
         RUN(CombSortInt_Schekotovskaya);
+        //LaputinTeam
+        RUN(HeapSortBotUp_by_Laputin);
+        RUN(QuickSort_by_Ageenko);
+        RUN(RadixSortLSD_by_Absalyamov);
+        RUN(Timsort_by_Seregin);
+        RUN(Merge_sort_by_Niyazmuhammedow);
         //run your method here
 
 
@@ -106,6 +112,12 @@ int main()
         RUN(MergeSort_by_Badeev);
         //RUN(double_QuickSort_by_Knyazkin);
         RUN(CombSortDouble_Schekotovskaya);
+        //LaputinTeam
+        RUN(HeapSortBotUp_by_Laputin);
+        RUN(QuickSort_by_Ageenko);
+        RUN(RadixSortLSD_by_Absalyamov);
+        RUN(Timsort_by_Seregin);
+        RUN(Merge_sort_by_Niyazmuhammedow);
         //run your method here
 
 

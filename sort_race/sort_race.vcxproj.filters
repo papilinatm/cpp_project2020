@@ -110,10 +110,35 @@
     <ClInclude Include="DataSets.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="DataSetRegister.h">
+    <ClCompile Include="flapuitn_datasets.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="heap_sort_bottomup_by_Laputin.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="RadixSortLSD_by_Absalyamov.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Timsort_by_Seregin.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="QuickSort_by_Ageenko.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DataSets.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Participants.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>    
+    <ClInclude Include="DataSetRegister.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

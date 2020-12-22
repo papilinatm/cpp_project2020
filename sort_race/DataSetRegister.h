@@ -49,6 +49,15 @@ std::vector<DataSet<int>> GenerateIntDataSets()
         { "good case for counting sort by Tkachev", GenerateData(1000 , 50) },// less "max(data)" - better 
         //(but it would have been uninteresting to other participants, if I'd setted 3 e.g.)
         { "bad case quick sort by Karyagin ", BadForKaryaginTkachevTeam(100) },// pre-sorted
+        { "Worst Radix Sort Test Laputin Team", LaputinTeamGenerateWorstDataRadixLSD(1000)},
+        { "Normal Radix Sort Test Laputin Team", LaputinTeamGenerateNormalDataRadixLSD(1000)},
+        { "Best Radix Sort Test Laputin Team", LaputinTeamGenerateBestDataRadixLSD(1000)},
+        { "Worst Quick Sort Test Laputin Team", LaputinTeamGenerateWorstDataQuicksort(1000)},
+        { "Normal Quick Sort Test Laputin Team", LaputinTeamGenerateNormalDataQuicksort(1000)},
+        { "Best Quick Sort Test Laputin Team", LaputinTeamGenerateBestDataQuicksort(1000)},
+        { "Worst Team Sort Test Laputin Team", LaputinTeamGenerateWorstDataTimsort(1000)},
+        { "Normal Team Sort Test Laputin Team", LaputinTeamGenerateNormalDataTimsort(1000)},
+        { "Best Team Sort Test Laputin Team", LaputinTeamGenerateBestDataTimsort(1000)},
     };
 }
 std::vector<DataSet<double>> GenerateDoubleDataSets()
