@@ -18,35 +18,22 @@
       <Filter>AkhmatzyanovTeam</Filter>
     </ClCompile>
     <ClCompile Include="tm_datasets.cpp">
-
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="merge_sort_by_Iliushik.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="heap_sort_by_Polyakov.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>TM</Filter>
     </ClCompile>
     <ClCompile Include="quick_sort_by_Shabalinov.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>PolyakovTeam</Filter>
     </ClCompile>
     <ClCompile Include="shell_sort_by_Kamenshchikov.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>PolyakovTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="merge_sort_by_Iliushik.cpp">
+      <Filter>PolyakovTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="heap_sort_by_Polyakov.cpp">
+      <Filter>PolyakovTeam</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DataSets.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="Participants.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="DataSetRegister.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-
-      <Filter>TM</Filter>
-    </ClCompile>
     <ClCompile Include="std_sort.cpp">
       <Filter>TM</Filter>
     </ClCompile>
@@ -77,6 +64,8 @@
     <ClCompile Include="QuicksortbyMaltsev.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
+    <ClInclude Include="DataSetRegister.h" />
+    <ClInclude Include="DataSets.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />
@@ -94,6 +83,7 @@
     <ClInclude Include="QuickSort_Pashayan.h">
       <Filter>ShuranskyTeam</Filter>
     </ClInclude>
+    <ClInclude Include="Participants.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="AkhmatzyanovTeam">
@@ -111,6 +101,8 @@
     <Filter Include="KononenkoTeam">
       <UniqueIdentifier>{d6d34fcb-1eec-482a-99c7-7ef240dd057b}</UniqueIdentifier>
     </Filter>
-
+    <Filter Include="PolyakovTeam">
+      <UniqueIdentifier>{6d76911f-cb06-4e79-a810-02f4a2ef2b1b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
