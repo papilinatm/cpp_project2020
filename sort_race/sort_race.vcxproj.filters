@@ -23,20 +23,20 @@
     <ClCompile Include="std_sort.cpp">
       <Filter>TM</Filter>
     </ClCompile>
-    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="QuickSort_Efimenko.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>ShekhovtsovaTeam</Filter>
     </ClCompile>
-    <ClCompile Include="CombSortBySuleimenovaZh.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="TreeSortByIssabek.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp">
+      <Filter>ShekhovtsovaTeam</Filter>
     </ClCompile>
     <ClCompile Include="Shekhovtsova_team_dataset.cpp">
-      <Filter>Исходные файлы</Filter>
+      <Filter>ShekhovtsovaTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeSortByIssabek.cpp">
+      <Filter>ShekhovtsovaTeam</Filter>
+    </ClCompile>
+    <ClCompile Include="CombSortBySuleimenovaZh.cpp">
+      <Filter>ShekhovtsovaTeam</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -65,6 +65,9 @@
     </Filter>
     <Filter Include="ShuranskyTeam">
       <UniqueIdentifier>{63d37e1f-4874-4cd1-b175-9d90536c3359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ShekhovtsovaTeam">
+      <UniqueIdentifier>{38928351-6232-4d67-9339-2f256bd2d194}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
