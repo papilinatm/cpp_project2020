@@ -89,6 +89,12 @@ int main()
         RUN(quick_sort_by_gerasimoff);
         RUN(tim_sort_by_shilakin);
         RUN(merge_sort_by_vasiutin);
+        //KirillovTeam
+        RUN(ShellSort_Kirillov);
+        RUN(QuickSort_Makeev);
+        RUN(AfanasevInsertSoft);
+        RUN(Combsort_Dimova);
+        RUN(SelectSort_Klisunova);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -149,6 +155,12 @@ int main()
         RUN(quick_sort_by_gerasimoff);
         RUN(tim_sort_by_shilakin);
         RUN(merge_sort_by_vasiutin);
+        //KirillovTeam
+        RUN(ShellSort_Kirillov);
+        RUN(QuickSort_Makeev);
+        RUN(AfanasevInsertSoft);
+        RUN(Combsort_Dimova);
+        RUN(SelectSort_Klisunova);
 
         cout << endl << "**************************" << endl << endl;
     }

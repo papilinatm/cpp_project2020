@@ -112,7 +112,7 @@ std::vector <int> mergeSort_by_Pulkov(std::vector<int> data);
 std::vector <int> smooth_Samedov(std::vector<int> data);
 
 //---------------------------------------------------------------
-//place your method name here
+//ShilakinTeam
 std::vector<int> quick_sort_by_gerasimoff(std::vector<int> sort);
 std::vector<double> quick_sort_by_gerasimoff(std::vector<double> sort);
 
@@ -121,3 +121,15 @@ std::vector<double> tim_sort_by_shilakin(std::vector<double> sort);
 
 std::vector<int> merge_sort_by_vasiutin(std::vector<int> sort);
 std::vector<double> merge_sort_by_vasiutin(std::vector<double> sort);
+
+//KirillovTeam
+std::vector<int> ShellSort_Kirillov(std::vector<int> data);
+std::vector<double> ShellSort_Kirillov(std::vector<double> data);
+std::vector<int> QuickSort_Makeev(std::vector<int> data);
+std::vector<double> QuickSort_Makeev(std::vector<double> data);
+std::vector<int> AfanasevInsertSoft(std::vector<int> data);
+std::vector<double> AfanasevInsertSoft(std::vector<double> data);
+std::vector<int> Combsort_Dimova(std::vector<int> data);
+std::vector<double> Combsort_Dimova(std::vector<double> data);
+std::vector<int> SelectSort_Klisunova(std::vector<int> data);
+std::vector<double> SelectSort_Klisunova(std::vector<double> data);
