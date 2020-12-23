@@ -1,5 +1,4 @@
 #include <vector> 
-#include "Participants.h"
 
 template<typename T>
 void timsort_Taishev(std::vector<T>&);
