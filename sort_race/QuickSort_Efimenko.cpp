@@ -3,7 +3,7 @@ using namespace std;
 
 template <typename T>
 int BestPivot(const vector<T>& A, int lowb, int upb) {
-	int a, b, c;
+	T a, b, c;
 	int index_low, index_right, index_med, size;
 	index_low = lowb + rand() % (upb - lowb);
 	index_right = lowb + rand() % (upb - lowb);
@@ -24,7 +24,8 @@ int BestPivot(const vector<T>& A, int lowb, int upb) {
 template <typename T>
 int Partition(vector<T>& A, int lowb, int upb)
 {
-	int Pivot, start, end, index_BPivot;
+	int start, end, index_BPivot;
+	T Pivot;
 	index_BPivot = BestPivot(A, lowb, upb);
 	swap(A[lowb], A[index_BPivot]);
 	Pivot = A[lowb];
