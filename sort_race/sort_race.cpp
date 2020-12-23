@@ -37,11 +37,11 @@ int main()
         auto& data = ds.data;
         RUN(std_sort);
         //LaputinTeam
-        //RUN(heap_sort_bottom);
+        RUN(HeapSortBotUp_by_Laputin);
         RUN(QuickSort_by_Ageenko);
-        //RUN(RadixSortLSD_by_Absalyamov);
-        //RUN(merge_sort_by_Burlin);
+        RUN(RadixSortLSD_by_Absalyamov);
         RUN(Timsort_by_Seregin);
+        RUN(Merge_sort_by_Niyazmuhammedow);
         //run your method here
 
 
@@ -55,10 +55,11 @@ int main()
         auto& data = ds.data;
         RUN(sort_for_integers_only);
         //LaputinTeam
-        //RUN(binaryheap_by_Salikhova);
+        RUN(HeapSortBotUp_by_Laputin);
         RUN(QuickSort_by_Ageenko);
-        //RUN(RadixSortLSD_by_Absalyamov);
+        RUN(RadixSortLSD_by_Absalyamov);
         RUN(Timsort_by_Seregin);
+        RUN(Merge_sort_by_Niyazmuhammedow);
         //run your method here
 
 
