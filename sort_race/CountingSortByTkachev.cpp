@@ -16,6 +16,10 @@ vector<int> countingSortByTkachev(vector<int> data)
 			return { 1, 0 }; // return this to confirm that counting sort doesn't works (even when "data" is sorted before using this algorithm)
 		}
 	}
+	if (max == INT_MAX)
+	{
+		return { 1, 0 };
+	}
 	vector<int> count(max + 1, 0);
 	for (int elem : data)
 	{
