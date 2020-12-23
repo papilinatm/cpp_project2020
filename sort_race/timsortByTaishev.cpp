@@ -1,5 +1,4 @@
 #include <vector> 
-#include "Participants.h"
 
 template<typename T>
 void timsort_Taishev(std::vector<T>&);
@@ -45,7 +44,7 @@ void timsort_Taishev(std::vector<T>& v)
             bool increasing = (v.at(left) <= v.at(left + 1)) ? true : false;
             int runsize = 2;
             int right = left + 2;
-            while ((increasing && v.at(right - 1) <= v.at(right)) || (!increasing && v.at(right - 1) >= v.at(right)))
+            while (right < v.size() && ((increasing && v.at(right - 1) <= v.at(right)) || (!increasing && v.at(right - 1) >= v.at(right))))
             {
                 right++;
                 runsize++;
