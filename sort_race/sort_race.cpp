@@ -158,7 +158,7 @@ int main()
         //KirillovTeam
         RUN(ShellSort_Kirillov);
         RUN(QuickSort_Makeev);
-        RUN(AfanasevInsertSoft);
+//        RUN(AfanasevInsertSoft);
         RUN(Combsort_Dimova);
         RUN(SelectSort_Klisunova);
 
