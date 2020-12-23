@@ -1,58 +1,42 @@
 ﻿#include <vector>
 #include <array>
 #include <iostream>
+
 using namespace std;
 
-template <typename T>
-void CombSortBySuleimenova(vector<T>& data, int n)
+//Для INT
+vector<int>  CombSortBySuleimenovaZH(vector<int> data)  //Сортировка расческой
 {
-    int i, j, gap; 
-    bool swapped = 1;
-    double temp;
-    gap = n;
-    while (gap > 1 || swapped == 1) 
-    {
-        gap = gap * 10 / 1.3;
-        if (gap == 9 || gap == 10) 
+    float step = data.size()-1;   //Размер вектора
+    while (step >= 1)  //когда step == 1, будет сортировка пузырьков
+     {
+        step = step/1.247;   //Для обновления значения разрыва
+        for (int i = 0; i + step < data.size(); ++i)  //Сравним все элементы с текущим разрывом
         {
-            gap = 11;
-        }
-        if (gap < 1) 
-        {
-            gap = 1;
-        }
-        swapped = 0;
-        for (i = 0, j = gap; j < n; i++, j++) 
-        {
-            if (data[i] > data[j]) 
-            {
-                temp = data[i];
-                data[i] = data[j];
-                data[j] = temp;
-                swapped = 1;
+            if (data[i] > data[i + step]) 
+            {                                             //Меняем местами
+                swap(data[i], data[i + step]);
             }
         }
     }
+    return data;  //Возвращаем вектор
 }
 
-template <typename T>
-void CombSort_Suleimenova(vector<T>& data)// sortirovka vectora
+//Для DOUBLE
+vector<double>  CombSortBySuleimenovaZH(vector<double> data)
 {
-    int i;
-    int n = size(data);
-    for (i = 0; i < n; i++)
+    float step = data.size() - 1;
+    while (step >= 1)
     {
-        CombSortBySuleimenova(data, n);
+        step = step / 1.247;
+        for (int i = 0; i + step < data.size(); ++i)
+        {
+            if (data[i] > data[i + step])
+            {
+                swap(data[i], data[i + step]);
+            }
+        }
     }
+    return data;
 }
 
-vector<int> CombSortBySuleimenovaZH(vector<int> data)
-{
-    CombSort_Suleimenova(data);
-    return data;
-}
-vector<double> CombSortBySuleimenovaZH(vector<double> data) 
-{
-    CombSort_Suleimenova(data);
-    return data;
-}
