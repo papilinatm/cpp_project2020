@@ -111,7 +111,7 @@ int main()
         RUN(BitonicSortBySharnin);
         //Shekhovtsova_team
         RUN(RadixSort_by_Shekhovtsova);
-        RUN(QuickSort_Efimenko);
+        //RUN(QuickSort_Efimenko);
         RUN(TreeSortByIssabek);
         RUN(CombSortBySuleimenovaZH);
         //KononenkoTeam
