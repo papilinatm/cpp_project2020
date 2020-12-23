@@ -2,7 +2,7 @@
 using namespace std;
 
 template <typename T>
-void ShellSort(vector<T>& aVector)
+void ShellSort_kir(vector<T>& aVector)
 {
     unsigned end = aVector.size() - 1;
     unsigned h;
@@ -25,12 +25,12 @@ void ShellSort(vector<T>& aVector)
 
 vector<int> ShellSort_Kirillov(vector<int> data)
 {
-    ShellSort(data);
+    ShellSort_kir(data);
     return data;
 }
 
 vector<double> ShellSort_Kirillov(vector<double> data)
 {
-    ShellSort(data);
+    ShellSort_kir(data);
     return data;
 }

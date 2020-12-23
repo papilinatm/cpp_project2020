@@ -2,7 +2,7 @@
 using namespace std;
 
 template<typename T>
-void select_sort(std::vector<T>& aVector)
+void select_sort_klis(std::vector<T>& aVector)
 {
     unsigned end = aVector.size();
     for (unsigned i = 0; i < end - 1; ++i)
@@ -17,12 +17,12 @@ void select_sort(std::vector<T>& aVector)
 
 vector<int> SelectSort_Klisunova(vector<int> data)
 {
-    select_sort(data);
+    select_sort_klis(data);
     return data;
 }
 
 vector<double> SelectSort_Klisunova(vector<double> data)
 {
-    select_sort(data);
+    select_sort_klis(data);
     return data;
 }

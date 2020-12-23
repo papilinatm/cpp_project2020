@@ -2,7 +2,7 @@
 using namespace std;
 
 template <typename T>
-void comb(vector<T>& data)
+void comb_dimova(vector<T>& data)
 {
 	double factor = 1.2473309; // коэффицинт уменьшения разрыва, оптимальное значение (выведенно из формулы)
 	int step = data.size() - 1;
@@ -22,12 +22,12 @@ void comb(vector<T>& data)
 
 vector<int> Combsort_Dimova(vector<int> data) // функция для int
 {
-	comb(data);
+	comb_dimova(data);
 	return data;
 }
 
 vector<double> Combsort_Dimova(vector<double> data) // функция для double
 {
-	comb(data);
+	comb_dimova(data);
 	return data;
 }

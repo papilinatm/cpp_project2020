@@ -2,7 +2,7 @@
 using namespace std;
 
 template <typename T>
-void QuickSort(vector<T>& x, int first, int last)
+void QuickSort_mak(vector<T>& x, int first, int last)
 {
     int pivot, j, i;
 
@@ -20,19 +20,19 @@ void QuickSort(vector<T>& x, int first, int last)
             }
         }
         swap(x[pivot], x[j]);
-        QuickSort(x, first, j - 1);
-        QuickSort(x, j + 1, last);
+        QuickSort_mak(x, first, j - 1);
+        QuickSort_mak(x, j + 1, last);
     }
 }
 
 vector<int> QuickSort_Makeev(vector<int> data) //Функция для int
 {
-    QuickSort(data, 0, data.size() - 1);
+    QuickSort_mak(data, 0, data.size() - 1);
     return data;
 }
 
 vector<double> QuickSort_Makeev(vector<double> data) //Функция для Double
 {
-    QuickSort(data, 0, data.size() - 1);
+    QuickSort_mak(data, 0, data.size() - 1);
     return data;
 }
