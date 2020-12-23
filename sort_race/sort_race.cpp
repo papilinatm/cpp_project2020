@@ -37,7 +37,7 @@ int main()
         RUN(std_sort);
         //AhmatzyanovTeam
         RUN(binaryheap_by_Salikhova);
-      //  RUN(tim_sort_by_Taishev);
+        RUN(tim_sort_by_Taishev);
         RUN(quickSort_by_Ahmatzyanov);
         RUN(merge_sort_by_Burlin);
         RUN(combSort_by_Ismailova);
@@ -101,7 +101,7 @@ int main()
         RUN(sort_for_integers_only);
         //AhmatzyanovTeam
         RUN(binaryheap_by_Salikhova);
-        //RUN(tim_sort_by_Taishev);
+        RUN(tim_sort_by_Taishev);
         RUN(quickSort_by_Ahmatzyanov);
         RUN(merge_sort_by_Burlin);
         //ShuranskyTeam
@@ -111,7 +111,7 @@ int main()
         RUN(BitonicSortBySharnin);
         //Shekhovtsova_team
         RUN(RadixSort_by_Shekhovtsova);
-        //RUN(QuickSort_Efimenko);
+        RUN(QuickSort_Efimenko);
         RUN(TreeSortByIssabek);
         RUN(CombSortBySuleimenovaZH);
         //KononenkoTeam
