@@ -3,7 +3,7 @@
 
 #include <vector>
 #include <chrono>
-#include <algorithm>
+#include <algorithm>И
 #include <string>
 #include <iostream>
 #include "DataSetRegister.h"
@@ -37,6 +37,11 @@ int main()
         RUN(std_sort);
         //run your method here
 
+        //Shekhovtsova_team
+        RUN(RadixSort_by_Shekhovtsova);
+        RUN(QuickSort_Efimenko);
+        RUN(TreeSortByIssabek);
+        RUN(CombSortBySuleimenovaZH);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -49,6 +54,11 @@ int main()
         RUN(sort_for_integers_only);
         //run your method here
 
+        //Shekhovtsova_team
+        RUN(RadixSort_by_Shekhovtsova);
+        RUN(QuickSort_Efimenko);
+        RUN(TreeSortByIssabek);
+        RUN(CombSortBySuleimenovaZH);
 
         cout << endl << "**************************" << endl << endl;
     }
