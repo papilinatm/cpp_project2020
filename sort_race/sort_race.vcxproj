@@ -193,6 +193,7 @@
     <ClCompile Include="quickSortBySimonov.cpp" />
     <ClCompile Include="shellSortByChiganov.cpp" />
     <ClCompile Include="smoothSamedov.cpp" />
+    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="quick_sort_by_gerasimoff.cpp" />
     <ClCompile Include="std_sort.cpp" />

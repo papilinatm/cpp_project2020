@@ -147,8 +147,13 @@
     <ClCompile Include="QuicksortbyMaltsev.cpp">
       <Filter>KononenkoTeam</Filter>
     </ClCompile>
+    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
+  
+    <ClInclude Include="Timsort_by_Seregin.h"/>
     <ClInclude Include="BitonicSort_Sharnin.h">
       <Filter>ShuranskyTeam</Filter>
     </ClInclude>
