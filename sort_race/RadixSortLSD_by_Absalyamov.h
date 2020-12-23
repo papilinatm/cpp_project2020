@@ -1,15 +1,19 @@
 #pragma once
 #include <vector>
 using namespace std;
-int getMax(vector<int>& v, int n)
+int getMax_Absalyamov (vector<int>& v, int n)
 {
     int mx = v[0];
     for (int i = 1; i < n; i++)
+    {
         if (v[i] > mx)
             mx = v[i];
+        if (v[i] < 0)
+            return -1;
+    }
     return mx;
 }
-void countSort(vector<int>& v, int n, int exp)
+void countSort_Absalyamov(vector<int>& v, int n, int exp)
 {
     vector<int> output(n);
     int i, count[10] = { 0 };
@@ -24,16 +28,17 @@ void countSort(vector<int>& v, int n, int exp)
     for (i = 0; i < n; i++)
         v[i] = output[i];
 }
-void radixsort(vector<int>& v, int n)
+void radixsort_Absalyamov(vector<int>& v, int n)
 {
-    int m = getMax(v, n);
-    for (int exp = 1; m / exp > 0; exp *= 10)
-        countSort(v, n, exp);
+    int m = getMax_Absalyamov (v, n);
+    if (m >= 0)
+        for (int exp = 1; m / exp > 0; exp *= 10)
+            countSort_Absalyamov(v, n, exp);
 }
 
 vector<int> RadixSortLSD_by_Absalyamov(vector<int> data) {
     int size = data.size();
-    radixsort(data, size);
+    radixsort_Absalyamov(data, size);
     return data;
 }
 
