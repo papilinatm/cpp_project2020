@@ -1,8 +1,7 @@
-// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
+﻿// sort_race.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
 #include <vector>
-
 #include <chrono>
 #include <algorithm>
 #include <string>
@@ -86,7 +85,10 @@ int main()
         RUN(mergeSort_by_Pulkov);
         RUN(smooth_Samedov);
         
-        //run your method here
+        //ShilakinTeam
+        RUN(quick_sort_by_gerasimoff);
+        RUN(tim_sort_by_shilakin);
+        RUN(merge_sort_by_vasiutin);
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -143,7 +145,10 @@ int main()
         RUN(shellsort_By_Chiganov);
         RUN(insertsort_by_Safonov);
         RUN(mergeSort_by_Pulkov);
-        //run your method here
+        //ShilakinTeam
+        RUN(quick_sort_by_gerasimoff);
+        RUN(tim_sort_by_shilakin);
+        RUN(merge_sort_by_vasiutin);
 
         cout << endl << "**************************" << endl << endl;
     }

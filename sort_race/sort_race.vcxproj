@@ -175,6 +175,7 @@
     <ClCompile Include="TkachevTeamDataset.cpp" />
     <ClCompile Include="timsortByTaishev.cpp" />
     <ClCompile Include="TreeSortByIssabek.cpp" />
+    <ClCompile Include="merge_sort_by_Vasiutin.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitonicSort_Sharnin.h" />
@@ -193,7 +194,9 @@
     <ClCompile Include="shellSortByChiganov.cpp" />
     <ClCompile Include="smoothSamedov.cpp" />
     <ClCompile Include="sort_race.cpp" />
+    <ClCompile Include="quick_sort_by_gerasimoff.cpp" />
     <ClCompile Include="std_sort.cpp" />
+    <ClCompile Include="tim_sort_by_shilakin.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
   </ItemGroup>
   <ItemGroup>
