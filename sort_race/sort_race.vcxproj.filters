@@ -95,6 +95,7 @@
     </ClCompile>
     <ClCompile Include="Shekhovtsova_team_dataset.cpp">
       <Filter>ShekhovtsovaTeam</Filter>
+    </ClCompile>
     <ClCompile Include="quickSortBySimonov.cpp">
       <Filter>SimonovTeam</Filter>
     </ClCompile>
@@ -164,6 +165,9 @@
     <Filter Include="SimonovTeam">
       <UniqueIdentifier>{2eae6a98-d3f0-44c3-b82c-661d31395547}</UniqueIdentifier>
     </Filter>
+    <Filter Include="DanilovaTeam">
+      <UniqueIdentifier>{09b6ee62-f9c8-4349-b92e-466835228990}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="AkhmatzyanovTeam">
@@ -204,9 +208,6 @@
     </Filter>
     <Filter Include="LaputinTeam">
       <UniqueIdentifier>{34acb13a-7d25-4608-92b7-04ad1d007212}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="DanilovaTeam">
-      <UniqueIdentifier>{09b6ee62-f9c8-4349-b92e-466835228990}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
