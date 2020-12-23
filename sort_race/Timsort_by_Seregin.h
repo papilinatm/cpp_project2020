@@ -4,16 +4,16 @@
 
 using namespace std;
 
-int GetMinrun(int N)
-{
-    while (N >= 64)
-        N /= 2;
-    return N;
-}
+//int getminrunSeregin(int N)
+//{
+//    while (N >= 64)
+//        N /= 2;
+//    return N;
+//}
 
 //
 template <typename T>
-void reflect(vector<T>& data, int begin, int end)
+void reflect_Seregin(vector<T>& data, int begin, int end)
 {
     while (begin < end)
     {
@@ -23,7 +23,7 @@ void reflect(vector<T>& data, int begin, int end)
 
 // сортировка вставками внутри ранов
 template <typename T>
-void insertionSort(vector<T>& data, int start, int end)
+void insertionSort_Seregin(vector<T>& data, int start, int end)
 {
     int i, j, key;
     for (i = start + 1; i <= end; i++)
@@ -41,7 +41,7 @@ void insertionSort(vector<T>& data, int start, int end)
 
 // слияние ранов
 template <typename T>
-void merge(vector<T>& data, pair<int, int> X, pair<int, int> Y)
+void merge_Seregin(vector<T>& data, pair<int, int> X, pair<int, int> Y)
 {
     vector<int> Xrun(data.begin() + X.first, data.begin() + X.first + X.second);
     int i = X.first;
@@ -77,7 +77,12 @@ template <typename T>
 vector<T> Timsort_by_Seregin(vector<T> data)
 {
     int N = data.size();
-    int minrun = GetMinrun(N);
+    int minrun = N;
+    //int minrun = getminrunSeregin(N);
+    while (minrun >= 64)
+    {
+        minrun /= 2;
+    }
     int Index = 1;
     int prevIndex = Index - 1;
     vector <pair<int, int>> minruns;
@@ -106,7 +111,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
                     break;
             }
             RunEnd = prevIndex;
-            reflect(data, RunStart, RunEnd);
+            reflect_Seregin(data, RunStart, RunEnd);
         }
         RunEnd = prevIndex;
         if (RunEnd - RunStart + 1 < minrun)
@@ -115,7 +120,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
                 RunEnd = N-1;
             else
                 RunEnd = RunStart + minrun - 1;
-            insertionSort(data, RunStart, RunEnd);
+            insertionSort_Seregin(data, RunStart, RunEnd);
         }
         prevIndex = RunEnd + 1;
         Index = prevIndex + 1;
@@ -132,7 +137,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
         {
             if (minruns[i].second < minruns[i + 1].second + minruns[i + 2].second)
             {
-                merge(data, minruns[i], minruns[i + 1]);
+                merge_Seregin(data, minruns[i], minruns[i + 1]);
                 minruns[i].second += minruns[i + 1].second;
                 minruns.erase(minruns.begin() + i + 1);
                 IsMerged = true;
@@ -141,7 +146,7 @@ vector<T> Timsort_by_Seregin(vector<T> data)
         }
         if (!IsMerged)
         {
-            merge(data, minruns[i], minruns[i + 1]);
+            merge_Seregin(data, minruns[i], minruns[i + 1]);
             minruns[i].second += minruns[i + 1].second;
             minruns.erase(minruns.begin() + i + 1);
         }
