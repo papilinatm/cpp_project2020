@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="flapuitn_datasets.cpp" />
+    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
@@ -161,7 +162,6 @@
   <ItemGroup>
     <ClInclude Include="heap_sort_bottomup_by_Laputin.h" />
     <ClInclude Include="QuickSort_by_Ageenko.h" />
-    <ClInclude Include="RadixSortLSD_by_Absalyamov.h" />
     <ClInclude Include="Timsort_by_Seregin.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

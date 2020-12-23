@@ -1,4 +1,3 @@
-#pragma once
 #include <vector>
 using namespace std;
 int getMax_Absalyamov(vector<int>& v, int n)

@@ -11,7 +11,8 @@ std::vector<double> sort_for_integers_only(std::vector<double> data);
 //--------------------Team Laputin---------------------------
 #include "heap_sort_bottomup_by_Laputin.h"
 #include "QuickSort_by_Ageenko.h"
-#include "RadixSortLSD_by_Absalyamov.cpp"
+std::vector<int> RadixSortLSD_by_Absalyamov(std::vector<int> data);
+std::vector<double> RadixSortLSD_by_Absalyamov(std::vector<double> data);
 #include "Merge_sort_by_Niyazmuhammedow.h"
 #include "Timsort_by_Seregin.h"
 //---------------------------------------------------------------

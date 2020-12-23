@@ -27,12 +27,12 @@
     <ClCompile Include="flapuitn_datasets.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="heap_sort_bottomup_by_Laputin.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="RadixSortLSD_by_Absalyamov.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="Timsort_by_Seregin.h">
