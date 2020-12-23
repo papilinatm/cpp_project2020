@@ -147,7 +147,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Users\HP\Downloads\Combsort_Dimova.cpp" />
+    <ClCompile Include="CombSort_Dimova.cpp" />
     <ClCompile Include="quick_sort_by_Makeev.cpp" />
     <ClCompile Include="SelectSort_Klisunova.cpp" />
     <ClCompile Include="ShellSort_Kirillov.cpp" />
