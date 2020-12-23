@@ -2,6 +2,7 @@
 //
 
 #include <vector>
+
 #include <chrono>
 #include <algorithm>
 #include <string>
@@ -78,7 +79,14 @@ int main()
         RUN(QuickSort_by_Byankina);
         RUN(Sort_by_Igoshkina);
 
-
+        //SimonovTeam
+        RUN(quicksort_By_Simonov);
+        RUN(shellsort_By_Chiganov);
+        RUN(insertsort_by_Safonov);
+        RUN(mergeSort_by_Pulkov);
+        RUN(smooth_Samedov);
+        
+        //run your method here
 
         cout << endl << "**************************" << endl << endl;
     }
@@ -130,7 +138,12 @@ int main()
         RUN(heapsort_by_makarov_d);
         RUN(QuickSort_by_Byankina);
         RUN(Sort_by_Igoshkina_d);
-
+        //SimonovTeam
+        RUN(quicksort_By_Simonov);
+        RUN(shellsort_By_Chiganov);
+        RUN(insertsort_by_Safonov);
+        RUN(mergeSort_by_Pulkov);
+        //run your method here
 
         cout << endl << "**************************" << endl << endl;
     }

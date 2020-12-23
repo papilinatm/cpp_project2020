@@ -187,6 +187,12 @@
     <ClCompile Include="Quick_sort_by_Byankina.cpp" />
     <ClCompile Include="Selection_Sort_by_Igoshkina.cpp" />
     <ClCompile Include="heapsort_by_makarov.cpp" />
+    <ClCompile Include="InsertsortBySafonov.cpp" />
+    <ClCompile Include="mergSortByPulkov.cpp" />
+    <ClCompile Include="quickSortBySimonov.cpp" />
+    <ClCompile Include="shellSortByChiganov.cpp" />
+    <ClCompile Include="smoothSamedov.cpp" />
+    <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
     <ClCompile Include="sort_race.cpp" />
