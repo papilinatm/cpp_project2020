@@ -7,7 +7,7 @@ using namespace std;
 //Для INT
 vector<int>  CombSortBySuleimenovaZH(vector<int> data)  //Сортировка расческой
 {
-    float step = data.size()-1;   //Размер вектора
+    double step = data.size()-1;   //Размер вектора
     while (step >= 1)  //когда step == 1, будет сортировка пузырьков
      {
         step = step/1.247;   //Для обновления значения разрыва
@@ -25,7 +25,7 @@ vector<int>  CombSortBySuleimenovaZH(vector<int> data)  //Сортировка �
 //Для DOUBLE
 vector<double>  CombSortBySuleimenovaZH(vector<double> data)
 {
-    float step = data.size() - 1;
+    double step = data.size() - 1;
     while (step >= 1)
     {
         step = step / 1.247;
