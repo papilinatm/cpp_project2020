@@ -33,6 +33,9 @@
     <ClCompile Include="QuickSort_by_Knyazkin.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="shakersortbyTolstykh.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Participants.h">

@@ -150,6 +150,7 @@
     <ClCompile Include="CombSort_by_Schekotovskaya.cpp" />
     <ClCompile Include="MergeSort_by_Badeev.cpp" />
     <ClCompile Include="QuickSort_by_Knyazkin.cpp" />
+    <ClCompile Include="shakersortbyTolstykh.cpp" />
     <ClCompile Include="sort_race.cpp" />
     <ClCompile Include="std_sort.cpp" />
     <ClCompile Include="tm_datasets.cpp" />

@@ -40,6 +40,7 @@ int main()
         RUN(MergeSort_by_Badeev);
         RUN(int_QuickSort_by_Knyazkin);
         RUN(CombSortInt_Schekotovskaya);
+        RUN(ShakerSortTolstykh);
         //run your method here
 
 
@@ -57,6 +58,7 @@ int main()
         //RUN(double_QuickSort_by_Knyazkin);
         RUN(CombSortDouble_Schekotovskaya);
         //run your method here
+        RUN(ShakerSortdoubleTolstykh);
 
 
         cout << endl << "**************************" << endl << endl;
