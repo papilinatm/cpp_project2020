@@ -65,6 +65,7 @@ int main()
         RUN(MergeSort_by_Badeev);
         RUN(int_QuickSort_by_Knyazkin);
         RUN(CombSortInt_Schekotovskaya);
+        RUN(ShakerSortTolstykh);
         //LaputinTeam
         RUN(HeapSortBotUp_by_Laputin);
         RUN(QuickSort_by_Ageenko);
@@ -77,14 +78,12 @@ int main()
         RUN(heapsort_by_makarov);
         RUN(QuickSort_by_Byankina);
         RUN(Sort_by_Igoshkina);
-
         //SimonovTeam
         RUN(quicksort_By_Simonov);
         RUN(shellsort_By_Chiganov);
         RUN(insertsort_by_Safonov);
         RUN(mergeSort_by_Pulkov);
-        RUN(smooth_Samedov);
-        
+        RUN(smooth_Samedov);        
         //ShilakinTeam
         RUN(quick_sort_by_gerasimoff);
         RUN(tim_sort_by_shilakin);
@@ -134,6 +133,7 @@ int main()
         RUN(MergeSort_by_Badeev);
         //RUN(double_QuickSort_by_Knyazkin);
         RUN(CombSortDouble_Schekotovskaya);
+        RUN(ShakerSortdoubleTolstykh);
         //LaputinTeam
         RUN(HeapSortBotUp_by_Laputin);
         RUN(QuickSort_by_Ageenko);

@@ -150,6 +150,9 @@
     <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="shakersortbyTolstykh.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
   

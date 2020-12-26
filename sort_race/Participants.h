@@ -73,6 +73,9 @@ std::vector<double> MergeSort_by_Badeev(std::vector<double> mas);
 std::vector<int> CombSortInt_Schekotovskaya(std::vector<int> data);
 std::vector<double> CombSortDouble_Schekotovskaya(std::vector<double> data);
 std::vector<int> int_QuickSort_by_Knyazkin(std::vector<int> data);
+std::vector<int> ShakerSortTolstykh(std::vector<int> data);
+std::vector<double> ShakerSortdoubleTolstykh(std::vector<double> data);
+
 //std::vector<double> double_QuickSort_by_Knyazkin(std::vector<double> data);
 //---------------------------------------------------------------
 
