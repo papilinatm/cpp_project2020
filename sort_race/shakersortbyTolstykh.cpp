@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-vector<int> ShakerSortTolstykh(vector<int> data) {
+vector<int> ShakerSort_Tolstykh(vector<int> data) {
     int left = 0;
     int right = data.size() - 1;
     while (left <= right) {
@@ -22,7 +22,7 @@ vector<int> ShakerSortTolstykh(vector<int> data) {
     return data;
 }
 
-vector<double> ShakerSortdoubleTolstykh(vector<double> data) {
+vector<double> ShakerSortdouble_Tolstykh(vector<double> data) {
     int left = 0;
     int right = data.size() - 1;
     while (left <= right) {

@@ -1,4 +1,5 @@
 #pragma once
+#include <vector>
 std::vector<int> MyGenerate(int size);
 std::vector <int> GenerateBestDataRadixLSD(int size);
 std::vector <int> GenerateWorstDataRadixLSD(int size);

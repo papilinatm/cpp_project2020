@@ -179,6 +179,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitonicSort_Sharnin.h" />
+    <ClInclude Include="DataGenerators.h" />
     <ClInclude Include="HeapSort_Gabrielian.h" />
     <ClInclude Include="MergeSort_Shuranskiy.h" />
     <ClInclude Include="QuickSort_Pashayan.h" />
@@ -205,6 +206,7 @@
     <ClCompile Include="ShellSort_Kirillov.cpp" />
     <ClCompile Include="AfanasevInsertSoft.cpp" />
     <ClCompile Include="tm_datasets.cpp" />
+    <ClInclude Include="Timsort_by_Seregin.h" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DataSetRegister.h" />

@@ -1,239 +1,71 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="binaryheap_bySalikhova.cpp">
-      <Filter>AkhmatzyanovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="combSortByIsmailova.cpp">
-      <Filter>AkhmatzyanovTeam</Filter>
-      </ClCompile>
+    <ClCompile Include="heap_sort_by_Polyakov.cpp" />
+    <ClCompile Include="KononenkoTeamDataset.cpp" />
+    <ClCompile Include="merge_sort_by_Iliushik.cpp" />
+    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp" />
+    <ClCompile Include="binaryheap_bySalikhova.cpp" />
+    <ClCompile Include="combSortByIsmailova.cpp" />
+    <ClCompile Include="CombSortByKononenko.cpp" />
+    <ClCompile Include="mergeSortByMalakhov.cpp" />
+    <ClCompile Include="MergSortByBurlin.cpp" />
+    <ClCompile Include="quickSortByAhmatzyanov.cpp" />
+    <ClCompile Include="CombSortBySuleimenovaZh.cpp" />
+    <ClCompile Include="QuickSort_Efimenko.cpp" />
+    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp" />
+    <ClCompile Include="Shekhovtsova_team_dataset.cpp" />
+    <ClCompile Include="QuicksortbyMaltsev.cpp" />
+    <ClCompile Include="ShellSort_by_Skriplyuk.cpp" />
+    <ClCompile Include="countingSortByTkachev.cpp" />
+    <ClCompile Include="HeapSortByKulagina.cpp" />
+    <ClCompile Include="Merge_sort_by_Kotova.cpp" />
+    <ClCompile Include="Quick_Sort_by_Karyagin.cpp" />
+    <ClCompile Include="CombSort_by_Schekotovskaya.cpp" />
+    <ClCompile Include="MergeSort_by_Badeev.cpp" />
+    <ClCompile Include="QuickSort_by_Knyazkin.cpp" />
+    <ClCompile Include="flapuitn_datasets.cpp" />
+    <ClCompile Include="quick_sort_by_Shabalinov.cpp" />
+    <ClCompile Include="TkachevTeamDataset.cpp" />
+    <ClCompile Include="timsortByTaishev.cpp" />
+    <ClCompile Include="TreeSortByIssabek.cpp" />
+    <ClCompile Include="merge_sort_by_Vasiutin.cpp" />
+    <ClCompile Include="Danilova_datasets.cpp" />
+    <ClCompile Include="Insertion_sort_Stepuro.cpp" />
+    <ClCompile Include="merge_sort_by_danilova.cpp" />
+    <ClCompile Include="Quick_sort_by_Byankina.cpp" />
+    <ClCompile Include="Selection_Sort_by_Igoshkina.cpp" />
+    <ClCompile Include="heapsort_by_makarov.cpp" />
+    <ClCompile Include="InsertsortBySafonov.cpp" />
+    <ClCompile Include="mergSortByPulkov.cpp" />
+    <ClCompile Include="quickSortBySimonov.cpp" />
+    <ClCompile Include="shellSortByChiganov.cpp" />
+    <ClCompile Include="smoothSamedov.cpp" />
+    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp" />
+    <ClCompile Include="shakersortbyTolstykh.cpp" />
+    <ClCompile Include="sort_race.cpp" />
+    <ClCompile Include="quick_sort_by_gerasimoff.cpp" />
+    <ClCompile Include="std_sort.cpp" />
+    <ClCompile Include="tim_sort_by_shilakin.cpp" />
+    <ClCompile Include="CombSort_Dimova.cpp" />
+    <ClCompile Include="quick_sort_by_Makeev.cpp" />
+    <ClCompile Include="SelectSort_Klisunova.cpp" />
+    <ClCompile Include="ShellSort_Kirillov.cpp" />
+    <ClCompile Include="AfanasevInsertSoft.cpp" />
+    <ClCompile Include="tm_datasets.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="sort_race.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="quick_sort_by_gerasimoff.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="tim_sort_by_shilakin.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="quick_sort_by_Shabalinov.cpp">
-      <Filter>PolyakovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="shell_sort_by_Kamenshchikov.cpp">
-      <Filter>PolyakovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="merge_sort_by_Iliushik.cpp">
-      <Filter>PolyakovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="heap_sort_by_Polyakov.cpp">
-      <Filter>PolyakovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="merge_sort_by_Vasiutin.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <Filter Include="Исходные файлы">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Файлы заголовков">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="Файлы ресурсов">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-    <ClCompile Include="sort_race.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="KononenkoTeamDataset.cpp">
-      <Filter>KononenkoTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="QuickSort_by_Knyazkin.cpp">
-      <Filter>BadeevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="MergeSort_by_Badeev.cpp">
-      <Filter>BadeevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="CombSort_by_Schekotovskaya.cpp">
-      <Filter>BadeevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="flapuitn_datasets.cpp">
-      <Filter>LaputinTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="TkachevTeamDataset.cpp">
-      <Filter>TkachevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Selection_Sort_by_Igoshkina.cpp">
-      <Filter>DanilovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Quick_sort_by_Byankina.cpp">
-      <Filter>DanilovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="merge_sort_by_danilova.cpp">
-      <Filter>DanilovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Insertion_sort_Stepuro.cpp">
-      <Filter>DanilovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="heapsort_by_makarov.cpp">
-      <Filter>DanilovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Danilova_datasets.cpp">
-      <Filter>DanilovaTeam</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="std_sort.cpp">
-      <Filter>TM</Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ShellSort_Kirillov.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="quick_sort_by_Makeev.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="AfanasevInsertSoft.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="SelectSort_Klisunova.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="CombSort_Dimova.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="QuickSort_Efimenko.cpp">
-      <Filter>ShekhovtsovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="RadixSort_by_Shekhovtsova.cpp">
-      <Filter>ShekhovtsovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Shekhovtsova_team_dataset.cpp">
-      <Filter>ShekhovtsovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="quickSortBySimonov.cpp">
-      <Filter>SimonovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="shellSortByChiganov.cpp">
-      <Filter>SimonovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="InsertsortBySafonov.cpp">
-      <Filter>SimonovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="mergSortByPulkov.cpp">
-      <Filter>SimonovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="smoothSamedov.cpp">
-      <Filter>SimonovTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="TreeSortByIssabek.cpp">
-      <Filter>ShekhovtsovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="CombSortBySuleimenovaZh.cpp">
-      <Filter>ShekhovtsovaTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="CombSortByKononenko.cpp">
-      <Filter>KononenkoTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="ShellSort_by_Skriplyuk.cpp">
-      <Filter>KononenkoTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="mergeSortByMalakhov.cpp">
-      <Filter>KononenkoTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="QuicksortbyMaltsev.cpp">
-      <Filter>KononenkoTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="RadixSortLSD_by_Absalyamov.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="shakersortbyTolstykh.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-  
-    <ClInclude Include="Timsort_by_Seregin.h"/>
-    <ClInclude Include="BitonicSort_Sharnin.h">
-      <Filter>ShuranskyTeam</Filter>
-    </ClInclude>
-    <ClInclude Include="Participants.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="DataSetRegister.h">
-      <Filter>Файлы заголовков</Filter>
-    </ClInclude>
-    <ClInclude Include="QuickSort_Pashayan.h">
-      <Filter>ShuranskyTeam</Filter>
-    </ClInclude>
-    <ClInclude Include="heap_sort_bottomup_by_Laputin.h">
-      <Filter>LaputinTeam</Filter>
-    </ClInclude>
-    <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h">
-      <Filter>LaputinTeam</Filter>
-    </ClInclude>
-    <ClInclude Include="QuickSort_by_Ageenko.h">
-      <Filter>LaputinTeam</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
+    <ClInclude Include="BitonicSort_Sharnin.h" />
+    <ClInclude Include="HeapSort_Gabrielian.h" />
+    <ClInclude Include="MergeSort_Shuranskiy.h" />
+    <ClInclude Include="QuickSort_Pashayan.h" />
     <ClInclude Include="DataSetRegister.h" />
     <ClInclude Include="DataSets.h" />
     <ClInclude Include="Participants.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="TM">
-      <UniqueIdentifier>{6213113b-9b1e-47b3-8561-b2a75b9a3555}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="SimonovTeam">
-      <UniqueIdentifier>{2eae6a98-d3f0-44c3-b82c-661d31395547}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="DanilovaTeam">
-      <UniqueIdentifier>{09b6ee62-f9c8-4349-b92e-466835228990}</UniqueIdentifier>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <Filter Include="AkhmatzyanovTeam">
-      <UniqueIdentifier>{b96c2b2c-490c-4b11-90c2-5579da6039aa}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="TM">
-      <UniqueIdentifier>{6213113b-9b1e-47b3-8561-b2a75b9a3555}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="ShuranskyTeam">
-      <UniqueIdentifier>{63d37e1f-4874-4cd1-b175-9d90536c3359}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="ShekhovtsovaTeam">
-      <UniqueIdentifier>{38928351-6232-4d67-9339-2f256bd2d194}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="KononenkoTeam">
-      <UniqueIdentifier>{d6d34fcb-1eec-482a-99c7-7ef240dd057b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="PolyakovTeam">
-      <UniqueIdentifier>{6d76911f-cb06-4e79-a810-02f4a2ef2b1b}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="countingSortByTkachev.cpp">
-      <Filter>TkachevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Quick_Sort_by_Karyagin.cpp">
-      <Filter>TkachevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="HeapSortByKulagina.cpp">
-      <Filter>TkachevTeam</Filter>
-    </ClCompile>
-    <ClCompile Include="Merge_sort_by_Kotova.cpp">
-      <Filter>TkachevTeam</Filter>
-    </ClCompile>
-    <Filter Include="TkachevTeam">
-      <UniqueIdentifier>{a3dcfab6-4b98-4ccf-91d9-8f587af540e1}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="BadeevTeam">
-      <UniqueIdentifier>{dffec5fe-eee1-4c66-bcfd-862a8b2b8223}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="LaputinTeam">
-      <UniqueIdentifier>{34acb13a-7d25-4608-92b7-04ad1d007212}</UniqueIdentifier>
-    </Filter>
+    <ClInclude Include="heap_sort_bottomup_by_Laputin.h" />
+    <ClInclude Include="QuickSort_by_Ageenko.h" />
+    <ClInclude Include="Merge_sort_by_Niyazmuhammedow.h" />
+    <ClInclude Include="Timsort_by_Seregin.h" />
+    <ClInclude Include="DataGenerators.h" />
   </ItemGroup>
 </Project>

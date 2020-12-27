@@ -20,7 +20,7 @@ void SelectionSort_by_Igoshkina(vector<T>& vec, int size)// сортировка
 }
 
 //template <typename T>
-vector<int>Sort_by_Igoshkina(vector<int>data)
+vector<int>SelectionSort_by_Igoshkina(vector<int>data)
 {
     if (!data.empty()) {
         int n = data.size();
@@ -29,7 +29,7 @@ vector<int>Sort_by_Igoshkina(vector<int>data)
     return data;
 
 }
-vector<double>Sort_by_Igoshkina_d(vector<double>data)
+vector<double>SelectionSort_by_Igoshkina(vector<double>data)
 {
     if (!data.empty()) {
         int n = data.size();

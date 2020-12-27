@@ -8,7 +8,7 @@
 template <typename T>
 using Participant = std::vector<T>(*)(std::vector<T>);
 
-std::vector<int> std_sort(std::vector<int>);
+std::vector<int> sort_by_std(std::vector<int>);
 std::vector<double> sort_for_integers_only(std::vector<double> data);
 
 //--------------------Team Polyakov---------------------------
@@ -73,8 +73,8 @@ std::vector<double> MergeSort_by_Badeev(std::vector<double> mas);
 std::vector<int> CombSortInt_Schekotovskaya(std::vector<int> data);
 std::vector<double> CombSortDouble_Schekotovskaya(std::vector<double> data);
 std::vector<int> int_QuickSort_by_Knyazkin(std::vector<int> data);
-std::vector<int> ShakerSortTolstykh(std::vector<int> data);
-std::vector<double> ShakerSortdoubleTolstykh(std::vector<double> data);
+std::vector<int> ShakerSort_Tolstykh(std::vector<int> data);
+std::vector<double> ShakerSortdouble_Tolstykh(std::vector<double> data);
 
 //std::vector<double> double_QuickSort_by_Knyazkin(std::vector<double> data);
 //---------------------------------------------------------------
@@ -91,14 +91,14 @@ std::vector<double> RadixSortLSD_by_Absalyamov(std::vector<double> data);
 //--------------------Team Danilova---------------------------
 std::vector<int> merge_sort_by_danilova(std::vector<int> data);
 std::vector<double> merge_sort_by_danilova(std::vector<double> data);
-std::vector<int> Insertion_sort_Stepuro(std::vector<int> data);
-std::vector<double> Insertion_sort_Stepuro(std::vector<double> data);
+std::vector<int> InsertionSort_Stepuro(std::vector<int> data);
+std::vector<double> InsertionSort_Stepuro(std::vector<double> data);
 std::vector<int> QuickSort_by_Byankina(std::vector<int> data);
 std::vector<double> QuickSort_by_Byankina(std::vector<double> data);
 
 // igoskina, selection
-std::vector<int> Sort_by_Igoshkina(std::vector<int> data);
-std::vector<double> Sort_by_Igoshkina_d(std::vector<double> data);
+std::vector<int> SelectionSort_by_Igoshkina(std::vector<int> data);
+std::vector<double> SelectionSort_by_Igoshkina(std::vector<double> data);
 
 // makarov, heapsort
 std::vector<int> heapsort_by_makarov(std::vector<int> data);
@@ -132,8 +132,8 @@ std::vector<int> ShellSort_Kirillov(std::vector<int> data);
 std::vector<double> ShellSort_Kirillov(std::vector<double> data);
 std::vector<int> QuickSort_Makeev(std::vector<int> data);
 std::vector<double> QuickSort_Makeev(std::vector<double> data);
-std::vector<int> AfanasevInsertSoft(std::vector<int> data);
-std::vector<double> AfanasevInsertSoft(std::vector<double> data);
+std::vector<int> InsertSoft_Afanasev(std::vector<int> data);
+std::vector<double> InsertSoft_Afanasev(std::vector<double> data);
 std::vector<int> Combsort_Dimova(std::vector<int> data);
 std::vector<double> Combsort_Dimova(std::vector<double> data);
 std::vector<int> SelectSort_Klisunova(std::vector<int> data);

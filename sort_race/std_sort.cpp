@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector<int> std_sort(vector<int> data)
+vector<int> sort_by_std(vector<int> data)
 {
 	sort(data.begin(), data.end());
 	return data;

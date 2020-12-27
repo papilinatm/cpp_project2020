@@ -15,12 +15,12 @@ void Insertion_Stepuro(vector<T>& data)
 	}
 }
 
-vector<int> Insertion_sort_Stepuro(vector<int> data)
+vector<int> InsertionSort_Stepuro(vector<int> data)
 {
 	Insertion_Stepuro(data);
 	return data;
 }
-vector<double> Insertion_sort_Stepuro(vector<double> data)
+vector<double> InsertionSort_Stepuro(vector<double> data)
 {
 	Insertion_Stepuro(data);
 	return data;

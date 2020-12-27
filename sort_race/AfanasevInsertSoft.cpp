@@ -35,13 +35,13 @@ void insert_sort_af(vector<T>& aVector)
 		aVector[j] = value;
 	}
 }
-vector<int> AfanasevInsertSoft(vector<int> data)
+vector<int> InsertSoft_Afanasev(vector<int> data)
 {
 	insert_sort_af(data);
 	return data;
 }
 
-vector<double> AfanasevInsertSoft(vector<double> data)
+vector<double> InsertSoft_Afanasev(vector<double> data)
 {
 	insert_sort_af(data);
 	return data;
