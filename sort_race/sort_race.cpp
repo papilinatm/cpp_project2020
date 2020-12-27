@@ -32,8 +32,8 @@ string ParseName(string& method_name)
 }
 
 
-string team = "";
-string dataset = "";
+static string team = "";
+static string dataset = "";
 
 template <typename T>
 void Run(string method_name, Participant<T> p, vector<T> data)
