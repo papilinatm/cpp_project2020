@@ -44,10 +44,10 @@ void Run(string method_name, Participant<T> p, vector<T> data)
     auto time = chrono::duration_cast<chrono::microseconds>(stop - start).count();
 
     cout << "\"" << dataset << "\"\t"
-         << team << "\t"
-        << ParseName(method_name) << "\t"
         << data.size() << "\t"
-        << (is_sorted(res.begin(), res.end()) ? to_string(time) + "\tmcs" : "failed") << endl;
+        << team << "\t"
+        << ParseName(method_name) << "\t"
+        << ((data.size() == res.size() && is_sorted(res.begin(), res.end())) ? to_string(time) : "-1") << endl;
 }
 
 int main()
@@ -90,7 +90,7 @@ int main()
             RUN(QuickSortByKaryagin);
             RUN(merge_sort_by_Kotova);
             RUN(HeapSortByKulagina);
-            team = "BaveevTeam";
+            team = "BadeevTeam";
             RUN(MergeSort_by_Badeev);
             RUN(int_QuickSort_by_Knyazkin);
             RUN(CombSortInt_Schekotovskaya);
@@ -123,6 +123,11 @@ int main()
             RUN(InsertSoft_Afanasev);
             RUN(Combsort_Dimova);
             RUN(SelectSort_Klisunova);
+            team = "PolyakovTeam";
+            RUN(merge_sort_by_iliushik);
+            RUN(heapsort_by_polyakov);
+            RUN(quick_sort_by_Shabalinov);
+            RUN(shellsort_by_kamenshchikov);
 
             intDataSets.pop();
         }
@@ -162,7 +167,7 @@ int main()
             RUN(QuickSortByKaryagin);
             RUN(merge_sort_by_Kotova);
             RUN(HeapSortByKulagina);
-            team = "BaveevTeam";
+            team = "BadeevTeam";
             RUN(MergeSort_by_Badeev);
             //RUN(double_QuickSort_by_Knyazkin);
             RUN(CombSortDouble_Schekotovskaya);
@@ -191,9 +196,14 @@ int main()
             team = "KirillovTeam";
             RUN(ShellSort_Kirillov);
             RUN(QuickSort_Makeev);
-            //        RUN(InsertSoft_Afanasev);
+            RUN(InsertSoft_Afanasev);
             RUN(Combsort_Dimova);
             RUN(SelectSort_Klisunova);
+            team = "PolyakovTeam";
+            RUN(merge_sort_by_iliushik);
+            RUN(heapsort_by_polyakov);
+            RUN(quick_sort_by_Shabalinov);
+            RUN(shellsort_by_kamenshchikov);
 
             doubleDataSets.pop();
         }
