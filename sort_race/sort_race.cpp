@@ -6,6 +6,8 @@
 #include <algorithm>
 #include <string>
 #include <iostream>
+#include <sstream>
+#include <fstream>
 #include "DataSetRegister.h"
 #include "Participants.h"
 #include <regex>
@@ -34,6 +36,7 @@ string ParseName(string& method_name)
 
 static string team = "";
 static string dataset = "";
+static vector<string> logs;
 
 template <typename T>
 void Run(string method_name, Participant<T> p, vector<T> data)
@@ -43,11 +46,13 @@ void Run(string method_name, Participant<T> p, vector<T> data)
     auto stop = chrono::system_clock::now();
     auto time = chrono::duration_cast<chrono::microseconds>(stop - start).count();
 
-    cout << "\"" << dataset << "\"\t"
+    ostringstream oss{};
+    oss << "\"" << dataset << "\"\t"
         << data.size() << "\t"
         << team << "\t"
         << ParseName(method_name) << "\t"
-        << ((data.size() == res.size() && is_sorted(res.begin(), res.end())) ? to_string(time) : "-1") << endl;
+        << ((data.size() == res.size() && is_sorted(res.begin(), res.end())) ? to_string(time) : "-1");
+    logs.push_back(oss.str());
 }
 
 int main()
@@ -207,5 +212,10 @@ int main()
 
             doubleDataSets.pop();
         }
+    }
+    {
+        ofstream fout("release.txt");
+        for (auto& s : logs)
+            fout << s << endl;
     }
 }

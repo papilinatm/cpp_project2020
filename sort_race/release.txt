@@ -1,0 +1,2597 @@
+"IVC data sequential reverse"	497	std	sort	std	19
+"IVC data sequential reverse"	497	AhmatzyanovTeam	binaryheap	salikhova	34
+"IVC data sequential reverse"	497	AhmatzyanovTeam	tim_sort	taishev	58
+"IVC data sequential reverse"	497	AhmatzyanovTeam	quicksort	ahmatzyanov	25
+"IVC data sequential reverse"	497	AhmatzyanovTeam	merge_sort	burlin	100
+"IVC data sequential reverse"	497	AhmatzyanovTeam	combsort	ismailova	33
+"IVC data sequential reverse"	497	ShuranskyTeam	mergesort	shuranskiy	1147
+"IVC data sequential reverse"	497	ShuranskyTeam	quicksort	pashayan	23
+"IVC data sequential reverse"	497	ShuranskyTeam	heapsort	gabrielian	54
+"IVC data sequential reverse"	497	ShuranskyTeam	bitonicsort	sharnin	-1
+"IVC data sequential reverse"	497	Shekhovtsova_team	radixsort	shekhovtsova	35
+"IVC data sequential reverse"	497	Shekhovtsova_team	quicksort	efimenko	86
+"IVC data sequential reverse"	497	Shekhovtsova_team	treesort	issabek	-1
+"IVC data sequential reverse"	497	Shekhovtsova_team	combsort	suleimenovazh	51
+"IVC data sequential reverse"	497	KononenkoTeam	combsort	kononenko	46
+"IVC data sequential reverse"	497	KononenkoTeam	shellsort	skriplyuk	22
+"IVC data sequential reverse"	497	KononenkoTeam	mergesort	malakhov	39
+"IVC data sequential reverse"	497	KononenkoTeam	quicksort	maltsev	45
+"IVC data sequential reverse"	497	TkachevTeam	countingsort	tkachev	9
+"IVC data sequential reverse"	497	TkachevTeam	quicksort	karyagin	23
+"IVC data sequential reverse"	497	TkachevTeam	merge_sort	kotova	45
+"IVC data sequential reverse"	497	TkachevTeam	heapsort	kulagina	33
+"IVC data sequential reverse"	497	BadeevTeam	mergesort	badeev	343
+"IVC data sequential reverse"	497	BadeevTeam	int_quicksort	knyazkin	22
+"IVC data sequential reverse"	497	BadeevTeam	combsortint	schekotovskaya	84
+"IVC data sequential reverse"	497	BadeevTeam	shakersort	tolstykh	129
+"IVC data sequential reverse"	497	LaputinTeam	heapsortbotup	laputin	25
+"IVC data sequential reverse"	497	LaputinTeam	quicksort	ageenko	29
+"IVC data sequential reverse"	497	LaputinTeam	radixsortlsd	absalyamov	43
+"IVC data sequential reverse"	497	LaputinTeam	timsort	seregin	52
+"IVC data sequential reverse"	497	LaputinTeam	merge_sort	niyazmuhammedow	11312
+"IVC data sequential reverse"	497	DanilovaTeam	merge_sort	danilova	40
+"IVC data sequential reverse"	497	DanilovaTeam	insertionsort	stepuro	26
+"IVC data sequential reverse"	497	DanilovaTeam	heapsort	makarov	36
+"IVC data sequential reverse"	497	DanilovaTeam	quicksort	byankina	21
+"IVC data sequential reverse"	497	DanilovaTeam	selectionsort	igoshkina	264
+"IVC data sequential reverse"	497	SimonovTeam	quicksort	simonov	21
+"IVC data sequential reverse"	497	SimonovTeam	shellsort	chiganov	19
+"IVC data sequential reverse"	497	SimonovTeam	insertsort	safonov	95
+"IVC data sequential reverse"	497	SimonovTeam	mergesort	pulkov	24
+"IVC data sequential reverse"	497	SimonovTeam	smooth	samedov	47
+"IVC data sequential reverse"	497	ShilakinTeam	quick_sort	gerasimoff	22
+"IVC data sequential reverse"	497	ShilakinTeam	tim_sort	shilakin	132
+"IVC data sequential reverse"	497	ShilakinTeam	merge_sort	vasiutin	3033
+"IVC data sequential reverse"	497	KirillovTeam	shellsort	kirillov	21
+"IVC data sequential reverse"	497	KirillovTeam	quicksort	makeev	21
+"IVC data sequential reverse"	497	KirillovTeam	insertsoft	afanasev	26
+"IVC data sequential reverse"	497	KirillovTeam	combsort	dimova	27
+"IVC data sequential reverse"	497	KirillovTeam	selectsort	klisunova	361
+"IVC data sequential reverse"	497	PolyakovTeam	merge_sort	iliushik	29
+"IVC data sequential reverse"	497	PolyakovTeam	heapsort	polyakov	34
+"IVC data sequential reverse"	497	PolyakovTeam	quick_sort	shabalinov	22
+"IVC data sequential reverse"	497	PolyakovTeam	shellsort	kamenshchikov	28
+"IVC data reverse"	500	std	sort	std	6
+"IVC data reverse"	500	AhmatzyanovTeam	binaryheap	salikhova	30
+"IVC data reverse"	500	AhmatzyanovTeam	tim_sort	taishev	20
+"IVC data reverse"	500	AhmatzyanovTeam	quicksort	ahmatzyanov	8
+"IVC data reverse"	500	AhmatzyanovTeam	merge_sort	burlin	97
+"IVC data reverse"	500	AhmatzyanovTeam	combsort	ismailova	20
+"IVC data reverse"	500	ShuranskyTeam	mergesort	shuranskiy	615
+"IVC data reverse"	500	ShuranskyTeam	quicksort	pashayan	13
+"IVC data reverse"	500	ShuranskyTeam	heapsort	gabrielian	49
+"IVC data reverse"	500	ShuranskyTeam	bitonicsort	sharnin	-1
+"IVC data reverse"	500	Shekhovtsova_team	radixsort	shekhovtsova	50
+"IVC data reverse"	500	Shekhovtsova_team	quicksort	efimenko	61
+"IVC data reverse"	500	Shekhovtsova_team	treesort	issabek	-1
+"IVC data reverse"	500	Shekhovtsova_team	combsort	suleimenovazh	41
+"IVC data reverse"	500	KononenkoTeam	combsort	kononenko	38
+"IVC data reverse"	500	KononenkoTeam	shellsort	skriplyuk	9
+"IVC data reverse"	500	KononenkoTeam	mergesort	malakhov	121
+"IVC data reverse"	500	KononenkoTeam	quicksort	maltsev	517
+"IVC data reverse"	500	TkachevTeam	countingsort	tkachev	7
+"IVC data reverse"	500	TkachevTeam	quicksort	karyagin	131
+"IVC data reverse"	500	TkachevTeam	merge_sort	kotova	37
+"IVC data reverse"	500	TkachevTeam	heapsort	kulagina	30
+"IVC data reverse"	500	BadeevTeam	mergesort	badeev	1192
+"IVC data reverse"	500	BadeevTeam	int_quicksort	knyazkin	4
+"IVC data reverse"	500	BadeevTeam	combsortint	schekotovskaya	38
+"IVC data reverse"	500	BadeevTeam	shakersort	tolstykh	199
+"IVC data reverse"	500	LaputinTeam	heapsortbotup	laputin	24
+"IVC data reverse"	500	LaputinTeam	quicksort	ageenko	8
+"IVC data reverse"	500	LaputinTeam	radixsortlsd	absalyamov	38
+"IVC data reverse"	500	LaputinTeam	timsort	seregin	3
+"IVC data reverse"	500	LaputinTeam	merge_sort	niyazmuhammedow	11809
+"IVC data reverse"	500	DanilovaTeam	merge_sort	danilova	30
+"IVC data reverse"	500	DanilovaTeam	insertionsort	stepuro	91
+"IVC data reverse"	500	DanilovaTeam	heapsort	makarov	33
+"IVC data reverse"	500	DanilovaTeam	quicksort	byankina	4
+"IVC data reverse"	500	DanilovaTeam	selectionsort	igoshkina	142
+"IVC data reverse"	500	SimonovTeam	quicksort	simonov	5
+"IVC data reverse"	500	SimonovTeam	shellsort	chiganov	7
+"IVC data reverse"	500	SimonovTeam	insertsort	safonov	89
+"IVC data reverse"	500	SimonovTeam	mergesort	pulkov	17
+"IVC data reverse"	500	SimonovTeam	smooth	samedov	39
+"IVC data reverse"	500	ShilakinTeam	quick_sort	gerasimoff	131
+"IVC data reverse"	500	ShilakinTeam	tim_sort	shilakin	149
+"IVC data reverse"	500	ShilakinTeam	merge_sort	vasiutin	2909
+"IVC data reverse"	500	KirillovTeam	shellsort	kirillov	8
+"IVC data reverse"	500	KirillovTeam	quicksort	makeev	72
+"IVC data reverse"	500	KirillovTeam	insertsoft	afanasev	104
+"IVC data reverse"	500	KirillovTeam	combsort	dimova	18
+"IVC data reverse"	500	KirillovTeam	selectsort	klisunova	355
+"IVC data reverse"	500	PolyakovTeam	merge_sort	iliushik	19
+"IVC data reverse"	500	PolyakovTeam	heapsort	polyakov	31
+"IVC data reverse"	500	PolyakovTeam	quick_sort	shabalinov	132
+"IVC data reverse"	500	PolyakovTeam	shellsort	kamenshchikov	9
+"IVC data forward"	501	std	sort	std	4
+"IVC data forward"	501	AhmatzyanovTeam	binaryheap	salikhova	28
+"IVC data forward"	501	AhmatzyanovTeam	tim_sort	taishev	20
+"IVC data forward"	501	AhmatzyanovTeam	quicksort	ahmatzyanov	8
+"IVC data forward"	501	AhmatzyanovTeam	merge_sort	burlin	66
+"IVC data forward"	501	AhmatzyanovTeam	combsort	ismailova	20
+"IVC data forward"	501	ShuranskyTeam	mergesort	shuranskiy	1176
+"IVC data forward"	501	ShuranskyTeam	quicksort	pashayan	7
+"IVC data forward"	501	ShuranskyTeam	heapsort	gabrielian	51
+"IVC data forward"	501	ShuranskyTeam	bitonicsort	sharnin	18
+"IVC data forward"	501	Shekhovtsova_team	radixsort	shekhovtsova	36
+"IVC data forward"	501	Shekhovtsova_team	quicksort	efimenko	58
+"IVC data forward"	501	Shekhovtsova_team	treesort	issabek	-1
+"IVC data forward"	501	Shekhovtsova_team	combsort	suleimenovazh	34
+"IVC data forward"	501	KononenkoTeam	combsort	kononenko	32
+"IVC data forward"	501	KononenkoTeam	shellsort	skriplyuk	6
+"IVC data forward"	501	KononenkoTeam	mergesort	malakhov	29
+"IVC data forward"	501	KononenkoTeam	quicksort	maltsev	545
+"IVC data forward"	501	TkachevTeam	countingsort	tkachev	6
+"IVC data forward"	501	TkachevTeam	quicksort	karyagin	168
+"IVC data forward"	501	TkachevTeam	merge_sort	kotova	41
+"IVC data forward"	501	TkachevTeam	heapsort	kulagina	28
+"IVC data forward"	501	BadeevTeam	mergesort	badeev	4
+"IVC data forward"	501	BadeevTeam	int_quicksort	knyazkin	4
+"IVC data forward"	501	BadeevTeam	combsortint	schekotovskaya	33
+"IVC data forward"	501	BadeevTeam	shakersort	tolstykh	92
+"IVC data forward"	501	LaputinTeam	heapsortbotup	laputin	24
+"IVC data forward"	501	LaputinTeam	quicksort	ageenko	8
+"IVC data forward"	501	LaputinTeam	radixsortlsd	absalyamov	36
+"IVC data forward"	501	LaputinTeam	timsort	seregin	2
+"IVC data forward"	501	LaputinTeam	merge_sort	niyazmuhammedow	9612
+"IVC data forward"	501	DanilovaTeam	merge_sort	danilova	29
+"IVC data forward"	501	DanilovaTeam	insertionsort	stepuro	1
+"IVC data forward"	501	DanilovaTeam	heapsort	makarov	31
+"IVC data forward"	501	DanilovaTeam	quicksort	byankina	4
+"IVC data forward"	501	DanilovaTeam	selectionsort	igoshkina	95
+"IVC data forward"	501	SimonovTeam	quicksort	simonov	33
+"IVC data forward"	501	SimonovTeam	shellsort	chiganov	4
+"IVC data forward"	501	SimonovTeam	insertsort	safonov	91
+"IVC data forward"	501	SimonovTeam	mergesort	pulkov	16
+"IVC data forward"	501	SimonovTeam	smooth	samedov	6
+"IVC data forward"	501	ShilakinTeam	quick_sort	gerasimoff	168
+"IVC data forward"	501	ShilakinTeam	tim_sort	shilakin	152
+"IVC data forward"	501	ShilakinTeam	merge_sort	vasiutin	4095
+"IVC data forward"	501	KirillovTeam	shellsort	kirillov	4
+"IVC data forward"	501	KirillovTeam	quicksort	makeev	52
+"IVC data forward"	501	KirillovTeam	insertsoft	afanasev	1
+"IVC data forward"	501	KirillovTeam	combsort	dimova	13
+"IVC data forward"	501	KirillovTeam	selectsort	klisunova	357
+"IVC data forward"	501	PolyakovTeam	merge_sort	iliushik	20
+"IVC data forward"	501	PolyakovTeam	heapsort	polyakov	29
+"IVC data forward"	501	PolyakovTeam	quick_sort	shabalinov	164
+"IVC data forward"	501	PolyakovTeam	shellsort	kamenshchikov	6
+"inverse sorted array"	99	std	sort	std	2
+"inverse sorted array"	99	AhmatzyanovTeam	binaryheap	salikhova	5
+"inverse sorted array"	99	AhmatzyanovTeam	tim_sort	taishev	10
+"inverse sorted array"	99	AhmatzyanovTeam	quicksort	ahmatzyanov	2
+"inverse sorted array"	99	AhmatzyanovTeam	merge_sort	burlin	14
+"inverse sorted array"	99	AhmatzyanovTeam	combsort	ismailova	4
+"inverse sorted array"	99	ShuranskyTeam	mergesort	shuranskiy	123
+"inverse sorted array"	99	ShuranskyTeam	quicksort	pashayan	3
+"inverse sorted array"	99	ShuranskyTeam	heapsort	gabrielian	7
+"inverse sorted array"	99	ShuranskyTeam	bitonicsort	sharnin	-1
+"inverse sorted array"	99	Shekhovtsova_team	radixsort	shekhovtsova	15
+"inverse sorted array"	99	Shekhovtsova_team	quicksort	efimenko	8
+"inverse sorted array"	99	Shekhovtsova_team	treesort	issabek	-1
+"inverse sorted array"	99	Shekhovtsova_team	combsort	suleimenovazh	6
+"inverse sorted array"	99	KononenkoTeam	combsort	kononenko	6
+"inverse sorted array"	99	KononenkoTeam	shellsort	skriplyuk	2
+"inverse sorted array"	99	KononenkoTeam	mergesort	malakhov	7
+"inverse sorted array"	99	KononenkoTeam	quicksort	maltsev	19
+"inverse sorted array"	99	TkachevTeam	countingsort	tkachev	3
+"inverse sorted array"	99	TkachevTeam	quicksort	karyagin	6
+"inverse sorted array"	99	TkachevTeam	merge_sort	kotova	16
+"inverse sorted array"	99	TkachevTeam	heapsort	kulagina	5
+"inverse sorted array"	99	BadeevTeam	mergesort	badeev	201
+"inverse sorted array"	99	BadeevTeam	int_quicksort	knyazkin	1
+"inverse sorted array"	99	BadeevTeam	combsortint	schekotovskaya	6
+"inverse sorted array"	99	BadeevTeam	shakersort	tolstykh	8
+"inverse sorted array"	99	LaputinTeam	heapsortbotup	laputin	4
+"inverse sorted array"	99	LaputinTeam	quicksort	ageenko	2
+"inverse sorted array"	99	LaputinTeam	radixsortlsd	absalyamov	12
+"inverse sorted array"	99	LaputinTeam	timsort	seregin	6
+"inverse sorted array"	99	LaputinTeam	merge_sort	niyazmuhammedow	1644
+"inverse sorted array"	99	DanilovaTeam	merge_sort	danilova	7
+"inverse sorted array"	99	DanilovaTeam	insertionsort	stepuro	5
+"inverse sorted array"	99	DanilovaTeam	heapsort	makarov	5
+"inverse sorted array"	99	DanilovaTeam	quicksort	byankina	2
+"inverse sorted array"	99	DanilovaTeam	selectionsort	igoshkina	6
+"inverse sorted array"	99	SimonovTeam	quicksort	simonov	3
+"inverse sorted array"	99	SimonovTeam	shellsort	chiganov	2
+"inverse sorted array"	99	SimonovTeam	insertsort	safonov	5
+"inverse sorted array"	99	SimonovTeam	mergesort	pulkov	5
+"inverse sorted array"	99	SimonovTeam	smooth	samedov	8
+"inverse sorted array"	99	ShilakinTeam	quick_sort	gerasimoff	6
+"inverse sorted array"	99	ShilakinTeam	tim_sort	shilakin	24
+"inverse sorted array"	99	ShilakinTeam	merge_sort	vasiutin	360
+"inverse sorted array"	99	KirillovTeam	shellsort	kirillov	2
+"inverse sorted array"	99	KirillovTeam	quicksort	makeev	4
+"inverse sorted array"	99	KirillovTeam	insertsoft	afanasev	5
+"inverse sorted array"	99	KirillovTeam	combsort	dimova	4
+"inverse sorted array"	99	KirillovTeam	selectsort	klisunova	13
+"inverse sorted array"	99	PolyakovTeam	merge_sort	iliushik	5
+"inverse sorted array"	99	PolyakovTeam	heapsort	polyakov	5
+"inverse sorted array"	99	PolyakovTeam	quick_sort	shabalinov	6
+"inverse sorted array"	99	PolyakovTeam	shellsort	kamenshchikov	2
+"partially sorted array"	100	std	sort	std	1
+"partially sorted array"	100	AhmatzyanovTeam	binaryheap	salikhova	5
+"partially sorted array"	100	AhmatzyanovTeam	tim_sort	taishev	9
+"partially sorted array"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	2
+"partially sorted array"	100	AhmatzyanovTeam	merge_sort	burlin	20
+"partially sorted array"	100	AhmatzyanovTeam	combsort	ismailova	2
+"partially sorted array"	100	ShuranskyTeam	mergesort	shuranskiy	196
+"partially sorted array"	100	ShuranskyTeam	quicksort	pashayan	2
+"partially sorted array"	100	ShuranskyTeam	heapsort	gabrielian	8
+"partially sorted array"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"partially sorted array"	100	Shekhovtsova_team	radixsort	shekhovtsova	13
+"partially sorted array"	100	Shekhovtsova_team	quicksort	efimenko	7
+"partially sorted array"	100	Shekhovtsova_team	treesort	issabek	-1
+"partially sorted array"	100	Shekhovtsova_team	combsort	suleimenovazh	5
+"partially sorted array"	100	KononenkoTeam	combsort	kononenko	5
+"partially sorted array"	100	KononenkoTeam	shellsort	skriplyuk	1
+"partially sorted array"	100	KononenkoTeam	mergesort	malakhov	8
+"partially sorted array"	100	KononenkoTeam	quicksort	maltsev	27
+"partially sorted array"	100	TkachevTeam	countingsort	tkachev	2
+"partially sorted array"	100	TkachevTeam	quicksort	karyagin	7
+"partially sorted array"	100	TkachevTeam	merge_sort	kotova	16
+"partially sorted array"	100	TkachevTeam	heapsort	kulagina	5
+"partially sorted array"	100	BadeevTeam	mergesort	badeev	9
+"partially sorted array"	100	BadeevTeam	int_quicksort	knyazkin	1
+"partially sorted array"	100	BadeevTeam	combsortint	schekotovskaya	4
+"partially sorted array"	100	BadeevTeam	shakersort	tolstykh	5
+"partially sorted array"	100	LaputinTeam	heapsortbotup	laputin	4
+"partially sorted array"	100	LaputinTeam	quicksort	ageenko	2
+"partially sorted array"	100	LaputinTeam	radixsortlsd	absalyamov	8
+"partially sorted array"	100	LaputinTeam	timsort	seregin	6
+"partially sorted array"	100	LaputinTeam	merge_sort	niyazmuhammedow	1701
+"partially sorted array"	100	DanilovaTeam	merge_sort	danilova	7
+"partially sorted array"	100	DanilovaTeam	insertionsort	stepuro	0
+"partially sorted array"	100	DanilovaTeam	heapsort	makarov	5
+"partially sorted array"	100	DanilovaTeam	quicksort	byankina	1
+"partially sorted array"	100	DanilovaTeam	selectionsort	igoshkina	5
+"partially sorted array"	100	SimonovTeam	quicksort	simonov	1
+"partially sorted array"	100	SimonovTeam	shellsort	chiganov	0
+"partially sorted array"	100	SimonovTeam	insertsort	safonov	5
+"partially sorted array"	100	SimonovTeam	mergesort	pulkov	5
+"partially sorted array"	100	SimonovTeam	smooth	samedov	4
+"partially sorted array"	100	ShilakinTeam	quick_sort	gerasimoff	8
+"partially sorted array"	100	ShilakinTeam	tim_sort	shilakin	23
+"partially sorted array"	100	ShilakinTeam	merge_sort	vasiutin	353
+"partially sorted array"	100	KirillovTeam	shellsort	kirillov	1
+"partially sorted array"	100	KirillovTeam	quicksort	makeev	4
+"partially sorted array"	100	KirillovTeam	insertsoft	afanasev	0
+"partially sorted array"	100	KirillovTeam	combsort	dimova	2
+"partially sorted array"	100	KirillovTeam	selectsort	klisunova	14
+"partially sorted array"	100	PolyakovTeam	merge_sort	iliushik	5
+"partially sorted array"	100	PolyakovTeam	heapsort	polyakov	5
+"partially sorted array"	100	PolyakovTeam	quick_sort	shabalinov	7
+"partially sorted array"	100	PolyakovTeam	shellsort	kamenshchikov	1
+"already sorted array"	20	std	sort	std	0
+"already sorted array"	20	AhmatzyanovTeam	binaryheap	salikhova	1
+"already sorted array"	20	AhmatzyanovTeam	tim_sort	taishev	3
+"already sorted array"	20	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"already sorted array"	20	AhmatzyanovTeam	merge_sort	burlin	2
+"already sorted array"	20	AhmatzyanovTeam	combsort	ismailova	0
+"already sorted array"	20	ShuranskyTeam	mergesort	shuranskiy	32
+"already sorted array"	20	ShuranskyTeam	quicksort	pashayan	0
+"already sorted array"	20	ShuranskyTeam	heapsort	gabrielian	1
+"already sorted array"	20	ShuranskyTeam	bitonicsort	sharnin	-1
+"already sorted array"	20	Shekhovtsova_team	radixsort	shekhovtsova	4
+"already sorted array"	20	Shekhovtsova_team	quicksort	efimenko	2
+"already sorted array"	20	Shekhovtsova_team	treesort	issabek	-1
+"already sorted array"	20	Shekhovtsova_team	combsort	suleimenovazh	1
+"already sorted array"	20	KononenkoTeam	combsort	kononenko	1
+"already sorted array"	20	KononenkoTeam	shellsort	skriplyuk	0
+"already sorted array"	20	KononenkoTeam	mergesort	malakhov	3
+"already sorted array"	20	KononenkoTeam	quicksort	maltsev	2
+"already sorted array"	20	TkachevTeam	countingsort	tkachev	2
+"already sorted array"	20	TkachevTeam	quicksort	karyagin	0
+"already sorted array"	20	TkachevTeam	merge_sort	kotova	10
+"already sorted array"	20	TkachevTeam	heapsort	kulagina	1
+"already sorted array"	20	BadeevTeam	mergesort	badeev	14
+"already sorted array"	20	BadeevTeam	int_quicksort	knyazkin	0
+"already sorted array"	20	BadeevTeam	combsortint	schekotovskaya	1
+"already sorted array"	20	BadeevTeam	shakersort	tolstykh	1
+"already sorted array"	20	LaputinTeam	heapsortbotup	laputin	1
+"already sorted array"	20	LaputinTeam	quicksort	ageenko	1
+"already sorted array"	20	LaputinTeam	radixsortlsd	absalyamov	2
+"already sorted array"	20	LaputinTeam	timsort	seregin	2
+"already sorted array"	20	LaputinTeam	merge_sort	niyazmuhammedow	272
+"already sorted array"	20	DanilovaTeam	merge_sort	danilova	3
+"already sorted array"	20	DanilovaTeam	insertionsort	stepuro	0
+"already sorted array"	20	DanilovaTeam	heapsort	makarov	1
+"already sorted array"	20	DanilovaTeam	quicksort	byankina	0
+"already sorted array"	20	DanilovaTeam	selectionsort	igoshkina	1
+"already sorted array"	20	SimonovTeam	quicksort	simonov	1
+"already sorted array"	20	SimonovTeam	shellsort	chiganov	0
+"already sorted array"	20	SimonovTeam	insertsort	safonov	0
+"already sorted array"	20	SimonovTeam	mergesort	pulkov	2
+"already sorted array"	20	SimonovTeam	smooth	samedov	1
+"already sorted array"	20	ShilakinTeam	quick_sort	gerasimoff	0
+"already sorted array"	20	ShilakinTeam	tim_sort	shilakin	4
+"already sorted array"	20	ShilakinTeam	merge_sort	vasiutin	39
+"already sorted array"	20	KirillovTeam	shellsort	kirillov	0
+"already sorted array"	20	KirillovTeam	quicksort	makeev	1
+"already sorted array"	20	KirillovTeam	insertsoft	afanasev	0
+"already sorted array"	20	KirillovTeam	combsort	dimova	0
+"already sorted array"	20	KirillovTeam	selectsort	klisunova	2
+"already sorted array"	20	PolyakovTeam	merge_sort	iliushik	3
+"already sorted array"	20	PolyakovTeam	heapsort	polyakov	1
+"already sorted array"	20	PolyakovTeam	quick_sort	shabalinov	1
+"already sorted array"	20	PolyakovTeam	shellsort	kamenshchikov	0
+"minus integer"	100	std	sort	std	3
+"minus integer"	100	AhmatzyanovTeam	binaryheap	salikhova	6
+"minus integer"	100	AhmatzyanovTeam	tim_sort	taishev	12
+"minus integer"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	5
+"minus integer"	100	AhmatzyanovTeam	merge_sort	burlin	14
+"minus integer"	100	AhmatzyanovTeam	combsort	ismailova	5
+"minus integer"	100	ShuranskyTeam	mergesort	shuranskiy	175
+"minus integer"	100	ShuranskyTeam	quicksort	pashayan	4
+"minus integer"	100	ShuranskyTeam	heapsort	gabrielian	9
+"minus integer"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"minus integer"	100	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"minus integer"	100	Shekhovtsova_team	quicksort	efimenko	9
+"minus integer"	100	Shekhovtsova_team	treesort	issabek	-1
+"minus integer"	100	Shekhovtsova_team	combsort	suleimenovazh	8
+"minus integer"	100	KononenkoTeam	combsort	kononenko	8
+"minus integer"	100	KononenkoTeam	shellsort	skriplyuk	4
+"minus integer"	100	KononenkoTeam	mergesort	malakhov	10
+"minus integer"	100	KononenkoTeam	quicksort	maltsev	8
+"minus integer"	100	TkachevTeam	countingsort	tkachev	-1
+"minus integer"	100	TkachevTeam	quicksort	karyagin	4
+"minus integer"	100	TkachevTeam	merge_sort	kotova	20
+"minus integer"	100	TkachevTeam	heapsort	kulagina	6
+"minus integer"	100	BadeevTeam	mergesort	badeev	233
+"minus integer"	100	BadeevTeam	int_quicksort	knyazkin	4
+"minus integer"	100	BadeevTeam	combsortint	schekotovskaya	8
+"minus integer"	100	BadeevTeam	shakersort	tolstykh	13
+"minus integer"	100	LaputinTeam	heapsortbotup	laputin	4
+"minus integer"	100	LaputinTeam	quicksort	ageenko	5
+"minus integer"	100	LaputinTeam	radixsortlsd	absalyamov	-1
+"minus integer"	100	LaputinTeam	timsort	seregin	8
+"minus integer"	100	LaputinTeam	merge_sort	niyazmuhammedow	1699
+"minus integer"	100	DanilovaTeam	merge_sort	danilova	10
+"minus integer"	100	DanilovaTeam	insertionsort	stepuro	3
+"minus integer"	100	DanilovaTeam	heapsort	makarov	6
+"minus integer"	100	DanilovaTeam	quicksort	byankina	4
+"minus integer"	100	DanilovaTeam	selectionsort	igoshkina	13
+"minus integer"	100	SimonovTeam	quicksort	simonov	4
+"minus integer"	100	SimonovTeam	shellsort	chiganov	3
+"minus integer"	100	SimonovTeam	insertsort	safonov	9
+"minus integer"	100	SimonovTeam	mergesort	pulkov	7
+"minus integer"	100	SimonovTeam	smooth	samedov	8
+"minus integer"	100	ShilakinTeam	quick_sort	gerasimoff	3
+"minus integer"	100	ShilakinTeam	tim_sort	shilakin	34
+"minus integer"	100	ShilakinTeam	merge_sort	vasiutin	289
+"minus integer"	100	KirillovTeam	shellsort	kirillov	4
+"minus integer"	100	KirillovTeam	quicksort	makeev	4
+"minus integer"	100	KirillovTeam	insertsoft	afanasev	3
+"minus integer"	100	KirillovTeam	combsort	dimova	4
+"minus integer"	100	KirillovTeam	selectsort	klisunova	14
+"minus integer"	100	PolyakovTeam	merge_sort	iliushik	8
+"minus integer"	100	PolyakovTeam	heapsort	polyakov	6
+"minus integer"	100	PolyakovTeam	quick_sort	shabalinov	4
+"minus integer"	100	PolyakovTeam	shellsort	kamenshchikov	4
+"random integer 1000"	1000	std	sort	std	46
+"random integer 1000"	1000	AhmatzyanovTeam	binaryheap	salikhova	80
+"random integer 1000"	1000	AhmatzyanovTeam	tim_sort	taishev	133
+"random integer 1000"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	59
+"random integer 1000"	1000	AhmatzyanovTeam	merge_sort	burlin	159
+"random integer 1000"	1000	AhmatzyanovTeam	combsort	ismailova	-1
+"random integer 1000"	1000	ShuranskyTeam	mergesort	shuranskiy	1801
+"random integer 1000"	1000	ShuranskyTeam	quicksort	pashayan	55
+"random integer 1000"	1000	ShuranskyTeam	heapsort	gabrielian	152
+"random integer 1000"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"random integer 1000"	1000	Shekhovtsova_team	radixsort	shekhovtsova	153
+"random integer 1000"	1000	Shekhovtsova_team	quicksort	efimenko	92
+"random integer 1000"	1000	Shekhovtsova_team	treesort	issabek	-1
+"random integer 1000"	1000	Shekhovtsova_team	combsort	suleimenovazh	134
+"random integer 1000"	1000	KononenkoTeam	combsort	kononenko	122
+"random integer 1000"	1000	KononenkoTeam	shellsort	skriplyuk	82
+"random integer 1000"	1000	KononenkoTeam	mergesort	malakhov	100
+"random integer 1000"	1000	KononenkoTeam	quicksort	maltsev	89
+"random integer 1000"	1000	TkachevTeam	countingsort	tkachev	97
+"random integer 1000"	1000	TkachevTeam	quicksort	karyagin	53
+"random integer 1000"	1000	TkachevTeam	merge_sort	kotova	110
+"random integer 1000"	1000	TkachevTeam	heapsort	kulagina	82
+"random integer 1000"	1000	BadeevTeam	mergesort	badeev	1875
+"random integer 1000"	1000	BadeevTeam	int_quicksort	knyazkin	100
+"random integer 1000"	1000	BadeevTeam	combsortint	schekotovskaya	127
+"random integer 1000"	1000	BadeevTeam	shakersort	tolstykh	786
+"random integer 1000"	1000	LaputinTeam	heapsortbotup	laputin	56
+"random integer 1000"	1000	LaputinTeam	quicksort	ageenko	60
+"random integer 1000"	1000	LaputinTeam	radixsortlsd	absalyamov	197
+"random integer 1000"	1000	LaputinTeam	timsort	seregin	104
+"random integer 1000"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19752
+"random integer 1000"	1000	DanilovaTeam	merge_sort	danilova	124
+"random integer 1000"	1000	DanilovaTeam	insertionsort	stepuro	185
+"random integer 1000"	1000	DanilovaTeam	heapsort	makarov	84
+"random integer 1000"	1000	DanilovaTeam	quicksort	byankina	54
+"random integer 1000"	1000	DanilovaTeam	selectionsort	igoshkina	983
+"random integer 1000"	1000	SimonovTeam	quicksort	simonov	53
+"random integer 1000"	1000	SimonovTeam	shellsort	chiganov	55
+"random integer 1000"	1000	SimonovTeam	insertsort	safonov	362
+"random integer 1000"	1000	SimonovTeam	mergesort	pulkov	70
+"random integer 1000"	1000	SimonovTeam	smooth	samedov	123
+"random integer 1000"	1000	ShilakinTeam	quick_sort	gerasimoff	58
+"random integer 1000"	1000	ShilakinTeam	tim_sort	shilakin	305
+"random integer 1000"	1000	ShilakinTeam	merge_sort	vasiutin	14498
+"random integer 1000"	1000	KirillovTeam	shellsort	kirillov	62
+"random integer 1000"	1000	KirillovTeam	quicksort	makeev	54
+"random integer 1000"	1000	KirillovTeam	insertsoft	afanasev	189
+"random integer 1000"	1000	KirillovTeam	combsort	dimova	-1
+"random integer 1000"	1000	KirillovTeam	selectsort	klisunova	1458
+"random integer 1000"	1000	PolyakovTeam	merge_sort	iliushik	82
+"random integer 1000"	1000	PolyakovTeam	heapsort	polyakov	79
+"random integer 1000"	1000	PolyakovTeam	quick_sort	shabalinov	49
+"random integer 1000"	1000	PolyakovTeam	shellsort	kamenshchikov	72
+"random integer 100"	100	std	sort	std	4
+"random integer 100"	100	AhmatzyanovTeam	binaryheap	salikhova	6
+"random integer 100"	100	AhmatzyanovTeam	tim_sort	taishev	12
+"random integer 100"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	5
+"random integer 100"	100	AhmatzyanovTeam	merge_sort	burlin	15
+"random integer 100"	100	AhmatzyanovTeam	combsort	ismailova	5
+"random integer 100"	100	ShuranskyTeam	mergesort	shuranskiy	164
+"random integer 100"	100	ShuranskyTeam	quicksort	pashayan	4
+"random integer 100"	100	ShuranskyTeam	heapsort	gabrielian	9
+"random integer 100"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"random integer 100"	100	Shekhovtsova_team	radixsort	shekhovtsova	25
+"random integer 100"	100	Shekhovtsova_team	quicksort	efimenko	9
+"random integer 100"	100	Shekhovtsova_team	treesort	issabek	-1
+"random integer 100"	100	Shekhovtsova_team	combsort	suleimenovazh	9
+"random integer 100"	100	KononenkoTeam	combsort	kononenko	7
+"random integer 100"	100	KononenkoTeam	shellsort	skriplyuk	5
+"random integer 100"	100	KononenkoTeam	mergesort	malakhov	10
+"random integer 100"	100	KononenkoTeam	quicksort	maltsev	8
+"random integer 100"	100	TkachevTeam	countingsort	tkachev	46
+"random integer 100"	100	TkachevTeam	quicksort	karyagin	4
+"random integer 100"	100	TkachevTeam	merge_sort	kotova	20
+"random integer 100"	100	TkachevTeam	heapsort	kulagina	6
+"random integer 100"	100	BadeevTeam	mergesort	badeev	238
+"random integer 100"	100	BadeevTeam	int_quicksort	knyazkin	4
+"random integer 100"	100	BadeevTeam	combsortint	schekotovskaya	8
+"random integer 100"	100	BadeevTeam	shakersort	tolstykh	13
+"random integer 100"	100	LaputinTeam	heapsortbotup	laputin	5
+"random integer 100"	100	LaputinTeam	quicksort	ageenko	5
+"random integer 100"	100	LaputinTeam	radixsortlsd	absalyamov	20
+"random integer 100"	100	LaputinTeam	timsort	seregin	8
+"random integer 100"	100	LaputinTeam	merge_sort	niyazmuhammedow	1681
+"random integer 100"	100	DanilovaTeam	merge_sort	danilova	10
+"random integer 100"	100	DanilovaTeam	insertionsort	stepuro	3
+"random integer 100"	100	DanilovaTeam	heapsort	makarov	6
+"random integer 100"	100	DanilovaTeam	quicksort	byankina	4
+"random integer 100"	100	DanilovaTeam	selectionsort	igoshkina	14
+"random integer 100"	100	SimonovTeam	quicksort	simonov	4
+"random integer 100"	100	SimonovTeam	shellsort	chiganov	3
+"random integer 100"	100	SimonovTeam	insertsort	safonov	6
+"random integer 100"	100	SimonovTeam	mergesort	pulkov	7
+"random integer 100"	100	SimonovTeam	smooth	samedov	8
+"random integer 100"	100	ShilakinTeam	quick_sort	gerasimoff	4
+"random integer 100"	100	ShilakinTeam	tim_sort	shilakin	26
+"random integer 100"	100	ShilakinTeam	merge_sort	vasiutin	253
+"random integer 100"	100	KirillovTeam	shellsort	kirillov	3
+"random integer 100"	100	KirillovTeam	quicksort	makeev	4
+"random integer 100"	100	KirillovTeam	insertsoft	afanasev	5
+"random integer 100"	100	KirillovTeam	combsort	dimova	5
+"random integer 100"	100	KirillovTeam	selectsort	klisunova	15
+"random integer 100"	100	PolyakovTeam	merge_sort	iliushik	9
+"random integer 100"	100	PolyakovTeam	heapsort	polyakov	6
+"random integer 100"	100	PolyakovTeam	quick_sort	shabalinov	4
+"random integer 100"	100	PolyakovTeam	shellsort	kamenshchikov	5
+"random integer 10"	10	std	sort	std	0
+"random integer 10"	10	AhmatzyanovTeam	binaryheap	salikhova	0
+"random integer 10"	10	AhmatzyanovTeam	tim_sort	taishev	2
+"random integer 10"	10	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"random integer 10"	10	AhmatzyanovTeam	merge_sort	burlin	1
+"random integer 10"	10	AhmatzyanovTeam	combsort	ismailova	0
+"random integer 10"	10	ShuranskyTeam	mergesort	shuranskiy	21
+"random integer 10"	10	ShuranskyTeam	quicksort	pashayan	0
+"random integer 10"	10	ShuranskyTeam	heapsort	gabrielian	0
+"random integer 10"	10	ShuranskyTeam	bitonicsort	sharnin	-1
+"random integer 10"	10	Shekhovtsova_team	radixsort	shekhovtsova	17
+"random integer 10"	10	Shekhovtsova_team	quicksort	efimenko	1
+"random integer 10"	10	Shekhovtsova_team	treesort	issabek	-1
+"random integer 10"	10	Shekhovtsova_team	combsort	suleimenovazh	0
+"random integer 10"	10	KononenkoTeam	combsort	kononenko	0
+"random integer 10"	10	KononenkoTeam	shellsort	skriplyuk	0
+"random integer 10"	10	KononenkoTeam	mergesort	malakhov	2
+"random integer 10"	10	KononenkoTeam	quicksort	maltsev	2
+"random integer 10"	10	TkachevTeam	countingsort	tkachev	81
+"random integer 10"	10	TkachevTeam	quicksort	karyagin	0
+"random integer 10"	10	TkachevTeam	merge_sort	kotova	7
+"random integer 10"	10	TkachevTeam	heapsort	kulagina	0
+"random integer 10"	10	BadeevTeam	mergesort	badeev	11
+"random integer 10"	10	BadeevTeam	int_quicksort	knyazkin	0
+"random integer 10"	10	BadeevTeam	combsortint	schekotovskaya	0
+"random integer 10"	10	BadeevTeam	shakersort	tolstykh	0
+"random integer 10"	10	LaputinTeam	heapsortbotup	laputin	0
+"random integer 10"	10	LaputinTeam	quicksort	ageenko	0
+"random integer 10"	10	LaputinTeam	radixsortlsd	absalyamov	9
+"random integer 10"	10	LaputinTeam	timsort	seregin	2
+"random integer 10"	10	LaputinTeam	merge_sort	niyazmuhammedow	115
+"random integer 10"	10	DanilovaTeam	merge_sort	danilova	2
+"random integer 10"	10	DanilovaTeam	insertionsort	stepuro	0
+"random integer 10"	10	DanilovaTeam	heapsort	makarov	0
+"random integer 10"	10	DanilovaTeam	quicksort	byankina	0
+"random integer 10"	10	DanilovaTeam	selectionsort	igoshkina	0
+"random integer 10"	10	SimonovTeam	quicksort	simonov	0
+"random integer 10"	10	SimonovTeam	shellsort	chiganov	0
+"random integer 10"	10	SimonovTeam	insertsort	safonov	0
+"random integer 10"	10	SimonovTeam	mergesort	pulkov	2
+"random integer 10"	10	SimonovTeam	smooth	samedov	0
+"random integer 10"	10	ShilakinTeam	quick_sort	gerasimoff	0
+"random integer 10"	10	ShilakinTeam	tim_sort	shilakin	0
+"random integer 10"	10	ShilakinTeam	merge_sort	vasiutin	16
+"random integer 10"	10	KirillovTeam	shellsort	kirillov	0
+"random integer 10"	10	KirillovTeam	quicksort	makeev	0
+"random integer 10"	10	KirillovTeam	insertsoft	afanasev	0
+"random integer 10"	10	KirillovTeam	combsort	dimova	0
+"random integer 10"	10	KirillovTeam	selectsort	klisunova	0
+"random integer 10"	10	PolyakovTeam	merge_sort	iliushik	2
+"random integer 10"	10	PolyakovTeam	heapsort	polyakov	0
+"random integer 10"	10	PolyakovTeam	quick_sort	shabalinov	0
+"random integer 10"	10	PolyakovTeam	shellsort	kamenshchikov	0
+"Danilova team-worst for quicksort integer"	19	std	sort	std	0
+"Danilova team-worst for quicksort integer"	19	AhmatzyanovTeam	binaryheap	salikhova	1
+"Danilova team-worst for quicksort integer"	19	AhmatzyanovTeam	tim_sort	taishev	2
+"Danilova team-worst for quicksort integer"	19	AhmatzyanovTeam	quicksort	ahmatzyanov	1
+"Danilova team-worst for quicksort integer"	19	AhmatzyanovTeam	merge_sort	burlin	2
+"Danilova team-worst for quicksort integer"	19	AhmatzyanovTeam	combsort	ismailova	0
+"Danilova team-worst for quicksort integer"	19	ShuranskyTeam	mergesort	shuranskiy	27
+"Danilova team-worst for quicksort integer"	19	ShuranskyTeam	quicksort	pashayan	0
+"Danilova team-worst for quicksort integer"	19	ShuranskyTeam	heapsort	gabrielian	1
+"Danilova team-worst for quicksort integer"	19	ShuranskyTeam	bitonicsort	sharnin	-1
+"Danilova team-worst for quicksort integer"	19	Shekhovtsova_team	radixsort	shekhovtsova	14
+"Danilova team-worst for quicksort integer"	19	Shekhovtsova_team	quicksort	efimenko	1
+"Danilova team-worst for quicksort integer"	19	Shekhovtsova_team	treesort	issabek	-1
+"Danilova team-worst for quicksort integer"	19	Shekhovtsova_team	combsort	suleimenovazh	1
+"Danilova team-worst for quicksort integer"	19	KononenkoTeam	combsort	kononenko	1
+"Danilova team-worst for quicksort integer"	19	KononenkoTeam	shellsort	skriplyuk	0
+"Danilova team-worst for quicksort integer"	19	KononenkoTeam	mergesort	malakhov	3
+"Danilova team-worst for quicksort integer"	19	KononenkoTeam	quicksort	maltsev	2
+"Danilova team-worst for quicksort integer"	19	TkachevTeam	countingsort	tkachev	9
+"Danilova team-worst for quicksort integer"	19	TkachevTeam	quicksort	karyagin	0
+"Danilova team-worst for quicksort integer"	19	TkachevTeam	merge_sort	kotova	10
+"Danilova team-worst for quicksort integer"	19	TkachevTeam	heapsort	kulagina	1
+"Danilova team-worst for quicksort integer"	19	BadeevTeam	mergesort	badeev	17
+"Danilova team-worst for quicksort integer"	19	BadeevTeam	int_quicksort	knyazkin	1
+"Danilova team-worst for quicksort integer"	19	BadeevTeam	combsortint	schekotovskaya	1
+"Danilova team-worst for quicksort integer"	19	BadeevTeam	shakersort	tolstykh	0
+"Danilova team-worst for quicksort integer"	19	LaputinTeam	heapsortbotup	laputin	1
+"Danilova team-worst for quicksort integer"	19	LaputinTeam	quicksort	ageenko	1
+"Danilova team-worst for quicksort integer"	19	LaputinTeam	radixsortlsd	absalyamov	8
+"Danilova team-worst for quicksort integer"	19	LaputinTeam	timsort	seregin	2
+"Danilova team-worst for quicksort integer"	19	LaputinTeam	merge_sort	niyazmuhammedow	253
+"Danilova team-worst for quicksort integer"	19	DanilovaTeam	merge_sort	danilova	3
+"Danilova team-worst for quicksort integer"	19	DanilovaTeam	insertionsort	stepuro	0
+"Danilova team-worst for quicksort integer"	19	DanilovaTeam	heapsort	makarov	1
+"Danilova team-worst for quicksort integer"	19	DanilovaTeam	quicksort	byankina	0
+"Danilova team-worst for quicksort integer"	19	DanilovaTeam	selectionsort	igoshkina	0
+"Danilova team-worst for quicksort integer"	19	SimonovTeam	quicksort	simonov	1
+"Danilova team-worst for quicksort integer"	19	SimonovTeam	shellsort	chiganov	0
+"Danilova team-worst for quicksort integer"	19	SimonovTeam	insertsort	safonov	0
+"Danilova team-worst for quicksort integer"	19	SimonovTeam	mergesort	pulkov	2
+"Danilova team-worst for quicksort integer"	19	SimonovTeam	smooth	samedov	1
+"Danilova team-worst for quicksort integer"	19	ShilakinTeam	quick_sort	gerasimoff	0
+"Danilova team-worst for quicksort integer"	19	ShilakinTeam	tim_sort	shilakin	4
+"Danilova team-worst for quicksort integer"	19	ShilakinTeam	merge_sort	vasiutin	45
+"Danilova team-worst for quicksort integer"	19	KirillovTeam	shellsort	kirillov	0
+"Danilova team-worst for quicksort integer"	19	KirillovTeam	quicksort	makeev	0
+"Danilova team-worst for quicksort integer"	19	KirillovTeam	insertsoft	afanasev	0
+"Danilova team-worst for quicksort integer"	19	KirillovTeam	combsort	dimova	0
+"Danilova team-worst for quicksort integer"	19	KirillovTeam	selectsort	klisunova	2
+"Danilova team-worst for quicksort integer"	19	PolyakovTeam	merge_sort	iliushik	3
+"Danilova team-worst for quicksort integer"	19	PolyakovTeam	heapsort	polyakov	1
+"Danilova team-worst for quicksort integer"	19	PolyakovTeam	quick_sort	shabalinov	0
+"Danilova team-worst for quicksort integer"	19	PolyakovTeam	shellsort	kamenshchikov	0
+"Danilova team-partly sorted integer"	16	std	sort	std	0
+"Danilova team-partly sorted integer"	16	AhmatzyanovTeam	binaryheap	salikhova	1
+"Danilova team-partly sorted integer"	16	AhmatzyanovTeam	tim_sort	taishev	2
+"Danilova team-partly sorted integer"	16	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"Danilova team-partly sorted integer"	16	AhmatzyanovTeam	merge_sort	burlin	2
+"Danilova team-partly sorted integer"	16	AhmatzyanovTeam	combsort	ismailova	0
+"Danilova team-partly sorted integer"	16	ShuranskyTeam	mergesort	shuranskiy	27
+"Danilova team-partly sorted integer"	16	ShuranskyTeam	quicksort	pashayan	0
+"Danilova team-partly sorted integer"	16	ShuranskyTeam	heapsort	gabrielian	1
+"Danilova team-partly sorted integer"	16	ShuranskyTeam	bitonicsort	sharnin	1
+"Danilova team-partly sorted integer"	16	Shekhovtsova_team	radixsort	shekhovtsova	7
+"Danilova team-partly sorted integer"	16	Shekhovtsova_team	quicksort	efimenko	2
+"Danilova team-partly sorted integer"	16	Shekhovtsova_team	treesort	issabek	-1
+"Danilova team-partly sorted integer"	16	Shekhovtsova_team	combsort	suleimenovazh	1
+"Danilova team-partly sorted integer"	16	KononenkoTeam	combsort	kononenko	1
+"Danilova team-partly sorted integer"	16	KononenkoTeam	shellsort	skriplyuk	0
+"Danilova team-partly sorted integer"	16	KononenkoTeam	mergesort	malakhov	3
+"Danilova team-partly sorted integer"	16	KononenkoTeam	quicksort	maltsev	2
+"Danilova team-partly sorted integer"	16	TkachevTeam	countingsort	tkachev	2
+"Danilova team-partly sorted integer"	16	TkachevTeam	quicksort	karyagin	0
+"Danilova team-partly sorted integer"	16	TkachevTeam	merge_sort	kotova	8
+"Danilova team-partly sorted integer"	16	TkachevTeam	heapsort	kulagina	1
+"Danilova team-partly sorted integer"	16	BadeevTeam	mergesort	badeev	13
+"Danilova team-partly sorted integer"	16	BadeevTeam	int_quicksort	knyazkin	0
+"Danilova team-partly sorted integer"	16	BadeevTeam	combsortint	schekotovskaya	1
+"Danilova team-partly sorted integer"	16	BadeevTeam	shakersort	tolstykh	0
+"Danilova team-partly sorted integer"	16	LaputinTeam	heapsortbotup	laputin	0
+"Danilova team-partly sorted integer"	16	LaputinTeam	quicksort	ageenko	1
+"Danilova team-partly sorted integer"	16	LaputinTeam	radixsortlsd	absalyamov	4
+"Danilova team-partly sorted integer"	16	LaputinTeam	timsort	seregin	2
+"Danilova team-partly sorted integer"	16	LaputinTeam	merge_sort	niyazmuhammedow	203
+"Danilova team-partly sorted integer"	16	DanilovaTeam	merge_sort	danilova	2
+"Danilova team-partly sorted integer"	16	DanilovaTeam	insertionsort	stepuro	0
+"Danilova team-partly sorted integer"	16	DanilovaTeam	heapsort	makarov	0
+"Danilova team-partly sorted integer"	16	DanilovaTeam	quicksort	byankina	0
+"Danilova team-partly sorted integer"	16	DanilovaTeam	selectionsort	igoshkina	0
+"Danilova team-partly sorted integer"	16	SimonovTeam	quicksort	simonov	0
+"Danilova team-partly sorted integer"	16	SimonovTeam	shellsort	chiganov	0
+"Danilova team-partly sorted integer"	16	SimonovTeam	insertsort	safonov	0
+"Danilova team-partly sorted integer"	16	SimonovTeam	mergesort	pulkov	2
+"Danilova team-partly sorted integer"	16	SimonovTeam	smooth	samedov	1
+"Danilova team-partly sorted integer"	16	ShilakinTeam	quick_sort	gerasimoff	0
+"Danilova team-partly sorted integer"	16	ShilakinTeam	tim_sort	shilakin	0
+"Danilova team-partly sorted integer"	16	ShilakinTeam	merge_sort	vasiutin	28
+"Danilova team-partly sorted integer"	16	KirillovTeam	shellsort	kirillov	0
+"Danilova team-partly sorted integer"	16	KirillovTeam	quicksort	makeev	1
+"Danilova team-partly sorted integer"	16	KirillovTeam	insertsoft	afanasev	0
+"Danilova team-partly sorted integer"	16	KirillovTeam	combsort	dimova	0
+"Danilova team-partly sorted integer"	16	KirillovTeam	selectsort	klisunova	0
+"Danilova team-partly sorted integer"	16	PolyakovTeam	merge_sort	iliushik	2
+"Danilova team-partly sorted integer"	16	PolyakovTeam	heapsort	polyakov	1
+"Danilova team-partly sorted integer"	16	PolyakovTeam	quick_sort	shabalinov	0
+"Danilova team-partly sorted integer"	16	PolyakovTeam	shellsort	kamenshchikov	0
+"Danilova team-already sorted integer"	16	std	sort	std	0
+"Danilova team-already sorted integer"	16	AhmatzyanovTeam	binaryheap	salikhova	1
+"Danilova team-already sorted integer"	16	AhmatzyanovTeam	tim_sort	taishev	2
+"Danilova team-already sorted integer"	16	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"Danilova team-already sorted integer"	16	AhmatzyanovTeam	merge_sort	burlin	2
+"Danilova team-already sorted integer"	16	AhmatzyanovTeam	combsort	ismailova	0
+"Danilova team-already sorted integer"	16	ShuranskyTeam	mergesort	shuranskiy	27
+"Danilova team-already sorted integer"	16	ShuranskyTeam	quicksort	pashayan	0
+"Danilova team-already sorted integer"	16	ShuranskyTeam	heapsort	gabrielian	1
+"Danilova team-already sorted integer"	16	ShuranskyTeam	bitonicsort	sharnin	1
+"Danilova team-already sorted integer"	16	Shekhovtsova_team	radixsort	shekhovtsova	7
+"Danilova team-already sorted integer"	16	Shekhovtsova_team	quicksort	efimenko	1
+"Danilova team-already sorted integer"	16	Shekhovtsova_team	treesort	issabek	-1
+"Danilova team-already sorted integer"	16	Shekhovtsova_team	combsort	suleimenovazh	0
+"Danilova team-already sorted integer"	16	KononenkoTeam	combsort	kononenko	0
+"Danilova team-already sorted integer"	16	KononenkoTeam	shellsort	skriplyuk	0
+"Danilova team-already sorted integer"	16	KononenkoTeam	mergesort	malakhov	2
+"Danilova team-already sorted integer"	16	KononenkoTeam	quicksort	maltsev	2
+"Danilova team-already sorted integer"	16	TkachevTeam	countingsort	tkachev	2
+"Danilova team-already sorted integer"	16	TkachevTeam	quicksort	karyagin	0
+"Danilova team-already sorted integer"	16	TkachevTeam	merge_sort	kotova	8
+"Danilova team-already sorted integer"	16	TkachevTeam	heapsort	kulagina	1
+"Danilova team-already sorted integer"	16	BadeevTeam	mergesort	badeev	0
+"Danilova team-already sorted integer"	16	BadeevTeam	int_quicksort	knyazkin	0
+"Danilova team-already sorted integer"	16	BadeevTeam	combsortint	schekotovskaya	0
+"Danilova team-already sorted integer"	16	BadeevTeam	shakersort	tolstykh	0
+"Danilova team-already sorted integer"	16	LaputinTeam	heapsortbotup	laputin	0
+"Danilova team-already sorted integer"	16	LaputinTeam	quicksort	ageenko	0
+"Danilova team-already sorted integer"	16	LaputinTeam	radixsortlsd	absalyamov	4
+"Danilova team-already sorted integer"	16	LaputinTeam	timsort	seregin	2
+"Danilova team-already sorted integer"	16	LaputinTeam	merge_sort	niyazmuhammedow	284
+"Danilova team-already sorted integer"	16	DanilovaTeam	merge_sort	danilova	3
+"Danilova team-already sorted integer"	16	DanilovaTeam	insertionsort	stepuro	0
+"Danilova team-already sorted integer"	16	DanilovaTeam	heapsort	makarov	1
+"Danilova team-already sorted integer"	16	DanilovaTeam	quicksort	byankina	0
+"Danilova team-already sorted integer"	16	DanilovaTeam	selectionsort	igoshkina	0
+"Danilova team-already sorted integer"	16	SimonovTeam	quicksort	simonov	0
+"Danilova team-already sorted integer"	16	SimonovTeam	shellsort	chiganov	0
+"Danilova team-already sorted integer"	16	SimonovTeam	insertsort	safonov	0
+"Danilova team-already sorted integer"	16	SimonovTeam	mergesort	pulkov	2
+"Danilova team-already sorted integer"	16	SimonovTeam	smooth	samedov	0
+"Danilova team-already sorted integer"	16	ShilakinTeam	quick_sort	gerasimoff	0
+"Danilova team-already sorted integer"	16	ShilakinTeam	tim_sort	shilakin	0
+"Danilova team-already sorted integer"	16	ShilakinTeam	merge_sort	vasiutin	39
+"Danilova team-already sorted integer"	16	KirillovTeam	shellsort	kirillov	0
+"Danilova team-already sorted integer"	16	KirillovTeam	quicksort	makeev	0
+"Danilova team-already sorted integer"	16	KirillovTeam	insertsoft	afanasev	0
+"Danilova team-already sorted integer"	16	KirillovTeam	combsort	dimova	0
+"Danilova team-already sorted integer"	16	KirillovTeam	selectsort	klisunova	0
+"Danilova team-already sorted integer"	16	PolyakovTeam	merge_sort	iliushik	2
+"Danilova team-already sorted integer"	16	PolyakovTeam	heapsort	polyakov	1
+"Danilova team-already sorted integer"	16	PolyakovTeam	quick_sort	shabalinov	0
+"Danilova team-already sorted integer"	16	PolyakovTeam	shellsort	kamenshchikov	0
+"Best Team Sort Test Laputin Team"	1000	std	sort	std	12
+"Best Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	61
+"Best Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	40
+"Best Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	16
+"Best Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	119
+"Best Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	44
+"Best Team Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1273
+"Best Team Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	24
+"Best Team Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	116
+"Best Team Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Best Team Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	336
+"Best Team Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	64
+"Best Team Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Best Team Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	88
+"Best Team Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	99
+"Best Team Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	27
+"Best Team Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	55
+"Best Team Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	2153
+"Best Team Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	-1
+"Best Team Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	507
+"Best Team Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	62
+"Best Team Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	63
+"Best Team Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	2526
+"Best Team Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	8
+"Best Team Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	80
+"Best Team Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	822
+"Best Team Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	54
+"Best Team Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	17
+"Best Team Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	255
+"Best Team Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	3
+"Best Team Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19964
+"Best Team Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	60
+"Best Team Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	351
+"Best Team Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	71
+"Best Team Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	8
+"Best Team Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	586
+"Best Team Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	9
+"Best Team Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	15
+"Best Team Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	354
+"Best Team Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	127
+"Best Team Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	83
+"Best Team Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	521
+"Best Team Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	286
+"Best Team Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	14426
+"Best Team Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	17
+"Best Team Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	275
+"Best Team Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	360
+"Best Team Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	41
+"Best Team Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1499
+"Best Team Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	38
+"Best Team Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	63
+"Best Team Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	517
+"Best Team Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	19
+"Normal Team Sort Test Laputin Team"	1000	std	sort	std	32
+"Normal Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	70
+"Normal Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	75
+"Normal Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	50
+"Normal Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	123
+"Normal Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	60
+"Normal Team Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	2318
+"Normal Team Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	40
+"Normal Team Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	116
+"Normal Team Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Normal Team Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	101
+"Normal Team Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	82
+"Normal Team Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Normal Team Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	107
+"Normal Team Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	100
+"Normal Team Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	38
+"Normal Team Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	67
+"Normal Team Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	96
+"Normal Team Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	110
+"Normal Team Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	165
+"Normal Team Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	71
+"Normal Team Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	70
+"Normal Team Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	102
+"Normal Team Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	41
+"Normal Team Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	101
+"Normal Team Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	627
+"Normal Team Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	55
+"Normal Team Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	48
+"Normal Team Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	119
+"Normal Team Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	54
+"Normal Team Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19973
+"Normal Team Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	70
+"Normal Team Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	173
+"Normal Team Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	74
+"Normal Team Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	42
+"Normal Team Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	551
+"Normal Team Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	42
+"Normal Team Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	40
+"Normal Team Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	390
+"Normal Team Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	37
+"Normal Team Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	112
+"Normal Team Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	168
+"Normal Team Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	269
+"Normal Team Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13528
+"Normal Team Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	35
+"Normal Team Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	40
+"Normal Team Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	189
+"Normal Team Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	62
+"Normal Team Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1499
+"Normal Team Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	48
+"Normal Team Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	70
+"Normal Team Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	162
+"Normal Team Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	38
+"Worst Team Sort Test Laputin Team"	1000	std	sort	std	3
+"Worst Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	31
+"Worst Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	93
+"Worst Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	20
+"Worst Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	114
+"Worst Team Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	37
+"Worst Team Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1818
+"Worst Team Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	330
+"Worst Team Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	49
+"Worst Team Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	43
+"Worst Team Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	27
+"Worst Team Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	249
+"Worst Team Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Worst Team Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	80
+"Worst Team Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	75
+"Worst Team Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	14
+"Worst Team Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	63
+"Worst Team Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	1084
+"Worst Team Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	5
+"Worst Team Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	348
+"Worst Team Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	64
+"Worst Team Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	29
+"Worst Team Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	1813
+"Worst Team Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	14
+"Worst Team Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	71
+"Worst Team Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	417
+"Worst Team Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	54
+"Worst Team Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	19
+"Worst Team Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	31
+"Worst Team Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	79
+"Worst Team Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19721
+"Worst Team Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	62
+"Worst Team Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	93
+"Worst Team Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	31
+"Worst Team Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	15
+"Worst Team Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	369
+"Worst Team Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	16
+"Worst Team Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	10
+"Worst Team Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	370
+"Worst Team Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	133
+"Worst Team Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	72
+"Worst Team Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	189
+"Worst Team Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	260
+"Worst Team Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13446
+"Worst Team Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	10
+"Worst Team Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	178
+"Worst Team Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	95
+"Worst Team Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	30
+"Worst Team Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1479
+"Worst Team Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	42
+"Worst Team Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	35
+"Worst Team Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	329
+"Worst Team Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	14
+"Best Quick Sort Test Laputin Team"	1000	std	sort	std	44
+"Best Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	81
+"Best Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	132
+"Best Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	57
+"Best Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	156
+"Best Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	74
+"Best Quick Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1793
+"Best Quick Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	50
+"Best Quick Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	133
+"Best Quick Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Best Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	62
+"Best Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	95
+"Best Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Best Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	122
+"Best Quick Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	111
+"Best Quick Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	66
+"Best Quick Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	100
+"Best Quick Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	97
+"Best Quick Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	13
+"Best Quick Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	48
+"Best Quick Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	102
+"Best Quick Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	76
+"Best Quick Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	1730
+"Best Quick Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	48
+"Best Quick Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	116
+"Best Quick Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	746
+"Best Quick Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	55
+"Best Quick Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	58
+"Best Quick Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	63
+"Best Quick Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	104
+"Best Quick Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19811
+"Best Quick Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	111
+"Best Quick Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	197
+"Best Quick Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	82
+"Best Quick Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	50
+"Best Quick Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	1763
+"Best Quick Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	49
+"Best Quick Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	53
+"Best Quick Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	359
+"Best Quick Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	69
+"Best Quick Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	110
+"Best Quick Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	48
+"Best Quick Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	393
+"Best Quick Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13475
+"Best Quick Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	59
+"Best Quick Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	50
+"Best Quick Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	182
+"Best Quick Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	71
+"Best Quick Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1446
+"Best Quick Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	82
+"Best Quick Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	80
+"Best Quick Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	48
+"Best Quick Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	70
+"Normal Quick Sort Test Laputin Team"	1000	std	sort	std	46
+"Normal Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	82
+"Normal Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	133
+"Normal Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	57
+"Normal Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	154
+"Normal Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	74
+"Normal Quick Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1838
+"Normal Quick Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	50
+"Normal Quick Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	123
+"Normal Quick Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Normal Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	152
+"Normal Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	94
+"Normal Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Normal Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	131
+"Normal Quick Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	119
+"Normal Quick Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	69
+"Normal Quick Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	104
+"Normal Quick Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	80
+"Normal Quick Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	13
+"Normal Quick Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	53
+"Normal Quick Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	200
+"Normal Quick Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	82
+"Normal Quick Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	1798
+"Normal Quick Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	50
+"Normal Quick Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	129
+"Normal Quick Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	777
+"Normal Quick Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	56
+"Normal Quick Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	59
+"Normal Quick Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	63
+"Normal Quick Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	105
+"Normal Quick Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19299
+"Normal Quick Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	102
+"Normal Quick Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	180
+"Normal Quick Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	89
+"Normal Quick Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	48
+"Normal Quick Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	1865
+"Normal Quick Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	49
+"Normal Quick Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	54
+"Normal Quick Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	357
+"Normal Quick Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	69
+"Normal Quick Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	110
+"Normal Quick Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	47
+"Normal Quick Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	399
+"Normal Quick Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13477
+"Normal Quick Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	61
+"Normal Quick Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	50
+"Normal Quick Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	186
+"Normal Quick Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	71
+"Normal Quick Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1445
+"Normal Quick Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	190
+"Normal Quick Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	80
+"Normal Quick Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	52
+"Normal Quick Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	70
+"Worst Quick Sort Test Laputin Team"	1000	std	sort	std	2
+"Worst Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	33
+"Worst Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	172
+"Worst Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	18
+"Worst Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	107
+"Worst Quick Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	35
+"Worst Quick Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	2235
+"Worst Quick Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	327
+"Worst Quick Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	49
+"Worst Quick Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	39
+"Worst Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	20
+"Worst Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	240
+"Worst Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Worst Quick Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	71
+"Worst Quick Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	70
+"Worst Quick Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	13
+"Worst Quick Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	57
+"Worst Quick Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	27
+"Worst Quick Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	6
+"Worst Quick Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	658
+"Worst Quick Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	58
+"Worst Quick Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	28
+"Worst Quick Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	2405
+"Worst Quick Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	13
+"Worst Quick Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	70
+"Worst Quick Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	333
+"Worst Quick Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	50
+"Worst Quick Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	20
+"Worst Quick Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	22
+"Worst Quick Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	68
+"Worst Quick Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19291
+"Worst Quick Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	67
+"Worst Quick Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	2
+"Worst Quick Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	34
+"Worst Quick Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	21
+"Worst Quick Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	343
+"Worst Quick Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	12
+"Worst Quick Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	9
+"Worst Quick Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	345
+"Worst Quick Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	33
+"Worst Quick Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	26
+"Worst Quick Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	184
+"Worst Quick Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	247
+"Worst Quick Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13462
+"Worst Quick Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	8
+"Worst Quick Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	185
+"Worst Quick Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	2
+"Worst Quick Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	38
+"Worst Quick Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1439
+"Worst Quick Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	40
+"Worst Quick Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	35
+"Worst Quick Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	654
+"Worst Quick Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	16
+"Best Radix Sort Test Laputin Team"	1000	std	sort	std	17
+"Best Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	70
+"Best Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	113
+"Best Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	35
+"Best Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	156
+"Best Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	50
+"Best Radix Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1806
+"Best Radix Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	86
+"Best Radix Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	111
+"Best Radix Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Best Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	21
+"Best Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	125
+"Best Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Best Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	96
+"Best Radix Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	88
+"Best Radix Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	39
+"Best Radix Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	90
+"Best Radix Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	146
+"Best Radix Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	5
+"Best Radix Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	88
+"Best Radix Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	177
+"Best Radix Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	96
+"Best Radix Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	1755
+"Best Radix Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	28
+"Best Radix Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	87
+"Best Radix Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	680
+"Best Radix Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	53
+"Best Radix Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	33
+"Best Radix Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	22
+"Best Radix Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	89
+"Best Radix Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19026
+"Best Radix Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	84
+"Best Radix Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	160
+"Best Radix Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	71
+"Best Radix Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	45
+"Best Radix Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	468
+"Best Radix Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	27
+"Best Radix Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	34
+"Best Radix Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	408
+"Best Radix Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	62
+"Best Radix Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	99
+"Best Radix Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	65
+"Best Radix Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	329
+"Best Radix Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	14191
+"Best Radix Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	40
+"Best Radix Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	59
+"Best Radix Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	170
+"Best Radix Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	45
+"Best Radix Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1456
+"Best Radix Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	70
+"Best Radix Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	72
+"Best Radix Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	85
+"Best Radix Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	40
+"Normal Radix Sort Test Laputin Team"	1000	std	sort	std	47
+"Normal Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	80
+"Normal Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	139
+"Normal Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	59
+"Normal Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	167
+"Normal Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	86
+"Normal Radix Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1820
+"Normal Radix Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	53
+"Normal Radix Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	127
+"Normal Radix Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Normal Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	82
+"Normal Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	98
+"Normal Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Normal Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	138
+"Normal Radix Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	125
+"Normal Radix Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	75
+"Normal Radix Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	106
+"Normal Radix Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	93
+"Normal Radix Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	27
+"Normal Radix Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	52
+"Normal Radix Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	113
+"Normal Radix Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	81
+"Normal Radix Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	1787
+"Normal Radix Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	55
+"Normal Radix Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	131
+"Normal Radix Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	796
+"Normal Radix Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	58
+"Normal Radix Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	63
+"Normal Radix Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	91
+"Normal Radix Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	112
+"Normal Radix Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	22178
+"Normal Radix Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	106
+"Normal Radix Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	189
+"Normal Radix Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	95
+"Normal Radix Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	82
+"Normal Radix Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	1447
+"Normal Radix Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	53
+"Normal Radix Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	55
+"Normal Radix Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	367
+"Normal Radix Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	68
+"Normal Radix Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	106
+"Normal Radix Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	49
+"Normal Radix Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	396
+"Normal Radix Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13643
+"Normal Radix Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	61
+"Normal Radix Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	51
+"Normal Radix Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	185
+"Normal Radix Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	75
+"Normal Radix Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1465
+"Normal Radix Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	80
+"Normal Radix Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	77
+"Normal Radix Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	48
+"Normal Radix Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	71
+"Worst Radix Sort Test Laputin Team"	1000	std	sort	std	64
+"Worst Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	binaryheap	salikhova	79
+"Worst Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	tim_sort	taishev	131
+"Worst Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	61
+"Worst Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	merge_sort	burlin	158
+"Worst Radix Sort Test Laputin Team"	1000	AhmatzyanovTeam	combsort	ismailova	-1
+"Worst Radix Sort Test Laputin Team"	1000	ShuranskyTeam	mergesort	shuranskiy	1749
+"Worst Radix Sort Test Laputin Team"	1000	ShuranskyTeam	quicksort	pashayan	52
+"Worst Radix Sort Test Laputin Team"	1000	ShuranskyTeam	heapsort	gabrielian	127
+"Worst Radix Sort Test Laputin Team"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Worst Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	radixsort	shekhovtsova	223
+"Worst Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	quicksort	efimenko	114
+"Worst Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Worst Radix Sort Test Laputin Team"	1000	Shekhovtsova_team	combsort	suleimenovazh	132
+"Worst Radix Sort Test Laputin Team"	1000	KononenkoTeam	combsort	kononenko	121
+"Worst Radix Sort Test Laputin Team"	1000	KononenkoTeam	shellsort	skriplyuk	82
+"Worst Radix Sort Test Laputin Team"	1000	KononenkoTeam	mergesort	malakhov	99
+"Worst Radix Sort Test Laputin Team"	1000	KononenkoTeam	quicksort	maltsev	81
+"Worst Radix Sort Test Laputin Team"	1000	TkachevTeam	countingsort	tkachev	1698
+"Worst Radix Sort Test Laputin Team"	1000	TkachevTeam	quicksort	karyagin	51
+"Worst Radix Sort Test Laputin Team"	1000	TkachevTeam	merge_sort	kotova	107
+"Worst Radix Sort Test Laputin Team"	1000	TkachevTeam	heapsort	kulagina	77
+"Worst Radix Sort Test Laputin Team"	1000	BadeevTeam	mergesort	badeev	1907
+"Worst Radix Sort Test Laputin Team"	1000	BadeevTeam	int_quicksort	knyazkin	55
+"Worst Radix Sort Test Laputin Team"	1000	BadeevTeam	combsortint	schekotovskaya	126
+"Worst Radix Sort Test Laputin Team"	1000	BadeevTeam	shakersort	tolstykh	784
+"Worst Radix Sort Test Laputin Team"	1000	LaputinTeam	heapsortbotup	laputin	57
+"Worst Radix Sort Test Laputin Team"	1000	LaputinTeam	quicksort	ageenko	61
+"Worst Radix Sort Test Laputin Team"	1000	LaputinTeam	radixsortlsd	absalyamov	152
+"Worst Radix Sort Test Laputin Team"	1000	LaputinTeam	timsort	seregin	112
+"Worst Radix Sort Test Laputin Team"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19363
+"Worst Radix Sort Test Laputin Team"	1000	DanilovaTeam	merge_sort	danilova	117
+"Worst Radix Sort Test Laputin Team"	1000	DanilovaTeam	insertionsort	stepuro	190
+"Worst Radix Sort Test Laputin Team"	1000	DanilovaTeam	heapsort	makarov	86
+"Worst Radix Sort Test Laputin Team"	1000	DanilovaTeam	quicksort	byankina	56
+"Worst Radix Sort Test Laputin Team"	1000	DanilovaTeam	selectionsort	igoshkina	986
+"Worst Radix Sort Test Laputin Team"	1000	SimonovTeam	quicksort	simonov	51
+"Worst Radix Sort Test Laputin Team"	1000	SimonovTeam	shellsort	chiganov	53
+"Worst Radix Sort Test Laputin Team"	1000	SimonovTeam	insertsort	safonov	346
+"Worst Radix Sort Test Laputin Team"	1000	SimonovTeam	mergesort	pulkov	66
+"Worst Radix Sort Test Laputin Team"	1000	SimonovTeam	smooth	samedov	105
+"Worst Radix Sort Test Laputin Team"	1000	ShilakinTeam	quick_sort	gerasimoff	57
+"Worst Radix Sort Test Laputin Team"	1000	ShilakinTeam	tim_sort	shilakin	363
+"Worst Radix Sort Test Laputin Team"	1000	ShilakinTeam	merge_sort	vasiutin	13775
+"Worst Radix Sort Test Laputin Team"	1000	KirillovTeam	shellsort	kirillov	65
+"Worst Radix Sort Test Laputin Team"	1000	KirillovTeam	quicksort	makeev	53
+"Worst Radix Sort Test Laputin Team"	1000	KirillovTeam	insertsoft	afanasev	190
+"Worst Radix Sort Test Laputin Team"	1000	KirillovTeam	combsort	dimova	-1
+"Worst Radix Sort Test Laputin Team"	1000	KirillovTeam	selectsort	klisunova	1419
+"Worst Radix Sort Test Laputin Team"	1000	PolyakovTeam	merge_sort	iliushik	90
+"Worst Radix Sort Test Laputin Team"	1000	PolyakovTeam	heapsort	polyakov	77
+"Worst Radix Sort Test Laputin Team"	1000	PolyakovTeam	quick_sort	shabalinov	48
+"Worst Radix Sort Test Laputin Team"	1000	PolyakovTeam	shellsort	kamenshchikov	70
+"bad case quick sort by Karyagin "	99	std	sort	std	1
+"bad case quick sort by Karyagin "	99	AhmatzyanovTeam	binaryheap	salikhova	5
+"bad case quick sort by Karyagin "	99	AhmatzyanovTeam	tim_sort	taishev	5
+"bad case quick sort by Karyagin "	99	AhmatzyanovTeam	quicksort	ahmatzyanov	2
+"bad case quick sort by Karyagin "	99	AhmatzyanovTeam	merge_sort	burlin	11
+"bad case quick sort by Karyagin "	99	AhmatzyanovTeam	combsort	ismailova	2
+"bad case quick sort by Karyagin "	99	ShuranskyTeam	mergesort	shuranskiy	188
+"bad case quick sort by Karyagin "	99	ShuranskyTeam	quicksort	pashayan	1
+"bad case quick sort by Karyagin "	99	ShuranskyTeam	heapsort	gabrielian	8
+"bad case quick sort by Karyagin "	99	ShuranskyTeam	bitonicsort	sharnin	4
+"bad case quick sort by Karyagin "	99	Shekhovtsova_team	radixsort	shekhovtsova	10
+"bad case quick sort by Karyagin "	99	Shekhovtsova_team	quicksort	efimenko	7
+"bad case quick sort by Karyagin "	99	Shekhovtsova_team	treesort	issabek	-1
+"bad case quick sort by Karyagin "	99	Shekhovtsova_team	combsort	suleimenovazh	5
+"bad case quick sort by Karyagin "	99	KononenkoTeam	combsort	kononenko	4
+"bad case quick sort by Karyagin "	99	KononenkoTeam	shellsort	skriplyuk	1
+"bad case quick sort by Karyagin "	99	KononenkoTeam	mergesort	malakhov	7
+"bad case quick sort by Karyagin "	99	KononenkoTeam	quicksort	maltsev	23
+"bad case quick sort by Karyagin "	99	TkachevTeam	countingsort	tkachev	2
+"bad case quick sort by Karyagin "	99	TkachevTeam	quicksort	karyagin	7
+"bad case quick sort by Karyagin "	99	TkachevTeam	merge_sort	kotova	16
+"bad case quick sort by Karyagin "	99	TkachevTeam	heapsort	kulagina	5
+"bad case quick sort by Karyagin "	99	BadeevTeam	mergesort	badeev	1
+"bad case quick sort by Karyagin "	99	BadeevTeam	int_quicksort	knyazkin	1
+"bad case quick sort by Karyagin "	99	BadeevTeam	combsortint	schekotovskaya	4
+"bad case quick sort by Karyagin "	99	BadeevTeam	shakersort	tolstykh	5
+"bad case quick sort by Karyagin "	99	LaputinTeam	heapsortbotup	laputin	4
+"bad case quick sort by Karyagin "	99	LaputinTeam	quicksort	ageenko	2
+"bad case quick sort by Karyagin "	99	LaputinTeam	radixsortlsd	absalyamov	7
+"bad case quick sort by Karyagin "	99	LaputinTeam	timsort	seregin	2
+"bad case quick sort by Karyagin "	99	LaputinTeam	merge_sort	niyazmuhammedow	1599
+"bad case quick sort by Karyagin "	99	DanilovaTeam	merge_sort	danilova	7
+"bad case quick sort by Karyagin "	99	DanilovaTeam	insertionsort	stepuro	0
+"bad case quick sort by Karyagin "	99	DanilovaTeam	heapsort	makarov	5
+"bad case quick sort by Karyagin "	99	DanilovaTeam	quicksort	byankina	1
+"bad case quick sort by Karyagin "	99	DanilovaTeam	selectionsort	igoshkina	5
+"bad case quick sort by Karyagin "	99	SimonovTeam	quicksort	simonov	1
+"bad case quick sort by Karyagin "	99	SimonovTeam	shellsort	chiganov	0
+"bad case quick sort by Karyagin "	99	SimonovTeam	insertsort	safonov	5
+"bad case quick sort by Karyagin "	99	SimonovTeam	mergesort	pulkov	5
+"bad case quick sort by Karyagin "	99	SimonovTeam	smooth	samedov	2
+"bad case quick sort by Karyagin "	99	ShilakinTeam	quick_sort	gerasimoff	7
+"bad case quick sort by Karyagin "	99	ShilakinTeam	tim_sort	shilakin	22
+"bad case quick sort by Karyagin "	99	ShilakinTeam	merge_sort	vasiutin	345
+"bad case quick sort by Karyagin "	99	KirillovTeam	shellsort	kirillov	0
+"bad case quick sort by Karyagin "	99	KirillovTeam	quicksort	makeev	4
+"bad case quick sort by Karyagin "	99	KirillovTeam	insertsoft	afanasev	0
+"bad case quick sort by Karyagin "	99	KirillovTeam	combsort	dimova	2
+"bad case quick sort by Karyagin "	99	KirillovTeam	selectsort	klisunova	12
+"bad case quick sort by Karyagin "	99	PolyakovTeam	merge_sort	iliushik	20
+"bad case quick sort by Karyagin "	99	PolyakovTeam	heapsort	polyakov	5
+"bad case quick sort by Karyagin "	99	PolyakovTeam	quick_sort	shabalinov	7
+"bad case quick sort by Karyagin "	99	PolyakovTeam	shellsort	kamenshchikov	1
+"good case for counting sort by Tkachev"	1000	std	sort	std	30
+"good case for counting sort by Tkachev"	1000	AhmatzyanovTeam	binaryheap	salikhova	78
+"good case for counting sort by Tkachev"	1000	AhmatzyanovTeam	tim_sort	taishev	128
+"good case for counting sort by Tkachev"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	44
+"good case for counting sort by Tkachev"	1000	AhmatzyanovTeam	merge_sort	burlin	150
+"good case for counting sort by Tkachev"	1000	AhmatzyanovTeam	combsort	ismailova	61
+"good case for counting sort by Tkachev"	1000	ShuranskyTeam	mergesort	shuranskiy	1871
+"good case for counting sort by Tkachev"	1000	ShuranskyTeam	quicksort	pashayan	46
+"good case for counting sort by Tkachev"	1000	ShuranskyTeam	heapsort	gabrielian	127
+"good case for counting sort by Tkachev"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"good case for counting sort by Tkachev"	1000	Shekhovtsova_team	radixsort	shekhovtsova	42
+"good case for counting sort by Tkachev"	1000	Shekhovtsova_team	quicksort	efimenko	97
+"good case for counting sort by Tkachev"	1000	Shekhovtsova_team	treesort	issabek	-1
+"good case for counting sort by Tkachev"	1000	Shekhovtsova_team	combsort	suleimenovazh	113
+"good case for counting sort by Tkachev"	1000	KononenkoTeam	combsort	kononenko	102
+"good case for counting sort by Tkachev"	1000	KononenkoTeam	shellsort	skriplyuk	56
+"good case for counting sort by Tkachev"	1000	KononenkoTeam	mergesort	malakhov	98
+"good case for counting sort by Tkachev"	1000	KononenkoTeam	quicksort	maltsev	85
+"good case for counting sort by Tkachev"	1000	TkachevTeam	countingsort	tkachev	5
+"good case for counting sort by Tkachev"	1000	TkachevTeam	quicksort	karyagin	51
+"good case for counting sort by Tkachev"	1000	TkachevTeam	merge_sort	kotova	103
+"good case for counting sort by Tkachev"	1000	TkachevTeam	heapsort	kulagina	82
+"good case for counting sort by Tkachev"	1000	BadeevTeam	mergesort	badeev	1802
+"good case for counting sort by Tkachev"	1000	BadeevTeam	int_quicksort	knyazkin	38
+"good case for counting sort by Tkachev"	1000	BadeevTeam	combsortint	schekotovskaya	100
+"good case for counting sort by Tkachev"	1000	BadeevTeam	shakersort	tolstykh	761
+"good case for counting sort by Tkachev"	1000	LaputinTeam	heapsortbotup	laputin	55
+"good case for counting sort by Tkachev"	1000	LaputinTeam	quicksort	ageenko	45
+"good case for counting sort by Tkachev"	1000	LaputinTeam	radixsortlsd	absalyamov	43
+"good case for counting sort by Tkachev"	1000	LaputinTeam	timsort	seregin	99
+"good case for counting sort by Tkachev"	1000	LaputinTeam	merge_sort	niyazmuhammedow	20238
+"good case for counting sort by Tkachev"	1000	DanilovaTeam	merge_sort	danilova	108
+"good case for counting sort by Tkachev"	1000	DanilovaTeam	insertionsort	stepuro	181
+"good case for counting sort by Tkachev"	1000	DanilovaTeam	heapsort	makarov	78
+"good case for counting sort by Tkachev"	1000	DanilovaTeam	quicksort	byankina	47
+"good case for counting sort by Tkachev"	1000	DanilovaTeam	selectionsort	igoshkina	833
+"good case for counting sort by Tkachev"	1000	SimonovTeam	quicksort	simonov	38
+"good case for counting sort by Tkachev"	1000	SimonovTeam	shellsort	chiganov	47
+"good case for counting sort by Tkachev"	1000	SimonovTeam	insertsort	safonov	359
+"good case for counting sort by Tkachev"	1000	SimonovTeam	mergesort	pulkov	64
+"good case for counting sort by Tkachev"	1000	SimonovTeam	smooth	samedov	108
+"good case for counting sort by Tkachev"	1000	ShilakinTeam	quick_sort	gerasimoff	44
+"good case for counting sort by Tkachev"	1000	ShilakinTeam	tim_sort	shilakin	287
+"good case for counting sort by Tkachev"	1000	ShilakinTeam	merge_sort	vasiutin	13394
+"good case for counting sort by Tkachev"	1000	KirillovTeam	shellsort	kirillov	52
+"good case for counting sort by Tkachev"	1000	KirillovTeam	quicksort	makeev	40
+"good case for counting sort by Tkachev"	1000	KirillovTeam	insertsoft	afanasev	190
+"good case for counting sort by Tkachev"	1000	KirillovTeam	combsort	dimova	57
+"good case for counting sort by Tkachev"	1000	KirillovTeam	selectsort	klisunova	1449
+"good case for counting sort by Tkachev"	1000	PolyakovTeam	merge_sort	iliushik	74
+"good case for counting sort by Tkachev"	1000	PolyakovTeam	heapsort	polyakov	79
+"good case for counting sort by Tkachev"	1000	PolyakovTeam	quick_sort	shabalinov	46
+"good case for counting sort by Tkachev"	1000	PolyakovTeam	shellsort	kamenshchikov	57
+"full-sorted integer Kononenko"	1000	std	sort	std	11
+"full-sorted integer Kononenko"	1000	AhmatzyanovTeam	binaryheap	salikhova	58
+"full-sorted integer Kononenko"	1000	AhmatzyanovTeam	tim_sort	taishev	53
+"full-sorted integer Kononenko"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	17
+"full-sorted integer Kononenko"	1000	AhmatzyanovTeam	merge_sort	burlin	109
+"full-sorted integer Kononenko"	1000	AhmatzyanovTeam	combsort	ismailova	44
+"full-sorted integer Kononenko"	1000	ShuranskyTeam	mergesort	shuranskiy	2314
+"full-sorted integer Kononenko"	1000	ShuranskyTeam	quicksort	pashayan	176
+"full-sorted integer Kononenko"	1000	ShuranskyTeam	heapsort	gabrielian	109
+"full-sorted integer Kononenko"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"full-sorted integer Kononenko"	1000	Shekhovtsova_team	radixsort	shekhovtsova	61
+"full-sorted integer Kononenko"	1000	Shekhovtsova_team	quicksort	efimenko	64
+"full-sorted integer Kononenko"	1000	Shekhovtsova_team	treesort	issabek	-1
+"full-sorted integer Kononenko"	1000	Shekhovtsova_team	combsort	suleimenovazh	89
+"full-sorted integer Kononenko"	1000	KononenkoTeam	combsort	kononenko	82
+"full-sorted integer Kononenko"	1000	KononenkoTeam	shellsort	skriplyuk	16
+"full-sorted integer Kononenko"	1000	KononenkoTeam	mergesort	malakhov	58
+"full-sorted integer Kononenko"	1000	KononenkoTeam	quicksort	maltsev	1080
+"full-sorted integer Kononenko"	1000	TkachevTeam	countingsort	tkachev	10
+"full-sorted integer Kononenko"	1000	TkachevTeam	quicksort	karyagin	344
+"full-sorted integer Kononenko"	1000	TkachevTeam	merge_sort	kotova	53
+"full-sorted integer Kononenko"	1000	TkachevTeam	heapsort	kulagina	56
+"full-sorted integer Kononenko"	1000	BadeevTeam	mergesort	badeev	39
+"full-sorted integer Kononenko"	1000	BadeevTeam	int_quicksort	knyazkin	11
+"full-sorted integer Kononenko"	1000	BadeevTeam	combsortint	schekotovskaya	78
+"full-sorted integer Kononenko"	1000	BadeevTeam	shakersort	tolstykh	344
+"full-sorted integer Kononenko"	1000	LaputinTeam	heapsortbotup	laputin	50
+"full-sorted integer Kononenko"	1000	LaputinTeam	quicksort	ageenko	383
+"full-sorted integer Kononenko"	1000	LaputinTeam	radixsortlsd	absalyamov	65
+"full-sorted integer Kononenko"	1000	LaputinTeam	timsort	seregin	-1
+"full-sorted integer Kononenko"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19225
+"full-sorted integer Kononenko"	1000	DanilovaTeam	merge_sort	danilova	59
+"full-sorted integer Kononenko"	1000	DanilovaTeam	insertionsort	stepuro	2
+"full-sorted integer Kononenko"	1000	DanilovaTeam	heapsort	makarov	66
+"full-sorted integer Kononenko"	1000	DanilovaTeam	quicksort	byankina	11
+"full-sorted integer Kononenko"	1000	DanilovaTeam	selectionsort	igoshkina	357
+"full-sorted integer Kononenko"	1000	SimonovTeam	quicksort	simonov	15
+"full-sorted integer Kononenko"	1000	SimonovTeam	shellsort	chiganov	11
+"full-sorted integer Kononenko"	1000	SimonovTeam	insertsort	safonov	353
+"full-sorted integer Kononenko"	1000	SimonovTeam	mergesort	pulkov	29
+"full-sorted integer Kononenko"	1000	SimonovTeam	smooth	samedov	14
+"full-sorted integer Kononenko"	1000	ShilakinTeam	quick_sort	gerasimoff	324
+"full-sorted integer Kononenko"	1000	ShilakinTeam	tim_sort	shilakin	338
+"full-sorted integer Kononenko"	1000	ShilakinTeam	merge_sort	vasiutin	13444
+"full-sorted integer Kononenko"	1000	KirillovTeam	shellsort	kirillov	11
+"full-sorted integer Kononenko"	1000	KirillovTeam	quicksort	makeev	95
+"full-sorted integer Kononenko"	1000	KirillovTeam	insertsoft	afanasev	3
+"full-sorted integer Kononenko"	1000	KirillovTeam	combsort	dimova	39
+"full-sorted integer Kononenko"	1000	KirillovTeam	selectsort	klisunova	1460
+"full-sorted integer Kononenko"	1000	PolyakovTeam	merge_sort	iliushik	39
+"full-sorted integer Kononenko"	1000	PolyakovTeam	heapsort	polyakov	61
+"full-sorted integer Kononenko"	1000	PolyakovTeam	quick_sort	shabalinov	351
+"full-sorted integer Kononenko"	1000	PolyakovTeam	shellsort	kamenshchikov	17
+"semi-sorted integer Kononenko"	100	std	sort	std	2
+"semi-sorted integer Kononenko"	100	AhmatzyanovTeam	binaryheap	salikhova	6
+"semi-sorted integer Kononenko"	100	AhmatzyanovTeam	tim_sort	taishev	10
+"semi-sorted integer Kononenko"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	3
+"semi-sorted integer Kononenko"	100	AhmatzyanovTeam	merge_sort	burlin	12
+"semi-sorted integer Kononenko"	100	AhmatzyanovTeam	combsort	ismailova	3
+"semi-sorted integer Kononenko"	100	ShuranskyTeam	mergesort	shuranskiy	193
+"semi-sorted integer Kononenko"	100	ShuranskyTeam	quicksort	pashayan	3
+"semi-sorted integer Kononenko"	100	ShuranskyTeam	heapsort	gabrielian	9
+"semi-sorted integer Kononenko"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"semi-sorted integer Kononenko"	100	Shekhovtsova_team	radixsort	shekhovtsova	24
+"semi-sorted integer Kononenko"	100	Shekhovtsova_team	quicksort	efimenko	8
+"semi-sorted integer Kononenko"	100	Shekhovtsova_team	treesort	issabek	-1
+"semi-sorted integer Kononenko"	100	Shekhovtsova_team	combsort	suleimenovazh	7
+"semi-sorted integer Kononenko"	100	KononenkoTeam	combsort	kononenko	6
+"semi-sorted integer Kononenko"	100	KononenkoTeam	shellsort	skriplyuk	2
+"semi-sorted integer Kononenko"	100	KononenkoTeam	mergesort	malakhov	9
+"semi-sorted integer Kononenko"	100	KononenkoTeam	quicksort	maltsev	21
+"semi-sorted integer Kononenko"	100	TkachevTeam	countingsort	tkachev	48
+"semi-sorted integer Kononenko"	100	TkachevTeam	quicksort	karyagin	4
+"semi-sorted integer Kononenko"	100	TkachevTeam	merge_sort	kotova	17
+"semi-sorted integer Kononenko"	100	TkachevTeam	heapsort	kulagina	5
+"semi-sorted integer Kononenko"	100	BadeevTeam	mergesort	badeev	66
+"semi-sorted integer Kononenko"	100	BadeevTeam	int_quicksort	knyazkin	2
+"semi-sorted integer Kononenko"	100	BadeevTeam	combsortint	schekotovskaya	6
+"semi-sorted integer Kononenko"	100	BadeevTeam	shakersort	tolstykh	8
+"semi-sorted integer Kononenko"	100	LaputinTeam	heapsortbotup	laputin	4
+"semi-sorted integer Kononenko"	100	LaputinTeam	quicksort	ageenko	4
+"semi-sorted integer Kononenko"	100	LaputinTeam	radixsortlsd	absalyamov	20
+"semi-sorted integer Kononenko"	100	LaputinTeam	timsort	seregin	7
+"semi-sorted integer Kononenko"	100	LaputinTeam	merge_sort	niyazmuhammedow	1705
+"semi-sorted integer Kononenko"	100	DanilovaTeam	merge_sort	danilova	8
+"semi-sorted integer Kononenko"	100	DanilovaTeam	insertionsort	stepuro	1
+"semi-sorted integer Kononenko"	100	DanilovaTeam	heapsort	makarov	6
+"semi-sorted integer Kononenko"	100	DanilovaTeam	quicksort	byankina	2
+"semi-sorted integer Kononenko"	100	DanilovaTeam	selectionsort	igoshkina	8
+"semi-sorted integer Kononenko"	100	SimonovTeam	quicksort	simonov	3
+"semi-sorted integer Kononenko"	100	SimonovTeam	shellsort	chiganov	2
+"semi-sorted integer Kononenko"	100	SimonovTeam	insertsort	safonov	6
+"semi-sorted integer Kononenko"	100	SimonovTeam	mergesort	pulkov	6
+"semi-sorted integer Kononenko"	100	SimonovTeam	smooth	samedov	6
+"semi-sorted integer Kononenko"	100	ShilakinTeam	quick_sort	gerasimoff	4
+"semi-sorted integer Kononenko"	100	ShilakinTeam	tim_sort	shilakin	25
+"semi-sorted integer Kononenko"	100	ShilakinTeam	merge_sort	vasiutin	343
+"semi-sorted integer Kononenko"	100	KirillovTeam	shellsort	kirillov	2
+"semi-sorted integer Kononenko"	100	KirillovTeam	quicksort	makeev	4
+"semi-sorted integer Kononenko"	100	KirillovTeam	insertsoft	afanasev	1
+"semi-sorted integer Kononenko"	100	KirillovTeam	combsort	dimova	3
+"semi-sorted integer Kononenko"	100	KirillovTeam	selectsort	klisunova	14
+"semi-sorted integer Kononenko"	100	PolyakovTeam	merge_sort	iliushik	6
+"semi-sorted integer Kononenko"	100	PolyakovTeam	heapsort	polyakov	7
+"semi-sorted integer Kononenko"	100	PolyakovTeam	quick_sort	shabalinov	4
+"semi-sorted integer Kononenko"	100	PolyakovTeam	shellsort	kamenshchikov	2
+"negative integer Kononenko"	10	std	sort	std	0
+"negative integer Kononenko"	10	AhmatzyanovTeam	binaryheap	salikhova	0
+"negative integer Kononenko"	10	AhmatzyanovTeam	tim_sort	taishev	2
+"negative integer Kononenko"	10	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"negative integer Kononenko"	10	AhmatzyanovTeam	merge_sort	burlin	1
+"negative integer Kononenko"	10	AhmatzyanovTeam	combsort	ismailova	0
+"negative integer Kononenko"	10	ShuranskyTeam	mergesort	shuranskiy	12
+"negative integer Kononenko"	10	ShuranskyTeam	quicksort	pashayan	0
+"negative integer Kononenko"	10	ShuranskyTeam	heapsort	gabrielian	0
+"negative integer Kononenko"	10	ShuranskyTeam	bitonicsort	sharnin	-1
+"negative integer Kononenko"	10	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"negative integer Kononenko"	10	Shekhovtsova_team	quicksort	efimenko	1
+"negative integer Kononenko"	10	Shekhovtsova_team	treesort	issabek	-1
+"negative integer Kononenko"	10	Shekhovtsova_team	combsort	suleimenovazh	0
+"negative integer Kononenko"	10	KononenkoTeam	combsort	kononenko	0
+"negative integer Kononenko"	10	KononenkoTeam	shellsort	skriplyuk	0
+"negative integer Kononenko"	10	KononenkoTeam	mergesort	malakhov	2
+"negative integer Kononenko"	10	KononenkoTeam	quicksort	maltsev	2
+"negative integer Kononenko"	10	TkachevTeam	countingsort	tkachev	-1
+"negative integer Kononenko"	10	TkachevTeam	quicksort	karyagin	0
+"negative integer Kononenko"	10	TkachevTeam	merge_sort	kotova	8
+"negative integer Kononenko"	10	TkachevTeam	heapsort	kulagina	0
+"negative integer Kononenko"	10	BadeevTeam	mergesort	badeev	11
+"negative integer Kononenko"	10	BadeevTeam	int_quicksort	knyazkin	0
+"negative integer Kononenko"	10	BadeevTeam	combsortint	schekotovskaya	0
+"negative integer Kononenko"	10	BadeevTeam	shakersort	tolstykh	0
+"negative integer Kononenko"	10	LaputinTeam	heapsortbotup	laputin	0
+"negative integer Kononenko"	10	LaputinTeam	quicksort	ageenko	0
+"negative integer Kononenko"	10	LaputinTeam	radixsortlsd	absalyamov	-1
+"negative integer Kononenko"	10	LaputinTeam	timsort	seregin	2
+"negative integer Kononenko"	10	LaputinTeam	merge_sort	niyazmuhammedow	120
+"negative integer Kononenko"	10	DanilovaTeam	merge_sort	danilova	2
+"negative integer Kononenko"	10	DanilovaTeam	insertionsort	stepuro	0
+"negative integer Kononenko"	10	DanilovaTeam	heapsort	makarov	0
+"negative integer Kononenko"	10	DanilovaTeam	quicksort	byankina	0
+"negative integer Kononenko"	10	DanilovaTeam	selectionsort	igoshkina	0
+"negative integer Kononenko"	10	SimonovTeam	quicksort	simonov	0
+"negative integer Kononenko"	10	SimonovTeam	shellsort	chiganov	0
+"negative integer Kononenko"	10	SimonovTeam	insertsort	safonov	0
+"negative integer Kononenko"	10	SimonovTeam	mergesort	pulkov	2
+"negative integer Kononenko"	10	SimonovTeam	smooth	samedov	1
+"negative integer Kononenko"	10	ShilakinTeam	quick_sort	gerasimoff	0
+"negative integer Kononenko"	10	ShilakinTeam	tim_sort	shilakin	0
+"negative integer Kononenko"	10	ShilakinTeam	merge_sort	vasiutin	17
+"negative integer Kononenko"	10	KirillovTeam	shellsort	kirillov	0
+"negative integer Kononenko"	10	KirillovTeam	quicksort	makeev	0
+"negative integer Kononenko"	10	KirillovTeam	insertsoft	afanasev	0
+"negative integer Kononenko"	10	KirillovTeam	combsort	dimova	0
+"negative integer Kononenko"	10	KirillovTeam	selectsort	klisunova	0
+"negative integer Kononenko"	10	PolyakovTeam	merge_sort	iliushik	2
+"negative integer Kononenko"	10	PolyakovTeam	heapsort	polyakov	0
+"negative integer Kononenko"	10	PolyakovTeam	quick_sort	shabalinov	0
+"negative integer Kononenko"	10	PolyakovTeam	shellsort	kamenshchikov	0
+"decreasing integer"	100	std	sort	std	1
+"decreasing integer"	100	AhmatzyanovTeam	binaryheap	salikhova	5
+"decreasing integer"	100	AhmatzyanovTeam	tim_sort	taishev	5
+"decreasing integer"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	2
+"decreasing integer"	100	AhmatzyanovTeam	merge_sort	burlin	12
+"decreasing integer"	100	AhmatzyanovTeam	combsort	ismailova	3
+"decreasing integer"	100	ShuranskyTeam	mergesort	shuranskiy	120
+"decreasing integer"	100	ShuranskyTeam	quicksort	pashayan	3
+"decreasing integer"	100	ShuranskyTeam	heapsort	gabrielian	7
+"decreasing integer"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"decreasing integer"	100	Shekhovtsova_team	radixsort	shekhovtsova	14
+"decreasing integer"	100	Shekhovtsova_team	quicksort	efimenko	7
+"decreasing integer"	100	Shekhovtsova_team	treesort	issabek	-1
+"decreasing integer"	100	Shekhovtsova_team	combsort	suleimenovazh	6
+"decreasing integer"	100	KononenkoTeam	combsort	kononenko	5
+"decreasing integer"	100	KononenkoTeam	shellsort	skriplyuk	1
+"decreasing integer"	100	KononenkoTeam	mergesort	malakhov	6
+"decreasing integer"	100	KononenkoTeam	quicksort	maltsev	23
+"decreasing integer"	100	TkachevTeam	countingsort	tkachev	3
+"decreasing integer"	100	TkachevTeam	quicksort	karyagin	6
+"decreasing integer"	100	TkachevTeam	merge_sort	kotova	15
+"decreasing integer"	100	TkachevTeam	heapsort	kulagina	5
+"decreasing integer"	100	BadeevTeam	mergesort	badeev	198
+"decreasing integer"	100	BadeevTeam	int_quicksort	knyazkin	1
+"decreasing integer"	100	BadeevTeam	combsortint	schekotovskaya	5
+"decreasing integer"	100	BadeevTeam	shakersort	tolstykh	7
+"decreasing integer"	100	LaputinTeam	heapsortbotup	laputin	4
+"decreasing integer"	100	LaputinTeam	quicksort	ageenko	2
+"decreasing integer"	100	LaputinTeam	radixsortlsd	absalyamov	11
+"decreasing integer"	100	LaputinTeam	timsort	seregin	2
+"decreasing integer"	100	LaputinTeam	merge_sort	niyazmuhammedow	1651
+"decreasing integer"	100	DanilovaTeam	merge_sort	danilova	7
+"decreasing integer"	100	DanilovaTeam	insertionsort	stepuro	5
+"decreasing integer"	100	DanilovaTeam	heapsort	makarov	5
+"decreasing integer"	100	DanilovaTeam	quicksort	byankina	1
+"decreasing integer"	100	DanilovaTeam	selectionsort	igoshkina	6
+"decreasing integer"	100	SimonovTeam	quicksort	simonov	1
+"decreasing integer"	100	SimonovTeam	shellsort	chiganov	1
+"decreasing integer"	100	SimonovTeam	insertsort	safonov	4
+"decreasing integer"	100	SimonovTeam	mergesort	pulkov	5
+"decreasing integer"	100	SimonovTeam	smooth	samedov	7
+"decreasing integer"	100	ShilakinTeam	quick_sort	gerasimoff	6
+"decreasing integer"	100	ShilakinTeam	tim_sort	shilakin	23
+"decreasing integer"	100	ShilakinTeam	merge_sort	vasiutin	362
+"decreasing integer"	100	KirillovTeam	shellsort	kirillov	1
+"decreasing integer"	100	KirillovTeam	quicksort	makeev	4
+"decreasing integer"	100	KirillovTeam	insertsoft	afanasev	5
+"decreasing integer"	100	KirillovTeam	combsort	dimova	3
+"decreasing integer"	100	KirillovTeam	selectsort	klisunova	13
+"decreasing integer"	100	PolyakovTeam	merge_sort	iliushik	5
+"decreasing integer"	100	PolyakovTeam	heapsort	polyakov	5
+"decreasing integer"	100	PolyakovTeam	quick_sort	shabalinov	6
+"decreasing integer"	100	PolyakovTeam	shellsort	kamenshchikov	1
+"decreasing integer"	1000	std	sort	std	13
+"decreasing integer"	1000	AhmatzyanovTeam	binaryheap	salikhova	62
+"decreasing integer"	1000	AhmatzyanovTeam	tim_sort	taishev	42
+"decreasing integer"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	16
+"decreasing integer"	1000	AhmatzyanovTeam	merge_sort	burlin	153
+"decreasing integer"	1000	AhmatzyanovTeam	combsort	ismailova	109
+"decreasing integer"	1000	ShuranskyTeam	mergesort	shuranskiy	1291
+"decreasing integer"	1000	ShuranskyTeam	quicksort	pashayan	25
+"decreasing integer"	1000	ShuranskyTeam	heapsort	gabrielian	105
+"decreasing integer"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"decreasing integer"	1000	Shekhovtsova_team	radixsort	shekhovtsova	82
+"decreasing integer"	1000	Shekhovtsova_team	quicksort	efimenko	67
+"decreasing integer"	1000	Shekhovtsova_team	treesort	issabek	-1
+"decreasing integer"	1000	Shekhovtsova_team	combsort	suleimenovazh	88
+"decreasing integer"	1000	KononenkoTeam	combsort	kononenko	82
+"decreasing integer"	1000	KononenkoTeam	shellsort	skriplyuk	19
+"decreasing integer"	1000	KononenkoTeam	mergesort	malakhov	56
+"decreasing integer"	1000	KononenkoTeam	quicksort	maltsev	2111
+"decreasing integer"	1000	TkachevTeam	countingsort	tkachev	13
+"decreasing integer"	1000	TkachevTeam	quicksort	karyagin	490
+"decreasing integer"	1000	TkachevTeam	merge_sort	kotova	59
+"decreasing integer"	1000	TkachevTeam	heapsort	kulagina	63
+"decreasing integer"	1000	BadeevTeam	mergesort	badeev	2387
+"decreasing integer"	1000	BadeevTeam	int_quicksort	knyazkin	8
+"decreasing integer"	1000	BadeevTeam	combsortint	schekotovskaya	83
+"decreasing integer"	1000	BadeevTeam	shakersort	tolstykh	792
+"decreasing integer"	1000	LaputinTeam	heapsortbotup	laputin	49
+"decreasing integer"	1000	LaputinTeam	quicksort	ageenko	15
+"decreasing integer"	1000	LaputinTeam	radixsortlsd	absalyamov	82
+"decreasing integer"	1000	LaputinTeam	timsort	seregin	3
+"decreasing integer"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19406
+"decreasing integer"	1000	DanilovaTeam	merge_sort	danilova	60
+"decreasing integer"	1000	DanilovaTeam	insertionsort	stepuro	337
+"decreasing integer"	1000	DanilovaTeam	heapsort	makarov	65
+"decreasing integer"	1000	DanilovaTeam	quicksort	byankina	7
+"decreasing integer"	1000	DanilovaTeam	selectionsort	igoshkina	551
+"decreasing integer"	1000	SimonovTeam	quicksort	simonov	9
+"decreasing integer"	1000	SimonovTeam	shellsort	chiganov	14
+"decreasing integer"	1000	SimonovTeam	insertsort	safonov	344
+"decreasing integer"	1000	SimonovTeam	mergesort	pulkov	34
+"decreasing integer"	1000	SimonovTeam	smooth	samedov	89
+"decreasing integer"	1000	ShilakinTeam	quick_sort	gerasimoff	487
+"decreasing integer"	1000	ShilakinTeam	tim_sort	shilakin	244
+"decreasing integer"	1000	ShilakinTeam	merge_sort	vasiutin	13570
+"decreasing integer"	1000	KirillovTeam	shellsort	kirillov	16
+"decreasing integer"	1000	KirillovTeam	quicksort	makeev	266
+"decreasing integer"	1000	KirillovTeam	insertsoft	afanasev	327
+"decreasing integer"	1000	KirillovTeam	combsort	dimova	37
+"decreasing integer"	1000	KirillovTeam	selectsort	klisunova	1420
+"decreasing integer"	1000	PolyakovTeam	merge_sort	iliushik	36
+"decreasing integer"	1000	PolyakovTeam	heapsort	polyakov	59
+"decreasing integer"	1000	PolyakovTeam	quick_sort	shabalinov	510
+"decreasing integer"	1000	PolyakovTeam	shellsort	kamenshchikov	19
+"repetitive integer"	10000	std	sort	std	153
+"repetitive integer"	10000	AhmatzyanovTeam	binaryheap	salikhova	754
+"repetitive integer"	10000	AhmatzyanovTeam	tim_sort	taishev	1524
+"repetitive integer"	10000	AhmatzyanovTeam	quicksort	ahmatzyanov	344
+"repetitive integer"	10000	AhmatzyanovTeam	merge_sort	burlin	1596
+"repetitive integer"	10000	AhmatzyanovTeam	combsort	ismailova	680
+"repetitive integer"	10000	ShuranskyTeam	mergesort	shuranskiy	21465
+"repetitive integer"	10000	ShuranskyTeam	quicksort	pashayan	6724
+"repetitive integer"	10000	ShuranskyTeam	heapsort	gabrielian	1313
+"repetitive integer"	10000	ShuranskyTeam	bitonicsort	sharnin	-1
+"repetitive integer"	10000	Shekhovtsova_team	radixsort	shekhovtsova	127
+"repetitive integer"	10000	Shekhovtsova_team	quicksort	efimenko	4157
+"repetitive integer"	10000	Shekhovtsova_team	treesort	issabek	-1
+"repetitive integer"	10000	Shekhovtsova_team	combsort	suleimenovazh	1190
+"repetitive integer"	10000	KononenkoTeam	combsort	kononenko	1134
+"repetitive integer"	10000	KononenkoTeam	shellsort	skriplyuk	513
+"repetitive integer"	10000	KononenkoTeam	mergesort	malakhov	921
+"repetitive integer"	10000	KononenkoTeam	quicksort	maltsev	12206
+"repetitive integer"	10000	TkachevTeam	countingsort	tkachev	31
+"repetitive integer"	10000	TkachevTeam	quicksort	karyagin	6990
+"repetitive integer"	10000	TkachevTeam	merge_sort	kotova	800
+"repetitive integer"	10000	TkachevTeam	heapsort	kulagina	776
+"repetitive integer"	10000	BadeevTeam	mergesort	badeev	20491
+"repetitive integer"	10000	BadeevTeam	int_quicksort	knyazkin	294
+"repetitive integer"	10000	BadeevTeam	combsortint	schekotovskaya	1165
+"repetitive integer"	10000	BadeevTeam	shakersort	tolstykh	117479
+"repetitive integer"	10000	LaputinTeam	heapsortbotup	laputin	775
+"repetitive integer"	10000	LaputinTeam	quicksort	ageenko	327
+"repetitive integer"	10000	LaputinTeam	radixsortlsd	absalyamov	150
+"repetitive integer"	10000	LaputinTeam	timsort	seregin	1205
+"repetitive integer"	10000	LaputinTeam	merge_sort	niyazmuhammedow	218542
+"repetitive integer"	10000	DanilovaTeam	merge_sort	danilova	943
+"repetitive integer"	10000	DanilovaTeam	insertionsort	stepuro	14863
+"repetitive integer"	10000	DanilovaTeam	heapsort	makarov	733
+"repetitive integer"	10000	DanilovaTeam	quicksort	byankina	318
+"repetitive integer"	10000	DanilovaTeam	selectionsort	igoshkina	34425
+"repetitive integer"	10000	SimonovTeam	quicksort	simonov	305
+"repetitive integer"	10000	SimonovTeam	shellsort	chiganov	408
+"repetitive integer"	10000	SimonovTeam	insertsort	safonov	33025
+"repetitive integer"	10000	SimonovTeam	mergesort	pulkov	532
+"repetitive integer"	10000	SimonovTeam	smooth	samedov	1127
+"repetitive integer"	10000	ShilakinTeam	quick_sort	gerasimoff	3581
+"repetitive integer"	10000	ShilakinTeam	tim_sort	shilakin	3306
+"repetitive integer"	10000	ShilakinTeam	merge_sort	vasiutin	30207
+"repetitive integer"	10000	KirillovTeam	shellsort	kirillov	440
+"repetitive integer"	10000	KirillovTeam	quicksort	makeev	3588
+"repetitive integer"	10000	KirillovTeam	insertsoft	afanasev	15296
+"repetitive integer"	10000	KirillovTeam	combsort	dimova	584
+"repetitive integer"	10000	KirillovTeam	selectsort	klisunova	146091
+"repetitive integer"	10000	PolyakovTeam	merge_sort	iliushik	653
+"repetitive integer"	10000	PolyakovTeam	heapsort	polyakov	765
+"repetitive integer"	10000	PolyakovTeam	quick_sort	shabalinov	6781
+"repetitive integer"	10000	PolyakovTeam	shellsort	kamenshchikov	569
+"repetitive integer"	1000	std	sort	std	17
+"repetitive integer"	1000	AhmatzyanovTeam	binaryheap	salikhova	71
+"repetitive integer"	1000	AhmatzyanovTeam	tim_sort	taishev	116
+"repetitive integer"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	34
+"repetitive integer"	1000	AhmatzyanovTeam	merge_sort	burlin	151
+"repetitive integer"	1000	AhmatzyanovTeam	combsort	ismailova	50
+"repetitive integer"	1000	ShuranskyTeam	mergesort	shuranskiy	2065
+"repetitive integer"	1000	ShuranskyTeam	quicksort	pashayan	87
+"repetitive integer"	1000	ShuranskyTeam	heapsort	gabrielian	111
+"repetitive integer"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"repetitive integer"	1000	Shekhovtsova_team	radixsort	shekhovtsova	121
+"repetitive integer"	1000	Shekhovtsova_team	quicksort	efimenko	126
+"repetitive integer"	1000	Shekhovtsova_team	treesort	issabek	-1
+"repetitive integer"	1000	Shekhovtsova_team	combsort	suleimenovazh	96
+"repetitive integer"	1000	KononenkoTeam	combsort	kononenko	88
+"repetitive integer"	1000	KononenkoTeam	shellsort	skriplyuk	42
+"repetitive integer"	1000	KononenkoTeam	mergesort	malakhov	89
+"repetitive integer"	1000	KononenkoTeam	quicksort	maltsev	169
+"repetitive integer"	1000	TkachevTeam	countingsort	tkachev	5
+"repetitive integer"	1000	TkachevTeam	quicksort	karyagin	93
+"repetitive integer"	1000	TkachevTeam	merge_sort	kotova	88
+"repetitive integer"	1000	TkachevTeam	heapsort	kulagina	69
+"repetitive integer"	1000	BadeevTeam	mergesort	badeev	1813
+"repetitive integer"	1000	BadeevTeam	int_quicksort	knyazkin	29
+"repetitive integer"	1000	BadeevTeam	combsortint	schekotovskaya	90
+"repetitive integer"	1000	BadeevTeam	shakersort	tolstykh	701
+"repetitive integer"	1000	LaputinTeam	heapsortbotup	laputin	55
+"repetitive integer"	1000	LaputinTeam	quicksort	ageenko	36
+"repetitive integer"	1000	LaputinTeam	radixsortlsd	absalyamov	23
+"repetitive integer"	1000	LaputinTeam	timsort	seregin	95
+"repetitive integer"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19338
+"repetitive integer"	1000	DanilovaTeam	merge_sort	danilova	87
+"repetitive integer"	1000	DanilovaTeam	insertionsort	stepuro	159
+"repetitive integer"	1000	DanilovaTeam	heapsort	makarov	69
+"repetitive integer"	1000	DanilovaTeam	quicksort	byankina	28
+"repetitive integer"	1000	DanilovaTeam	selectionsort	igoshkina	483
+"repetitive integer"	1000	SimonovTeam	quicksort	simonov	30
+"repetitive integer"	1000	SimonovTeam	shellsort	chiganov	35
+"repetitive integer"	1000	SimonovTeam	insertsort	safonov	356
+"repetitive integer"	1000	SimonovTeam	mergesort	pulkov	56
+"repetitive integer"	1000	SimonovTeam	smooth	samedov	102
+"repetitive integer"	1000	ShilakinTeam	quick_sort	gerasimoff	69
+"repetitive integer"	1000	ShilakinTeam	tim_sort	shilakin	367
+"repetitive integer"	1000	ShilakinTeam	merge_sort	vasiutin	15047
+"repetitive integer"	1000	KirillovTeam	shellsort	kirillov	37
+"repetitive integer"	1000	KirillovTeam	quicksort	makeev	60
+"repetitive integer"	1000	KirillovTeam	insertsoft	afanasev	172
+"repetitive integer"	1000	KirillovTeam	combsort	dimova	46
+"repetitive integer"	1000	KirillovTeam	selectsort	klisunova	1460
+"repetitive integer"	1000	PolyakovTeam	merge_sort	iliushik	68
+"repetitive integer"	1000	PolyakovTeam	heapsort	polyakov	72
+"repetitive integer"	1000	PolyakovTeam	quick_sort	shabalinov	87
+"repetitive integer"	1000	PolyakovTeam	shellsort	kamenshchikov	43
+"negative and positive integer"	1000	std	sort	std	46
+"negative and positive integer"	1000	AhmatzyanovTeam	binaryheap	salikhova	85
+"negative and positive integer"	1000	AhmatzyanovTeam	tim_sort	taishev	180
+"negative and positive integer"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	74
+"negative and positive integer"	1000	AhmatzyanovTeam	merge_sort	burlin	211
+"negative and positive integer"	1000	AhmatzyanovTeam	combsort	ismailova	80
+"negative and positive integer"	1000	ShuranskyTeam	mergesort	shuranskiy	1890
+"negative and positive integer"	1000	ShuranskyTeam	quicksort	pashayan	53
+"negative and positive integer"	1000	ShuranskyTeam	heapsort	gabrielian	140
+"negative and positive integer"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"negative and positive integer"	1000	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"negative and positive integer"	1000	Shekhovtsova_team	quicksort	efimenko	95
+"negative and positive integer"	1000	Shekhovtsova_team	treesort	issabek	-1
+"negative and positive integer"	1000	Shekhovtsova_team	combsort	suleimenovazh	137
+"negative and positive integer"	1000	KononenkoTeam	combsort	kononenko	125
+"negative and positive integer"	1000	KononenkoTeam	shellsort	skriplyuk	81
+"negative and positive integer"	1000	KononenkoTeam	mergesort	malakhov	104
+"negative and positive integer"	1000	KononenkoTeam	quicksort	maltsev	84
+"negative and positive integer"	1000	TkachevTeam	countingsort	tkachev	-1
+"negative and positive integer"	1000	TkachevTeam	quicksort	karyagin	54
+"negative and positive integer"	1000	TkachevTeam	merge_sort	kotova	112
+"negative and positive integer"	1000	TkachevTeam	heapsort	kulagina	81
+"negative and positive integer"	1000	BadeevTeam	mergesort	badeev	1887
+"negative and positive integer"	1000	BadeevTeam	int_quicksort	knyazkin	54
+"negative and positive integer"	1000	BadeevTeam	combsortint	schekotovskaya	128
+"negative and positive integer"	1000	BadeevTeam	shakersort	tolstykh	763
+"negative and positive integer"	1000	LaputinTeam	heapsortbotup	laputin	58
+"negative and positive integer"	1000	LaputinTeam	quicksort	ageenko	61
+"negative and positive integer"	1000	LaputinTeam	radixsortlsd	absalyamov	-1
+"negative and positive integer"	1000	LaputinTeam	timsort	seregin	114
+"negative and positive integer"	1000	LaputinTeam	merge_sort	niyazmuhammedow	21298
+"negative and positive integer"	1000	DanilovaTeam	merge_sort	danilova	106
+"negative and positive integer"	1000	DanilovaTeam	insertionsort	stepuro	180
+"negative and positive integer"	1000	DanilovaTeam	heapsort	makarov	82
+"negative and positive integer"	1000	DanilovaTeam	quicksort	byankina	54
+"negative and positive integer"	1000	DanilovaTeam	selectionsort	igoshkina	977
+"negative and positive integer"	1000	SimonovTeam	quicksort	simonov	53
+"negative and positive integer"	1000	SimonovTeam	shellsort	chiganov	55
+"negative and positive integer"	1000	SimonovTeam	insertsort	safonov	420
+"negative and positive integer"	1000	SimonovTeam	mergesort	pulkov	86
+"negative and positive integer"	1000	SimonovTeam	smooth	samedov	133
+"negative and positive integer"	1000	ShilakinTeam	quick_sort	gerasimoff	76
+"negative and positive integer"	1000	ShilakinTeam	tim_sort	shilakin	474
+"negative and positive integer"	1000	ShilakinTeam	merge_sort	vasiutin	13932
+"negative and positive integer"	1000	KirillovTeam	shellsort	kirillov	60
+"negative and positive integer"	1000	KirillovTeam	quicksort	makeev	49
+"negative and positive integer"	1000	KirillovTeam	insertsoft	afanasev	181
+"negative and positive integer"	1000	KirillovTeam	combsort	dimova	74
+"negative and positive integer"	1000	KirillovTeam	selectsort	klisunova	1448
+"negative and positive integer"	1000	PolyakovTeam	merge_sort	iliushik	82
+"negative and positive integer"	1000	PolyakovTeam	heapsort	polyakov	79
+"negative and positive integer"	1000	PolyakovTeam	quick_sort	shabalinov	50
+"negative and positive integer"	1000	PolyakovTeam	shellsort	kamenshchikov	73
+"negative and positive integer"	100	std	sort	std	3
+"negative and positive integer"	100	AhmatzyanovTeam	binaryheap	salikhova	6
+"negative and positive integer"	100	AhmatzyanovTeam	tim_sort	taishev	12
+"negative and positive integer"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	5
+"negative and positive integer"	100	AhmatzyanovTeam	merge_sort	burlin	14
+"negative and positive integer"	100	AhmatzyanovTeam	combsort	ismailova	5
+"negative and positive integer"	100	ShuranskyTeam	mergesort	shuranskiy	151
+"negative and positive integer"	100	ShuranskyTeam	quicksort	pashayan	4
+"negative and positive integer"	100	ShuranskyTeam	heapsort	gabrielian	9
+"negative and positive integer"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"negative and positive integer"	100	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"negative and positive integer"	100	Shekhovtsova_team	quicksort	efimenko	9
+"negative and positive integer"	100	Shekhovtsova_team	treesort	issabek	-1
+"negative and positive integer"	100	Shekhovtsova_team	combsort	suleimenovazh	9
+"negative and positive integer"	100	KononenkoTeam	combsort	kononenko	8
+"negative and positive integer"	100	KononenkoTeam	shellsort	skriplyuk	4
+"negative and positive integer"	100	KononenkoTeam	mergesort	malakhov	10
+"negative and positive integer"	100	KononenkoTeam	quicksort	maltsev	8
+"negative and positive integer"	100	TkachevTeam	countingsort	tkachev	-1
+"negative and positive integer"	100	TkachevTeam	quicksort	karyagin	4
+"negative and positive integer"	100	TkachevTeam	merge_sort	kotova	20
+"negative and positive integer"	100	TkachevTeam	heapsort	kulagina	6
+"negative and positive integer"	100	BadeevTeam	mergesort	badeev	151
+"negative and positive integer"	100	BadeevTeam	int_quicksort	knyazkin	4
+"negative and positive integer"	100	BadeevTeam	combsortint	schekotovskaya	8
+"negative and positive integer"	100	BadeevTeam	shakersort	tolstykh	12
+"negative and positive integer"	100	LaputinTeam	heapsortbotup	laputin	4
+"negative and positive integer"	100	LaputinTeam	quicksort	ageenko	5
+"negative and positive integer"	100	LaputinTeam	radixsortlsd	absalyamov	-1
+"negative and positive integer"	100	LaputinTeam	timsort	seregin	8
+"negative and positive integer"	100	LaputinTeam	merge_sort	niyazmuhammedow	1701
+"negative and positive integer"	100	DanilovaTeam	merge_sort	danilova	10
+"negative and positive integer"	100	DanilovaTeam	insertionsort	stepuro	3
+"negative and positive integer"	100	DanilovaTeam	heapsort	makarov	6
+"negative and positive integer"	100	DanilovaTeam	quicksort	byankina	5
+"negative and positive integer"	100	DanilovaTeam	selectionsort	igoshkina	14
+"negative and positive integer"	100	SimonovTeam	quicksort	simonov	5
+"negative and positive integer"	100	SimonovTeam	shellsort	chiganov	3
+"negative and positive integer"	100	SimonovTeam	insertsort	safonov	6
+"negative and positive integer"	100	SimonovTeam	mergesort	pulkov	7
+"negative and positive integer"	100	SimonovTeam	smooth	samedov	9
+"negative and positive integer"	100	ShilakinTeam	quick_sort	gerasimoff	4
+"negative and positive integer"	100	ShilakinTeam	tim_sort	shilakin	25
+"negative and positive integer"	100	ShilakinTeam	merge_sort	vasiutin	349
+"negative and positive integer"	100	KirillovTeam	shellsort	kirillov	4
+"negative and positive integer"	100	KirillovTeam	quicksort	makeev	4
+"negative and positive integer"	100	KirillovTeam	insertsoft	afanasev	3
+"negative and positive integer"	100	KirillovTeam	combsort	dimova	4
+"negative and positive integer"	100	KirillovTeam	selectsort	klisunova	14
+"negative and positive integer"	100	PolyakovTeam	merge_sort	iliushik	8
+"negative and positive integer"	100	PolyakovTeam	heapsort	polyakov	6
+"negative and positive integer"	100	PolyakovTeam	quick_sort	shabalinov	3
+"negative and positive integer"	100	PolyakovTeam	shellsort	kamenshchikov	4
+"partially sorted integer"	93	std	sort	std	2
+"partially sorted integer"	93	AhmatzyanovTeam	binaryheap	salikhova	5
+"partially sorted integer"	93	AhmatzyanovTeam	tim_sort	taishev	9
+"partially sorted integer"	93	AhmatzyanovTeam	quicksort	ahmatzyanov	3
+"partially sorted integer"	93	AhmatzyanovTeam	merge_sort	burlin	12
+"partially sorted integer"	93	AhmatzyanovTeam	combsort	ismailova	4
+"partially sorted integer"	93	ShuranskyTeam	mergesort	shuranskiy	179
+"partially sorted integer"	93	ShuranskyTeam	quicksort	pashayan	2
+"partially sorted integer"	93	ShuranskyTeam	heapsort	gabrielian	8
+"partially sorted integer"	93	ShuranskyTeam	bitonicsort	sharnin	-1
+"partially sorted integer"	93	Shekhovtsova_team	radixsort	shekhovtsova	27
+"partially sorted integer"	93	Shekhovtsova_team	quicksort	efimenko	7
+"partially sorted integer"	93	Shekhovtsova_team	treesort	issabek	-1
+"partially sorted integer"	93	Shekhovtsova_team	combsort	suleimenovazh	7
+"partially sorted integer"	93	KononenkoTeam	combsort	kononenko	6
+"partially sorted integer"	93	KononenkoTeam	shellsort	skriplyuk	3
+"partially sorted integer"	93	KononenkoTeam	mergesort	malakhov	7
+"partially sorted integer"	93	KononenkoTeam	quicksort	maltsev	7
+"partially sorted integer"	93	TkachevTeam	countingsort	tkachev	15
+"partially sorted integer"	93	TkachevTeam	quicksort	karyagin	2
+"partially sorted integer"	93	TkachevTeam	merge_sort	kotova	17
+"partially sorted integer"	93	TkachevTeam	heapsort	kulagina	5
+"partially sorted integer"	93	BadeevTeam	mergesort	badeev	43
+"partially sorted integer"	93	BadeevTeam	int_quicksort	knyazkin	3
+"partially sorted integer"	93	BadeevTeam	combsortint	schekotovskaya	7
+"partially sorted integer"	93	BadeevTeam	shakersort	tolstykh	7
+"partially sorted integer"	93	LaputinTeam	heapsortbotup	laputin	11
+"partially sorted integer"	93	LaputinTeam	quicksort	ageenko	4
+"partially sorted integer"	93	LaputinTeam	radixsortlsd	absalyamov	10
+"partially sorted integer"	93	LaputinTeam	timsort	seregin	7
+"partially sorted integer"	93	LaputinTeam	merge_sort	niyazmuhammedow	1588
+"partially sorted integer"	93	DanilovaTeam	merge_sort	danilova	7
+"partially sorted integer"	93	DanilovaTeam	insertionsort	stepuro	1
+"partially sorted integer"	93	DanilovaTeam	heapsort	makarov	7
+"partially sorted integer"	93	DanilovaTeam	quicksort	byankina	3
+"partially sorted integer"	93	DanilovaTeam	selectionsort	igoshkina	8
+"partially sorted integer"	93	SimonovTeam	quicksort	simonov	3
+"partially sorted integer"	93	SimonovTeam	shellsort	chiganov	2
+"partially sorted integer"	93	SimonovTeam	insertsort	safonov	5
+"partially sorted integer"	93	SimonovTeam	mergesort	pulkov	5
+"partially sorted integer"	93	SimonovTeam	smooth	samedov	7
+"partially sorted integer"	93	ShilakinTeam	quick_sort	gerasimoff	12
+"partially sorted integer"	93	ShilakinTeam	tim_sort	shilakin	19
+"partially sorted integer"	93	ShilakinTeam	merge_sort	vasiutin	254
+"partially sorted integer"	93	KirillovTeam	shellsort	kirillov	2
+"partially sorted integer"	93	KirillovTeam	quicksort	makeev	3
+"partially sorted integer"	93	KirillovTeam	insertsoft	afanasev	1
+"partially sorted integer"	93	KirillovTeam	combsort	dimova	4
+"partially sorted integer"	93	KirillovTeam	selectsort	klisunova	11
+"partially sorted integer"	93	PolyakovTeam	merge_sort	iliushik	6
+"partially sorted integer"	93	PolyakovTeam	heapsort	polyakov	5
+"partially sorted integer"	93	PolyakovTeam	quick_sort	shabalinov	2
+"partially sorted integer"	93	PolyakovTeam	shellsort	kamenshchikov	3
+"random integer for BitonicSortBySharnin"	1024	std	sort	std	54
+"random integer for BitonicSortBySharnin"	1024	AhmatzyanovTeam	binaryheap	salikhova	95
+"random integer for BitonicSortBySharnin"	1024	AhmatzyanovTeam	tim_sort	taishev	262
+"random integer for BitonicSortBySharnin"	1024	AhmatzyanovTeam	quicksort	ahmatzyanov	71
+"random integer for BitonicSortBySharnin"	1024	AhmatzyanovTeam	merge_sort	burlin	233
+"random integer for BitonicSortBySharnin"	1024	AhmatzyanovTeam	combsort	ismailova	-1
+"random integer for BitonicSortBySharnin"	1024	ShuranskyTeam	mergesort	shuranskiy	1829
+"random integer for BitonicSortBySharnin"	1024	ShuranskyTeam	quicksort	pashayan	54
+"random integer for BitonicSortBySharnin"	1024	ShuranskyTeam	heapsort	gabrielian	132
+"random integer for BitonicSortBySharnin"	1024	ShuranskyTeam	bitonicsort	sharnin	146
+"random integer for BitonicSortBySharnin"	1024	Shekhovtsova_team	radixsort	shekhovtsova	71
+"random integer for BitonicSortBySharnin"	1024	Shekhovtsova_team	quicksort	efimenko	98
+"random integer for BitonicSortBySharnin"	1024	Shekhovtsova_team	treesort	issabek	-1
+"random integer for BitonicSortBySharnin"	1024	Shekhovtsova_team	combsort	suleimenovazh	140
+"random integer for BitonicSortBySharnin"	1024	KononenkoTeam	combsort	kononenko	129
+"random integer for BitonicSortBySharnin"	1024	KononenkoTeam	shellsort	skriplyuk	85
+"random integer for BitonicSortBySharnin"	1024	KononenkoTeam	mergesort	malakhov	96
+"random integer for BitonicSortBySharnin"	1024	KononenkoTeam	quicksort	maltsev	96
+"random integer for BitonicSortBySharnin"	1024	TkachevTeam	countingsort	tkachev	97
+"random integer for BitonicSortBySharnin"	1024	TkachevTeam	quicksort	karyagin	58
+"random integer for BitonicSortBySharnin"	1024	TkachevTeam	merge_sort	kotova	104
+"random integer for BitonicSortBySharnin"	1024	TkachevTeam	heapsort	kulagina	83
+"random integer for BitonicSortBySharnin"	1024	BadeevTeam	mergesort	badeev	1803
+"random integer for BitonicSortBySharnin"	1024	BadeevTeam	int_quicksort	knyazkin	57
+"random integer for BitonicSortBySharnin"	1024	BadeevTeam	combsortint	schekotovskaya	142
+"random integer for BitonicSortBySharnin"	1024	BadeevTeam	shakersort	tolstykh	807
+"random integer for BitonicSortBySharnin"	1024	LaputinTeam	heapsortbotup	laputin	58
+"random integer for BitonicSortBySharnin"	1024	LaputinTeam	quicksort	ageenko	62
+"random integer for BitonicSortBySharnin"	1024	LaputinTeam	radixsortlsd	absalyamov	78
+"random integer for BitonicSortBySharnin"	1024	LaputinTeam	timsort	seregin	146
+"random integer for BitonicSortBySharnin"	1024	LaputinTeam	merge_sort	niyazmuhammedow	20221
+"random integer for BitonicSortBySharnin"	1024	DanilovaTeam	merge_sort	danilova	101
+"random integer for BitonicSortBySharnin"	1024	DanilovaTeam	insertionsort	stepuro	189
+"random integer for BitonicSortBySharnin"	1024	DanilovaTeam	heapsort	makarov	84
+"random integer for BitonicSortBySharnin"	1024	DanilovaTeam	quicksort	byankina	55
+"random integer for BitonicSortBySharnin"	1024	DanilovaTeam	selectionsort	igoshkina	1105
+"random integer for BitonicSortBySharnin"	1024	SimonovTeam	quicksort	simonov	65
+"random integer for BitonicSortBySharnin"	1024	SimonovTeam	shellsort	chiganov	55
+"random integer for BitonicSortBySharnin"	1024	SimonovTeam	insertsort	safonov	397
+"random integer for BitonicSortBySharnin"	1024	SimonovTeam	mergesort	pulkov	63
+"random integer for BitonicSortBySharnin"	1024	SimonovTeam	smooth	samedov	112
+"random integer for BitonicSortBySharnin"	1024	ShilakinTeam	quick_sort	gerasimoff	51
+"random integer for BitonicSortBySharnin"	1024	ShilakinTeam	tim_sort	shilakin	394
+"random integer for BitonicSortBySharnin"	1024	ShilakinTeam	merge_sort	vasiutin	694
+"random integer for BitonicSortBySharnin"	1024	KirillovTeam	shellsort	kirillov	62
+"random integer for BitonicSortBySharnin"	1024	KirillovTeam	quicksort	makeev	52
+"random integer for BitonicSortBySharnin"	1024	KirillovTeam	insertsoft	afanasev	189
+"random integer for BitonicSortBySharnin"	1024	KirillovTeam	combsort	dimova	-1
+"random integer for BitonicSortBySharnin"	1024	KirillovTeam	selectsort	klisunova	1608
+"random integer for BitonicSortBySharnin"	1024	PolyakovTeam	merge_sort	iliushik	79
+"random integer for BitonicSortBySharnin"	1024	PolyakovTeam	heapsort	polyakov	84
+"random integer for BitonicSortBySharnin"	1024	PolyakovTeam	quick_sort	shabalinov	53
+"random integer for BitonicSortBySharnin"	1024	PolyakovTeam	shellsort	kamenshchikov	89
+"random integer for BitonicSortBySharnin"	128	std	sort	std	5
+"random integer for BitonicSortBySharnin"	128	AhmatzyanovTeam	binaryheap	salikhova	8
+"random integer for BitonicSortBySharnin"	128	AhmatzyanovTeam	tim_sort	taishev	20
+"random integer for BitonicSortBySharnin"	128	AhmatzyanovTeam	quicksort	ahmatzyanov	6
+"random integer for BitonicSortBySharnin"	128	AhmatzyanovTeam	merge_sort	burlin	18
+"random integer for BitonicSortBySharnin"	128	AhmatzyanovTeam	combsort	ismailova	23
+"random integer for BitonicSortBySharnin"	128	ShuranskyTeam	mergesort	shuranskiy	263
+"random integer for BitonicSortBySharnin"	128	ShuranskyTeam	quicksort	pashayan	5
+"random integer for BitonicSortBySharnin"	128	ShuranskyTeam	heapsort	gabrielian	11
+"random integer for BitonicSortBySharnin"	128	ShuranskyTeam	bitonicsort	sharnin	13
+"random integer for BitonicSortBySharnin"	128	Shekhovtsova_team	radixsort	shekhovtsova	26
+"random integer for BitonicSortBySharnin"	128	Shekhovtsova_team	quicksort	efimenko	19
+"random integer for BitonicSortBySharnin"	128	Shekhovtsova_team	treesort	issabek	-1
+"random integer for BitonicSortBySharnin"	128	Shekhovtsova_team	combsort	suleimenovazh	11
+"random integer for BitonicSortBySharnin"	128	KononenkoTeam	combsort	kononenko	10
+"random integer for BitonicSortBySharnin"	128	KononenkoTeam	shellsort	skriplyuk	6
+"random integer for BitonicSortBySharnin"	128	KononenkoTeam	mergesort	malakhov	14
+"random integer for BitonicSortBySharnin"	128	KononenkoTeam	quicksort	maltsev	10
+"random integer for BitonicSortBySharnin"	128	TkachevTeam	countingsort	tkachev	42
+"random integer for BitonicSortBySharnin"	128	TkachevTeam	quicksort	karyagin	5
+"random integer for BitonicSortBySharnin"	128	TkachevTeam	merge_sort	kotova	22
+"random integer for BitonicSortBySharnin"	128	TkachevTeam	heapsort	kulagina	8
+"random integer for BitonicSortBySharnin"	128	BadeevTeam	mergesort	badeev	198
+"random integer for BitonicSortBySharnin"	128	BadeevTeam	int_quicksort	knyazkin	17
+"random integer for BitonicSortBySharnin"	128	BadeevTeam	combsortint	schekotovskaya	11
+"random integer for BitonicSortBySharnin"	128	BadeevTeam	shakersort	tolstykh	19
+"random integer for BitonicSortBySharnin"	128	LaputinTeam	heapsortbotup	laputin	6
+"random integer for BitonicSortBySharnin"	128	LaputinTeam	quicksort	ageenko	7
+"random integer for BitonicSortBySharnin"	128	LaputinTeam	radixsortlsd	absalyamov	21
+"random integer for BitonicSortBySharnin"	128	LaputinTeam	timsort	seregin	16
+"random integer for BitonicSortBySharnin"	128	LaputinTeam	merge_sort	niyazmuhammedow	2187
+"random integer for BitonicSortBySharnin"	128	DanilovaTeam	merge_sort	danilova	12
+"random integer for BitonicSortBySharnin"	128	DanilovaTeam	insertionsort	stepuro	5
+"random integer for BitonicSortBySharnin"	128	DanilovaTeam	heapsort	makarov	8
+"random integer for BitonicSortBySharnin"	128	DanilovaTeam	quicksort	byankina	13
+"random integer for BitonicSortBySharnin"	128	DanilovaTeam	selectionsort	igoshkina	22
+"random integer for BitonicSortBySharnin"	128	SimonovTeam	quicksort	simonov	5
+"random integer for BitonicSortBySharnin"	128	SimonovTeam	shellsort	chiganov	4
+"random integer for BitonicSortBySharnin"	128	SimonovTeam	insertsort	safonov	9
+"random integer for BitonicSortBySharnin"	128	SimonovTeam	mergesort	pulkov	8
+"random integer for BitonicSortBySharnin"	128	SimonovTeam	smooth	samedov	11
+"random integer for BitonicSortBySharnin"	128	ShilakinTeam	quick_sort	gerasimoff	5
+"random integer for BitonicSortBySharnin"	128	ShilakinTeam	tim_sort	shilakin	29
+"random integer for BitonicSortBySharnin"	128	ShilakinTeam	merge_sort	vasiutin	478
+"random integer for BitonicSortBySharnin"	128	KirillovTeam	shellsort	kirillov	5
+"random integer for BitonicSortBySharnin"	128	KirillovTeam	quicksort	makeev	5
+"random integer for BitonicSortBySharnin"	128	KirillovTeam	insertsoft	afanasev	5
+"random integer for BitonicSortBySharnin"	128	KirillovTeam	combsort	dimova	6
+"random integer for BitonicSortBySharnin"	128	KirillovTeam	selectsort	klisunova	23
+"random integer for BitonicSortBySharnin"	128	PolyakovTeam	merge_sort	iliushik	9
+"random integer for BitonicSortBySharnin"	128	PolyakovTeam	heapsort	polyakov	8
+"random integer for BitonicSortBySharnin"	128	PolyakovTeam	quick_sort	shabalinov	4
+"random integer for BitonicSortBySharnin"	128	PolyakovTeam	shellsort	kamenshchikov	6
+"random integer for BitonicSortBySharnin"	8	std	sort	std	0
+"random integer for BitonicSortBySharnin"	8	AhmatzyanovTeam	binaryheap	salikhova	0
+"random integer for BitonicSortBySharnin"	8	AhmatzyanovTeam	tim_sort	taishev	2
+"random integer for BitonicSortBySharnin"	8	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"random integer for BitonicSortBySharnin"	8	AhmatzyanovTeam	merge_sort	burlin	1
+"random integer for BitonicSortBySharnin"	8	AhmatzyanovTeam	combsort	ismailova	0
+"random integer for BitonicSortBySharnin"	8	ShuranskyTeam	mergesort	shuranskiy	20
+"random integer for BitonicSortBySharnin"	8	ShuranskyTeam	quicksort	pashayan	0
+"random integer for BitonicSortBySharnin"	8	ShuranskyTeam	heapsort	gabrielian	0
+"random integer for BitonicSortBySharnin"	8	ShuranskyTeam	bitonicsort	sharnin	0
+"random integer for BitonicSortBySharnin"	8	Shekhovtsova_team	radixsort	shekhovtsova	16
+"random integer for BitonicSortBySharnin"	8	Shekhovtsova_team	quicksort	efimenko	1
+"random integer for BitonicSortBySharnin"	8	Shekhovtsova_team	treesort	issabek	-1
+"random integer for BitonicSortBySharnin"	8	Shekhovtsova_team	combsort	suleimenovazh	0
+"random integer for BitonicSortBySharnin"	8	KononenkoTeam	combsort	kononenko	0
+"random integer for BitonicSortBySharnin"	8	KononenkoTeam	shellsort	skriplyuk	0
+"random integer for BitonicSortBySharnin"	8	KononenkoTeam	mergesort	malakhov	2
+"random integer for BitonicSortBySharnin"	8	KononenkoTeam	quicksort	maltsev	2
+"random integer for BitonicSortBySharnin"	8	TkachevTeam	countingsort	tkachev	74
+"random integer for BitonicSortBySharnin"	8	TkachevTeam	quicksort	karyagin	0
+"random integer for BitonicSortBySharnin"	8	TkachevTeam	merge_sort	kotova	6
+"random integer for BitonicSortBySharnin"	8	TkachevTeam	heapsort	kulagina	0
+"random integer for BitonicSortBySharnin"	8	BadeevTeam	mergesort	badeev	8
+"random integer for BitonicSortBySharnin"	8	BadeevTeam	int_quicksort	knyazkin	0
+"random integer for BitonicSortBySharnin"	8	BadeevTeam	combsortint	schekotovskaya	0
+"random integer for BitonicSortBySharnin"	8	BadeevTeam	shakersort	tolstykh	0
+"random integer for BitonicSortBySharnin"	8	LaputinTeam	heapsortbotup	laputin	0
+"random integer for BitonicSortBySharnin"	8	LaputinTeam	quicksort	ageenko	0
+"random integer for BitonicSortBySharnin"	8	LaputinTeam	radixsortlsd	absalyamov	9
+"random integer for BitonicSortBySharnin"	8	LaputinTeam	timsort	seregin	2
+"random integer for BitonicSortBySharnin"	8	LaputinTeam	merge_sort	niyazmuhammedow	87
+"random integer for BitonicSortBySharnin"	8	DanilovaTeam	merge_sort	danilova	2
+"random integer for BitonicSortBySharnin"	8	DanilovaTeam	insertionsort	stepuro	0
+"random integer for BitonicSortBySharnin"	8	DanilovaTeam	heapsort	makarov	0
+"random integer for BitonicSortBySharnin"	8	DanilovaTeam	quicksort	byankina	0
+"random integer for BitonicSortBySharnin"	8	DanilovaTeam	selectionsort	igoshkina	0
+"random integer for BitonicSortBySharnin"	8	SimonovTeam	quicksort	simonov	0
+"random integer for BitonicSortBySharnin"	8	SimonovTeam	shellsort	chiganov	0
+"random integer for BitonicSortBySharnin"	8	SimonovTeam	insertsort	safonov	0
+"random integer for BitonicSortBySharnin"	8	SimonovTeam	mergesort	pulkov	2
+"random integer for BitonicSortBySharnin"	8	SimonovTeam	smooth	samedov	0
+"random integer for BitonicSortBySharnin"	8	ShilakinTeam	quick_sort	gerasimoff	0
+"random integer for BitonicSortBySharnin"	8	ShilakinTeam	tim_sort	shilakin	0
+"random integer for BitonicSortBySharnin"	8	ShilakinTeam	merge_sort	vasiutin	13
+"random integer for BitonicSortBySharnin"	8	KirillovTeam	shellsort	kirillov	0
+"random integer for BitonicSortBySharnin"	8	KirillovTeam	quicksort	makeev	0
+"random integer for BitonicSortBySharnin"	8	KirillovTeam	insertsoft	afanasev	0
+"random integer for BitonicSortBySharnin"	8	KirillovTeam	combsort	dimova	0
+"random integer for BitonicSortBySharnin"	8	KirillovTeam	selectsort	klisunova	0
+"random integer for BitonicSortBySharnin"	8	PolyakovTeam	merge_sort	iliushik	2
+"random integer for BitonicSortBySharnin"	8	PolyakovTeam	heapsort	polyakov	0
+"random integer for BitonicSortBySharnin"	8	PolyakovTeam	quick_sort	shabalinov	0
+"random integer for BitonicSortBySharnin"	8	PolyakovTeam	shellsort	kamenshchikov	0
+"normal quickSort Ahmatzyanov (decreased)"	100	std	sort	std	1
+"normal quickSort Ahmatzyanov (decreased)"	100	AhmatzyanovTeam	binaryheap	salikhova	5
+"normal quickSort Ahmatzyanov (decreased)"	100	AhmatzyanovTeam	tim_sort	taishev	20
+"normal quickSort Ahmatzyanov (decreased)"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	2
+"normal quickSort Ahmatzyanov (decreased)"	100	AhmatzyanovTeam	merge_sort	burlin	11
+"normal quickSort Ahmatzyanov (decreased)"	100	AhmatzyanovTeam	combsort	ismailova	3
+"normal quickSort Ahmatzyanov (decreased)"	100	ShuranskyTeam	mergesort	shuranskiy	123
+"normal quickSort Ahmatzyanov (decreased)"	100	ShuranskyTeam	quicksort	pashayan	3
+"normal quickSort Ahmatzyanov (decreased)"	100	ShuranskyTeam	heapsort	gabrielian	7
+"normal quickSort Ahmatzyanov (decreased)"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"normal quickSort Ahmatzyanov (decreased)"	100	Shekhovtsova_team	radixsort	shekhovtsova	15
+"normal quickSort Ahmatzyanov (decreased)"	100	Shekhovtsova_team	quicksort	efimenko	8
+"normal quickSort Ahmatzyanov (decreased)"	100	Shekhovtsova_team	treesort	issabek	-1
+"normal quickSort Ahmatzyanov (decreased)"	100	Shekhovtsova_team	combsort	suleimenovazh	6
+"normal quickSort Ahmatzyanov (decreased)"	100	KononenkoTeam	combsort	kononenko	6
+"normal quickSort Ahmatzyanov (decreased)"	100	KononenkoTeam	shellsort	skriplyuk	1
+"normal quickSort Ahmatzyanov (decreased)"	100	KononenkoTeam	mergesort	malakhov	7
+"normal quickSort Ahmatzyanov (decreased)"	100	KononenkoTeam	quicksort	maltsev	24
+"normal quickSort Ahmatzyanov (decreased)"	100	TkachevTeam	countingsort	tkachev	3
+"normal quickSort Ahmatzyanov (decreased)"	100	TkachevTeam	quicksort	karyagin	7
+"normal quickSort Ahmatzyanov (decreased)"	100	TkachevTeam	merge_sort	kotova	17
+"normal quickSort Ahmatzyanov (decreased)"	100	TkachevTeam	heapsort	kulagina	5
+"normal quickSort Ahmatzyanov (decreased)"	100	BadeevTeam	mergesort	badeev	210
+"normal quickSort Ahmatzyanov (decreased)"	100	BadeevTeam	int_quicksort	knyazkin	1
+"normal quickSort Ahmatzyanov (decreased)"	100	BadeevTeam	combsortint	schekotovskaya	6
+"normal quickSort Ahmatzyanov (decreased)"	100	BadeevTeam	shakersort	tolstykh	8
+"normal quickSort Ahmatzyanov (decreased)"	100	LaputinTeam	heapsortbotup	laputin	4
+"normal quickSort Ahmatzyanov (decreased)"	100	LaputinTeam	quicksort	ageenko	2
+"normal quickSort Ahmatzyanov (decreased)"	100	LaputinTeam	radixsortlsd	absalyamov	11
+"normal quickSort Ahmatzyanov (decreased)"	100	LaputinTeam	timsort	seregin	2
+"normal quickSort Ahmatzyanov (decreased)"	100	LaputinTeam	merge_sort	niyazmuhammedow	1638
+"normal quickSort Ahmatzyanov (decreased)"	100	DanilovaTeam	merge_sort	danilova	21
+"normal quickSort Ahmatzyanov (decreased)"	100	DanilovaTeam	insertionsort	stepuro	5
+"normal quickSort Ahmatzyanov (decreased)"	100	DanilovaTeam	heapsort	makarov	5
+"normal quickSort Ahmatzyanov (decreased)"	100	DanilovaTeam	quicksort	byankina	1
+"normal quickSort Ahmatzyanov (decreased)"	100	DanilovaTeam	selectionsort	igoshkina	6
+"normal quickSort Ahmatzyanov (decreased)"	100	SimonovTeam	quicksort	simonov	1
+"normal quickSort Ahmatzyanov (decreased)"	100	SimonovTeam	shellsort	chiganov	1
+"normal quickSort Ahmatzyanov (decreased)"	100	SimonovTeam	insertsort	safonov	5
+"normal quickSort Ahmatzyanov (decreased)"	100	SimonovTeam	mergesort	pulkov	5
+"normal quickSort Ahmatzyanov (decreased)"	100	SimonovTeam	smooth	samedov	7
+"normal quickSort Ahmatzyanov (decreased)"	100	ShilakinTeam	quick_sort	gerasimoff	6
+"normal quickSort Ahmatzyanov (decreased)"	100	ShilakinTeam	tim_sort	shilakin	23
+"normal quickSort Ahmatzyanov (decreased)"	100	ShilakinTeam	merge_sort	vasiutin	354
+"normal quickSort Ahmatzyanov (decreased)"	100	KirillovTeam	shellsort	kirillov	1
+"normal quickSort Ahmatzyanov (decreased)"	100	KirillovTeam	quicksort	makeev	4
+"normal quickSort Ahmatzyanov (decreased)"	100	KirillovTeam	insertsoft	afanasev	5
+"normal quickSort Ahmatzyanov (decreased)"	100	KirillovTeam	combsort	dimova	3
+"normal quickSort Ahmatzyanov (decreased)"	100	KirillovTeam	selectsort	klisunova	13
+"normal quickSort Ahmatzyanov (decreased)"	100	PolyakovTeam	merge_sort	iliushik	5
+"normal quickSort Ahmatzyanov (decreased)"	100	PolyakovTeam	heapsort	polyakov	22
+"normal quickSort Ahmatzyanov (decreased)"	100	PolyakovTeam	quick_sort	shabalinov	7
+"normal quickSort Ahmatzyanov (decreased)"	100	PolyakovTeam	shellsort	kamenshchikov	1
+"good quickTest Ahmatzyanov (preSorted) "	100	std	sort	std	1
+"good quickTest Ahmatzyanov (preSorted) "	100	AhmatzyanovTeam	binaryheap	salikhova	5
+"good quickTest Ahmatzyanov (preSorted) "	100	AhmatzyanovTeam	tim_sort	taishev	9
+"good quickTest Ahmatzyanov (preSorted) "	100	AhmatzyanovTeam	quicksort	ahmatzyanov	2
+"good quickTest Ahmatzyanov (preSorted) "	100	AhmatzyanovTeam	merge_sort	burlin	10
+"good quickTest Ahmatzyanov (preSorted) "	100	AhmatzyanovTeam	combsort	ismailova	2
+"good quickTest Ahmatzyanov (preSorted) "	100	ShuranskyTeam	mergesort	shuranskiy	191
+"good quickTest Ahmatzyanov (preSorted) "	100	ShuranskyTeam	quicksort	pashayan	2
+"good quickTest Ahmatzyanov (preSorted) "	100	ShuranskyTeam	heapsort	gabrielian	8
+"good quickTest Ahmatzyanov (preSorted) "	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"good quickTest Ahmatzyanov (preSorted) "	100	Shekhovtsova_team	radixsort	shekhovtsova	10
+"good quickTest Ahmatzyanov (preSorted) "	100	Shekhovtsova_team	quicksort	efimenko	7
+"good quickTest Ahmatzyanov (preSorted) "	100	Shekhovtsova_team	treesort	issabek	-1
+"good quickTest Ahmatzyanov (preSorted) "	100	Shekhovtsova_team	combsort	suleimenovazh	5
+"good quickTest Ahmatzyanov (preSorted) "	100	KononenkoTeam	combsort	kononenko	4
+"good quickTest Ahmatzyanov (preSorted) "	100	KononenkoTeam	shellsort	skriplyuk	1
+"good quickTest Ahmatzyanov (preSorted) "	100	KononenkoTeam	mergesort	malakhov	7
+"good quickTest Ahmatzyanov (preSorted) "	100	KononenkoTeam	quicksort	maltsev	24
+"good quickTest Ahmatzyanov (preSorted) "	100	TkachevTeam	countingsort	tkachev	2
+"good quickTest Ahmatzyanov (preSorted) "	100	TkachevTeam	quicksort	karyagin	8
+"good quickTest Ahmatzyanov (preSorted) "	100	TkachevTeam	merge_sort	kotova	16
+"good quickTest Ahmatzyanov (preSorted) "	100	TkachevTeam	heapsort	kulagina	5
+"good quickTest Ahmatzyanov (preSorted) "	100	BadeevTeam	mergesort	badeev	10
+"good quickTest Ahmatzyanov (preSorted) "	100	BadeevTeam	int_quicksort	knyazkin	1
+"good quickTest Ahmatzyanov (preSorted) "	100	BadeevTeam	combsortint	schekotovskaya	5
+"good quickTest Ahmatzyanov (preSorted) "	100	BadeevTeam	shakersort	tolstykh	5
+"good quickTest Ahmatzyanov (preSorted) "	100	LaputinTeam	heapsortbotup	laputin	4
+"good quickTest Ahmatzyanov (preSorted) "	100	LaputinTeam	quicksort	ageenko	2
+"good quickTest Ahmatzyanov (preSorted) "	100	LaputinTeam	radixsortlsd	absalyamov	31
+"good quickTest Ahmatzyanov (preSorted) "	100	LaputinTeam	timsort	seregin	5
+"good quickTest Ahmatzyanov (preSorted) "	100	LaputinTeam	merge_sort	niyazmuhammedow	1648
+"good quickTest Ahmatzyanov (preSorted) "	100	DanilovaTeam	merge_sort	danilova	7
+"good quickTest Ahmatzyanov (preSorted) "	100	DanilovaTeam	insertionsort	stepuro	0
+"good quickTest Ahmatzyanov (preSorted) "	100	DanilovaTeam	heapsort	makarov	6
+"good quickTest Ahmatzyanov (preSorted) "	100	DanilovaTeam	quicksort	byankina	1
+"good quickTest Ahmatzyanov (preSorted) "	100	DanilovaTeam	selectionsort	igoshkina	5
+"good quickTest Ahmatzyanov (preSorted) "	100	SimonovTeam	quicksort	simonov	1
+"good quickTest Ahmatzyanov (preSorted) "	100	SimonovTeam	shellsort	chiganov	1
+"good quickTest Ahmatzyanov (preSorted) "	100	SimonovTeam	insertsort	safonov	5
+"good quickTest Ahmatzyanov (preSorted) "	100	SimonovTeam	mergesort	pulkov	5
+"good quickTest Ahmatzyanov (preSorted) "	100	SimonovTeam	smooth	samedov	2
+"good quickTest Ahmatzyanov (preSorted) "	100	ShilakinTeam	quick_sort	gerasimoff	7
+"good quickTest Ahmatzyanov (preSorted) "	100	ShilakinTeam	tim_sort	shilakin	22
+"good quickTest Ahmatzyanov (preSorted) "	100	ShilakinTeam	merge_sort	vasiutin	369
+"good quickTest Ahmatzyanov (preSorted) "	100	KirillovTeam	shellsort	kirillov	0
+"good quickTest Ahmatzyanov (preSorted) "	100	KirillovTeam	quicksort	makeev	4
+"good quickTest Ahmatzyanov (preSorted) "	100	KirillovTeam	insertsoft	afanasev	0
+"good quickTest Ahmatzyanov (preSorted) "	100	KirillovTeam	combsort	dimova	2
+"good quickTest Ahmatzyanov (preSorted) "	100	KirillovTeam	selectsort	klisunova	13
+"good quickTest Ahmatzyanov (preSorted) "	100	PolyakovTeam	merge_sort	iliushik	5
+"good quickTest Ahmatzyanov (preSorted) "	100	PolyakovTeam	heapsort	polyakov	5
+"good quickTest Ahmatzyanov (preSorted) "	100	PolyakovTeam	quick_sort	shabalinov	7
+"good quickTest Ahmatzyanov (preSorted) "	100	PolyakovTeam	shellsort	kamenshchikov	1
+"bad quickTest Ahmatzyanov"	20	std	sort	std	0
+"bad quickTest Ahmatzyanov"	20	AhmatzyanovTeam	binaryheap	salikhova	1
+"bad quickTest Ahmatzyanov"	20	AhmatzyanovTeam	tim_sort	taishev	2
+"bad quickTest Ahmatzyanov"	20	AhmatzyanovTeam	quicksort	ahmatzyanov	1
+"bad quickTest Ahmatzyanov"	20	AhmatzyanovTeam	merge_sort	burlin	2
+"bad quickTest Ahmatzyanov"	20	AhmatzyanovTeam	combsort	ismailova	0
+"bad quickTest Ahmatzyanov"	20	ShuranskyTeam	mergesort	shuranskiy	123
+"bad quickTest Ahmatzyanov"	20	ShuranskyTeam	quicksort	pashayan	0
+"bad quickTest Ahmatzyanov"	20	ShuranskyTeam	heapsort	gabrielian	1
+"bad quickTest Ahmatzyanov"	20	ShuranskyTeam	bitonicsort	sharnin	-1
+"bad quickTest Ahmatzyanov"	20	Shekhovtsova_team	radixsort	shekhovtsova	4
+"bad quickTest Ahmatzyanov"	20	Shekhovtsova_team	quicksort	efimenko	2
+"bad quickTest Ahmatzyanov"	20	Shekhovtsova_team	treesort	issabek	-1
+"bad quickTest Ahmatzyanov"	20	Shekhovtsova_team	combsort	suleimenovazh	1
+"bad quickTest Ahmatzyanov"	20	KononenkoTeam	combsort	kononenko	1
+"bad quickTest Ahmatzyanov"	20	KononenkoTeam	shellsort	skriplyuk	0
+"bad quickTest Ahmatzyanov"	20	KononenkoTeam	mergesort	malakhov	3
+"bad quickTest Ahmatzyanov"	20	KononenkoTeam	quicksort	maltsev	2
+"bad quickTest Ahmatzyanov"	20	TkachevTeam	countingsort	tkachev	2
+"bad quickTest Ahmatzyanov"	20	TkachevTeam	quicksort	karyagin	0
+"bad quickTest Ahmatzyanov"	20	TkachevTeam	merge_sort	kotova	10
+"bad quickTest Ahmatzyanov"	20	TkachevTeam	heapsort	kulagina	1
+"bad quickTest Ahmatzyanov"	20	BadeevTeam	mergesort	badeev	14
+"bad quickTest Ahmatzyanov"	20	BadeevTeam	int_quicksort	knyazkin	0
+"bad quickTest Ahmatzyanov"	20	BadeevTeam	combsortint	schekotovskaya	1
+"bad quickTest Ahmatzyanov"	20	BadeevTeam	shakersort	tolstykh	1
+"bad quickTest Ahmatzyanov"	20	LaputinTeam	heapsortbotup	laputin	1
+"bad quickTest Ahmatzyanov"	20	LaputinTeam	quicksort	ageenko	1
+"bad quickTest Ahmatzyanov"	20	LaputinTeam	radixsortlsd	absalyamov	2
+"bad quickTest Ahmatzyanov"	20	LaputinTeam	timsort	seregin	2
+"bad quickTest Ahmatzyanov"	20	LaputinTeam	merge_sort	niyazmuhammedow	282
+"bad quickTest Ahmatzyanov"	20	DanilovaTeam	merge_sort	danilova	3
+"bad quickTest Ahmatzyanov"	20	DanilovaTeam	insertionsort	stepuro	0
+"bad quickTest Ahmatzyanov"	20	DanilovaTeam	heapsort	makarov	1
+"bad quickTest Ahmatzyanov"	20	DanilovaTeam	quicksort	byankina	0
+"bad quickTest Ahmatzyanov"	20	DanilovaTeam	selectionsort	igoshkina	1
+"bad quickTest Ahmatzyanov"	20	SimonovTeam	quicksort	simonov	1
+"bad quickTest Ahmatzyanov"	20	SimonovTeam	shellsort	chiganov	0
+"bad quickTest Ahmatzyanov"	20	SimonovTeam	insertsort	safonov	0
+"bad quickTest Ahmatzyanov"	20	SimonovTeam	mergesort	pulkov	2
+"bad quickTest Ahmatzyanov"	20	SimonovTeam	smooth	samedov	1
+"bad quickTest Ahmatzyanov"	20	ShilakinTeam	quick_sort	gerasimoff	0
+"bad quickTest Ahmatzyanov"	20	ShilakinTeam	tim_sort	shilakin	4
+"bad quickTest Ahmatzyanov"	20	ShilakinTeam	merge_sort	vasiutin	36
+"bad quickTest Ahmatzyanov"	20	KirillovTeam	shellsort	kirillov	0
+"bad quickTest Ahmatzyanov"	20	KirillovTeam	quicksort	makeev	0
+"bad quickTest Ahmatzyanov"	20	KirillovTeam	insertsoft	afanasev	0
+"bad quickTest Ahmatzyanov"	20	KirillovTeam	combsort	dimova	0
+"bad quickTest Ahmatzyanov"	20	KirillovTeam	selectsort	klisunova	0
+"bad quickTest Ahmatzyanov"	20	PolyakovTeam	merge_sort	iliushik	3
+"bad quickTest Ahmatzyanov"	20	PolyakovTeam	heapsort	polyakov	1
+"bad quickTest Ahmatzyanov"	20	PolyakovTeam	quick_sort	shabalinov	0
+"bad quickTest Ahmatzyanov"	20	PolyakovTeam	shellsort	kamenshchikov	0
+"minus integer AhmatzyanovTeam"	100	std	sort	std	3
+"minus integer AhmatzyanovTeam"	100	AhmatzyanovTeam	binaryheap	salikhova	6
+"minus integer AhmatzyanovTeam"	100	AhmatzyanovTeam	tim_sort	taishev	12
+"minus integer AhmatzyanovTeam"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	5
+"minus integer AhmatzyanovTeam"	100	AhmatzyanovTeam	merge_sort	burlin	13
+"minus integer AhmatzyanovTeam"	100	AhmatzyanovTeam	combsort	ismailova	5
+"minus integer AhmatzyanovTeam"	100	ShuranskyTeam	mergesort	shuranskiy	187
+"minus integer AhmatzyanovTeam"	100	ShuranskyTeam	quicksort	pashayan	4
+"minus integer AhmatzyanovTeam"	100	ShuranskyTeam	heapsort	gabrielian	9
+"minus integer AhmatzyanovTeam"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"minus integer AhmatzyanovTeam"	100	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"minus integer AhmatzyanovTeam"	100	Shekhovtsova_team	quicksort	efimenko	8
+"minus integer AhmatzyanovTeam"	100	Shekhovtsova_team	treesort	issabek	-1
+"minus integer AhmatzyanovTeam"	100	Shekhovtsova_team	combsort	suleimenovazh	8
+"minus integer AhmatzyanovTeam"	100	KononenkoTeam	combsort	kononenko	8
+"minus integer AhmatzyanovTeam"	100	KononenkoTeam	shellsort	skriplyuk	4
+"minus integer AhmatzyanovTeam"	100	KononenkoTeam	mergesort	malakhov	10
+"minus integer AhmatzyanovTeam"	100	KononenkoTeam	quicksort	maltsev	8
+"minus integer AhmatzyanovTeam"	100	TkachevTeam	countingsort	tkachev	-1
+"minus integer AhmatzyanovTeam"	100	TkachevTeam	quicksort	karyagin	3
+"minus integer AhmatzyanovTeam"	100	TkachevTeam	merge_sort	kotova	20
+"minus integer AhmatzyanovTeam"	100	TkachevTeam	heapsort	kulagina	6
+"minus integer AhmatzyanovTeam"	100	BadeevTeam	mergesort	badeev	225
+"minus integer AhmatzyanovTeam"	100	BadeevTeam	int_quicksort	knyazkin	4
+"minus integer AhmatzyanovTeam"	100	BadeevTeam	combsortint	schekotovskaya	8
+"minus integer AhmatzyanovTeam"	100	BadeevTeam	shakersort	tolstykh	12
+"minus integer AhmatzyanovTeam"	100	LaputinTeam	heapsortbotup	laputin	4
+"minus integer AhmatzyanovTeam"	100	LaputinTeam	quicksort	ageenko	5
+"minus integer AhmatzyanovTeam"	100	LaputinTeam	radixsortlsd	absalyamov	-1
+"minus integer AhmatzyanovTeam"	100	LaputinTeam	timsort	seregin	9
+"minus integer AhmatzyanovTeam"	100	LaputinTeam	merge_sort	niyazmuhammedow	1691
+"minus integer AhmatzyanovTeam"	100	DanilovaTeam	merge_sort	danilova	10
+"minus integer AhmatzyanovTeam"	100	DanilovaTeam	insertionsort	stepuro	3
+"minus integer AhmatzyanovTeam"	100	DanilovaTeam	heapsort	makarov	6
+"minus integer AhmatzyanovTeam"	100	DanilovaTeam	quicksort	byankina	4
+"minus integer AhmatzyanovTeam"	100	DanilovaTeam	selectionsort	igoshkina	14
+"minus integer AhmatzyanovTeam"	100	SimonovTeam	quicksort	simonov	4
+"minus integer AhmatzyanovTeam"	100	SimonovTeam	shellsort	chiganov	3
+"minus integer AhmatzyanovTeam"	100	SimonovTeam	insertsort	safonov	6
+"minus integer AhmatzyanovTeam"	100	SimonovTeam	mergesort	pulkov	7
+"minus integer AhmatzyanovTeam"	100	SimonovTeam	smooth	samedov	8
+"minus integer AhmatzyanovTeam"	100	ShilakinTeam	quick_sort	gerasimoff	3
+"minus integer AhmatzyanovTeam"	100	ShilakinTeam	tim_sort	shilakin	25
+"minus integer AhmatzyanovTeam"	100	ShilakinTeam	merge_sort	vasiutin	277
+"minus integer AhmatzyanovTeam"	100	KirillovTeam	shellsort	kirillov	3
+"minus integer AhmatzyanovTeam"	100	KirillovTeam	quicksort	makeev	4
+"minus integer AhmatzyanovTeam"	100	KirillovTeam	insertsoft	afanasev	3
+"minus integer AhmatzyanovTeam"	100	KirillovTeam	combsort	dimova	4
+"minus integer AhmatzyanovTeam"	100	KirillovTeam	selectsort	klisunova	14
+"minus integer AhmatzyanovTeam"	100	PolyakovTeam	merge_sort	iliushik	8
+"minus integer AhmatzyanovTeam"	100	PolyakovTeam	heapsort	polyakov	6
+"minus integer AhmatzyanovTeam"	100	PolyakovTeam	quick_sort	shabalinov	3
+"minus integer AhmatzyanovTeam"	100	PolyakovTeam	shellsort	kamenshchikov	4
+"Polyakov team Same numbers"	1000	std	sort	std	1
+"Polyakov team Same numbers"	1000	AhmatzyanovTeam	binaryheap	salikhova	8
+"Polyakov team Same numbers"	1000	AhmatzyanovTeam	tim_sort	taishev	273
+"Polyakov team Same numbers"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	16
+"Polyakov team Same numbers"	1000	AhmatzyanovTeam	merge_sort	burlin	117
+"Polyakov team Same numbers"	1000	AhmatzyanovTeam	combsort	ismailova	36
+"Polyakov team Same numbers"	1000	ShuranskyTeam	mergesort	shuranskiy	2391
+"Polyakov team Same numbers"	1000	ShuranskyTeam	quicksort	pashayan	678
+"Polyakov team Same numbers"	1000	ShuranskyTeam	heapsort	gabrielian	12
+"Polyakov team Same numbers"	1000	ShuranskyTeam	bitonicsort	sharnin	40
+"Polyakov team Same numbers"	1000	Shekhovtsova_team	radixsort	shekhovtsova	43
+"Polyakov team Same numbers"	1000	Shekhovtsova_team	quicksort	efimenko	461
+"Polyakov team Same numbers"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team Same numbers"	1000	Shekhovtsova_team	combsort	suleimenovazh	78
+"Polyakov team Same numbers"	1000	KononenkoTeam	combsort	kononenko	73
+"Polyakov team Same numbers"	1000	KononenkoTeam	shellsort	skriplyuk	13
+"Polyakov team Same numbers"	1000	KononenkoTeam	mergesort	malakhov	56
+"Polyakov team Same numbers"	1000	KononenkoTeam	quicksort	maltsev	27
+"Polyakov team Same numbers"	1000	TkachevTeam	countingsort	tkachev	6
+"Polyakov team Same numbers"	1000	TkachevTeam	quicksort	karyagin	666
+"Polyakov team Same numbers"	1000	TkachevTeam	merge_sort	kotova	62
+"Polyakov team Same numbers"	1000	TkachevTeam	heapsort	kulagina	5
+"Polyakov team Same numbers"	1000	BadeevTeam	mergesort	badeev	2422
+"Polyakov team Same numbers"	1000	BadeevTeam	int_quicksort	knyazkin	12
+"Polyakov team Same numbers"	1000	BadeevTeam	combsortint	schekotovskaya	73
+"Polyakov team Same numbers"	1000	BadeevTeam	shakersort	tolstykh	345
+"Polyakov team Same numbers"	1000	LaputinTeam	heapsortbotup	laputin	52
+"Polyakov team Same numbers"	1000	LaputinTeam	quicksort	ageenko	17
+"Polyakov team Same numbers"	1000	LaputinTeam	radixsortlsd	absalyamov	114
+"Polyakov team Same numbers"	1000	LaputinTeam	timsort	seregin	75
+"Polyakov team Same numbers"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19555
+"Polyakov team Same numbers"	1000	DanilovaTeam	merge_sort	danilova	61
+"Polyakov team Same numbers"	1000	DanilovaTeam	insertionsort	stepuro	2
+"Polyakov team Same numbers"	1000	DanilovaTeam	heapsort	makarov	9
+"Polyakov team Same numbers"	1000	DanilovaTeam	quicksort	byankina	13
+"Polyakov team Same numbers"	1000	DanilovaTeam	selectionsort	igoshkina	369
+"Polyakov team Same numbers"	1000	SimonovTeam	quicksort	simonov	13
+"Polyakov team Same numbers"	1000	SimonovTeam	shellsort	chiganov	9
+"Polyakov team Same numbers"	1000	SimonovTeam	insertsort	safonov	355
+"Polyakov team Same numbers"	1000	SimonovTeam	mergesort	pulkov	42
+"Polyakov team Same numbers"	1000	SimonovTeam	smooth	samedov	24
+"Polyakov team Same numbers"	1000	ShilakinTeam	quick_sort	gerasimoff	345
+"Polyakov team Same numbers"	1000	ShilakinTeam	tim_sort	shilakin	245
+"Polyakov team Same numbers"	1000	ShilakinTeam	merge_sort	vasiutin	14679
+"Polyakov team Same numbers"	1000	KirillovTeam	shellsort	kirillov	17
+"Polyakov team Same numbers"	1000	KirillovTeam	quicksort	makeev	368
+"Polyakov team Same numbers"	1000	KirillovTeam	insertsoft	afanasev	2
+"Polyakov team Same numbers"	1000	KirillovTeam	combsort	dimova	30
+"Polyakov team Same numbers"	1000	KirillovTeam	selectsort	klisunova	1486
+"Polyakov team Same numbers"	1000	PolyakovTeam	merge_sort	iliushik	36
+"Polyakov team Same numbers"	1000	PolyakovTeam	heapsort	polyakov	7
+"Polyakov team Same numbers"	1000	PolyakovTeam	quick_sort	shabalinov	806
+"Polyakov team Same numbers"	1000	PolyakovTeam	shellsort	kamenshchikov	17
+"Polyakov team Already sorted, desc"	977	std	sort	std	14
+"Polyakov team Already sorted, desc"	977	AhmatzyanovTeam	binaryheap	salikhova	62
+"Polyakov team Already sorted, desc"	977	AhmatzyanovTeam	tim_sort	taishev	44
+"Polyakov team Already sorted, desc"	977	AhmatzyanovTeam	quicksort	ahmatzyanov	17
+"Polyakov team Already sorted, desc"	977	AhmatzyanovTeam	merge_sort	burlin	122
+"Polyakov team Already sorted, desc"	977	AhmatzyanovTeam	combsort	ismailova	46
+"Polyakov team Already sorted, desc"	977	ShuranskyTeam	mergesort	shuranskiy	1269
+"Polyakov team Already sorted, desc"	977	ShuranskyTeam	quicksort	pashayan	34
+"Polyakov team Already sorted, desc"	977	ShuranskyTeam	heapsort	gabrielian	103
+"Polyakov team Already sorted, desc"	977	ShuranskyTeam	bitonicsort	sharnin	-1
+"Polyakov team Already sorted, desc"	977	Shekhovtsova_team	radixsort	shekhovtsova	173
+"Polyakov team Already sorted, desc"	977	Shekhovtsova_team	quicksort	efimenko	68
+"Polyakov team Already sorted, desc"	977	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team Already sorted, desc"	977	Shekhovtsova_team	combsort	suleimenovazh	90
+"Polyakov team Already sorted, desc"	977	KononenkoTeam	combsort	kononenko	83
+"Polyakov team Already sorted, desc"	977	KononenkoTeam	shellsort	skriplyuk	19
+"Polyakov team Already sorted, desc"	977	KononenkoTeam	mergesort	malakhov	65
+"Polyakov team Already sorted, desc"	977	KononenkoTeam	quicksort	maltsev	1995
+"Polyakov team Already sorted, desc"	977	TkachevTeam	countingsort	tkachev	17
+"Polyakov team Already sorted, desc"	977	TkachevTeam	quicksort	karyagin	485
+"Polyakov team Already sorted, desc"	977	TkachevTeam	merge_sort	kotova	151
+"Polyakov team Already sorted, desc"	977	TkachevTeam	heapsort	kulagina	63
+"Polyakov team Already sorted, desc"	977	BadeevTeam	mergesort	badeev	2307
+"Polyakov team Already sorted, desc"	977	BadeevTeam	int_quicksort	knyazkin	10
+"Polyakov team Already sorted, desc"	977	BadeevTeam	combsortint	schekotovskaya	79
+"Polyakov team Already sorted, desc"	977	BadeevTeam	shakersort	tolstykh	743
+"Polyakov team Already sorted, desc"	977	LaputinTeam	heapsortbotup	laputin	49
+"Polyakov team Already sorted, desc"	977	LaputinTeam	quicksort	ageenko	15
+"Polyakov team Already sorted, desc"	977	LaputinTeam	radixsortlsd	absalyamov	83
+"Polyakov team Already sorted, desc"	977	LaputinTeam	timsort	seregin	6
+"Polyakov team Already sorted, desc"	977	LaputinTeam	merge_sort	niyazmuhammedow	18856
+"Polyakov team Already sorted, desc"	977	DanilovaTeam	merge_sort	danilova	62
+"Polyakov team Already sorted, desc"	977	DanilovaTeam	insertionsort	stepuro	343
+"Polyakov team Already sorted, desc"	977	DanilovaTeam	heapsort	makarov	65
+"Polyakov team Already sorted, desc"	977	DanilovaTeam	quicksort	byankina	8
+"Polyakov team Already sorted, desc"	977	DanilovaTeam	selectionsort	igoshkina	546
+"Polyakov team Already sorted, desc"	977	SimonovTeam	quicksort	simonov	9
+"Polyakov team Already sorted, desc"	977	SimonovTeam	shellsort	chiganov	15
+"Polyakov team Already sorted, desc"	977	SimonovTeam	insertsort	safonov	337
+"Polyakov team Already sorted, desc"	977	SimonovTeam	mergesort	pulkov	127
+"Polyakov team Already sorted, desc"	977	SimonovTeam	smooth	samedov	82
+"Polyakov team Already sorted, desc"	977	ShilakinTeam	quick_sort	gerasimoff	480
+"Polyakov team Already sorted, desc"	977	ShilakinTeam	tim_sort	shilakin	233
+"Polyakov team Already sorted, desc"	977	ShilakinTeam	merge_sort	vasiutin	13836
+"Polyakov team Already sorted, desc"	977	KirillovTeam	shellsort	kirillov	20
+"Polyakov team Already sorted, desc"	977	KirillovTeam	quicksort	makeev	265
+"Polyakov team Already sorted, desc"	977	KirillovTeam	insertsoft	afanasev	346
+"Polyakov team Already sorted, desc"	977	KirillovTeam	combsort	dimova	48
+"Polyakov team Already sorted, desc"	977	KirillovTeam	selectsort	klisunova	1352
+"Polyakov team Already sorted, desc"	977	PolyakovTeam	merge_sort	iliushik	39
+"Polyakov team Already sorted, desc"	977	PolyakovTeam	heapsort	polyakov	78
+"Polyakov team Already sorted, desc"	977	PolyakovTeam	quick_sort	shabalinov	505
+"Polyakov team Already sorted, desc"	977	PolyakovTeam	shellsort	kamenshchikov	19
+"Polyakov team Already sorted"	1000	std	sort	std	8
+"Polyakov team Already sorted"	1000	AhmatzyanovTeam	binaryheap	salikhova	60
+"Polyakov team Already sorted"	1000	AhmatzyanovTeam	tim_sort	taishev	41
+"Polyakov team Already sorted"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	16
+"Polyakov team Already sorted"	1000	AhmatzyanovTeam	merge_sort	burlin	151
+"Polyakov team Already sorted"	1000	AhmatzyanovTeam	combsort	ismailova	36
+"Polyakov team Already sorted"	1000	ShuranskyTeam	mergesort	shuranskiy	2417
+"Polyakov team Already sorted"	1000	ShuranskyTeam	quicksort	pashayan	14
+"Polyakov team Already sorted"	1000	ShuranskyTeam	heapsort	gabrielian	108
+"Polyakov team Already sorted"	1000	ShuranskyTeam	bitonicsort	sharnin	41
+"Polyakov team Already sorted"	1000	Shekhovtsova_team	radixsort	shekhovtsova	81
+"Polyakov team Already sorted"	1000	Shekhovtsova_team	quicksort	efimenko	64
+"Polyakov team Already sorted"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team Already sorted"	1000	Shekhovtsova_team	combsort	suleimenovazh	77
+"Polyakov team Already sorted"	1000	KononenkoTeam	combsort	kononenko	72
+"Polyakov team Already sorted"	1000	KononenkoTeam	shellsort	skriplyuk	13
+"Polyakov team Already sorted"	1000	KononenkoTeam	mergesort	malakhov	58
+"Polyakov team Already sorted"	1000	KononenkoTeam	quicksort	maltsev	2360
+"Polyakov team Already sorted"	1000	TkachevTeam	countingsort	tkachev	12
+"Polyakov team Already sorted"	1000	TkachevTeam	quicksort	karyagin	680
+"Polyakov team Already sorted"	1000	TkachevTeam	merge_sort	kotova	55
+"Polyakov team Already sorted"	1000	TkachevTeam	heapsort	kulagina	58
+"Polyakov team Already sorted"	1000	BadeevTeam	mergesort	badeev	7
+"Polyakov team Already sorted"	1000	BadeevTeam	int_quicksort	knyazkin	7
+"Polyakov team Already sorted"	1000	BadeevTeam	combsortint	schekotovskaya	71
+"Polyakov team Already sorted"	1000	BadeevTeam	shakersort	tolstykh	334
+"Polyakov team Already sorted"	1000	LaputinTeam	heapsortbotup	laputin	52
+"Polyakov team Already sorted"	1000	LaputinTeam	quicksort	ageenko	16
+"Polyakov team Already sorted"	1000	LaputinTeam	radixsortlsd	absalyamov	85
+"Polyakov team Already sorted"	1000	LaputinTeam	timsort	seregin	3
+"Polyakov team Already sorted"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19265
+"Polyakov team Already sorted"	1000	DanilovaTeam	merge_sort	danilova	56
+"Polyakov team Already sorted"	1000	DanilovaTeam	insertionsort	stepuro	2
+"Polyakov team Already sorted"	1000	DanilovaTeam	heapsort	makarov	60
+"Polyakov team Already sorted"	1000	DanilovaTeam	quicksort	byankina	7
+"Polyakov team Already sorted"	1000	DanilovaTeam	selectionsort	igoshkina	334
+"Polyakov team Already sorted"	1000	SimonovTeam	quicksort	simonov	8
+"Polyakov team Already sorted"	1000	SimonovTeam	shellsort	chiganov	9
+"Polyakov team Already sorted"	1000	SimonovTeam	insertsort	safonov	343
+"Polyakov team Already sorted"	1000	SimonovTeam	mergesort	pulkov	29
+"Polyakov team Already sorted"	1000	SimonovTeam	smooth	samedov	10
+"Polyakov team Already sorted"	1000	ShilakinTeam	quick_sort	gerasimoff	702
+"Polyakov team Already sorted"	1000	ShilakinTeam	tim_sort	shilakin	384
+"Polyakov team Already sorted"	1000	ShilakinTeam	merge_sort	vasiutin	14643
+"Polyakov team Already sorted"	1000	KirillovTeam	shellsort	kirillov	8
+"Polyakov team Already sorted"	1000	KirillovTeam	quicksort	makeev	193
+"Polyakov team Already sorted"	1000	KirillovTeam	insertsoft	afanasev	2
+"Polyakov team Already sorted"	1000	KirillovTeam	combsort	dimova	39
+"Polyakov team Already sorted"	1000	KirillovTeam	selectsort	klisunova	1457
+"Polyakov team Already sorted"	1000	PolyakovTeam	merge_sort	iliushik	45
+"Polyakov team Already sorted"	1000	PolyakovTeam	heapsort	polyakov	63
+"Polyakov team Already sorted"	1000	PolyakovTeam	quick_sort	shabalinov	655
+"Polyakov team Already sorted"	1000	PolyakovTeam	shellsort	kamenshchikov	13
+"Polyakov team Swapped first and last"	1000	std	sort	std	11
+"Polyakov team Swapped first and last"	1000	AhmatzyanovTeam	binaryheap	salikhova	59
+"Polyakov team Swapped first and last"	1000	AhmatzyanovTeam	tim_sort	taishev	58
+"Polyakov team Swapped first and last"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	16
+"Polyakov team Swapped first and last"	1000	AhmatzyanovTeam	merge_sort	burlin	115
+"Polyakov team Swapped first and last"	1000	AhmatzyanovTeam	combsort	ismailova	38
+"Polyakov team Swapped first and last"	1000	ShuranskyTeam	mergesort	shuranskiy	2294
+"Polyakov team Swapped first and last"	1000	ShuranskyTeam	quicksort	pashayan	14
+"Polyakov team Swapped first and last"	1000	ShuranskyTeam	heapsort	gabrielian	102
+"Polyakov team Swapped first and last"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Polyakov team Swapped first and last"	1000	Shekhovtsova_team	radixsort	shekhovtsova	76
+"Polyakov team Swapped first and last"	1000	Shekhovtsova_team	quicksort	efimenko	59
+"Polyakov team Swapped first and last"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team Swapped first and last"	1000	Shekhovtsova_team	combsort	suleimenovazh	92
+"Polyakov team Swapped first and last"	1000	KononenkoTeam	combsort	kononenko	83
+"Polyakov team Swapped first and last"	1000	KononenkoTeam	shellsort	skriplyuk	22
+"Polyakov team Swapped first and last"	1000	KononenkoTeam	mergesort	malakhov	83
+"Polyakov team Swapped first and last"	1000	KononenkoTeam	quicksort	maltsev	2303
+"Polyakov team Swapped first and last"	1000	TkachevTeam	countingsort	tkachev	13
+"Polyakov team Swapped first and last"	1000	TkachevTeam	quicksort	karyagin	693
+"Polyakov team Swapped first and last"	1000	TkachevTeam	merge_sort	kotova	59
+"Polyakov team Swapped first and last"	1000	TkachevTeam	heapsort	kulagina	62
+"Polyakov team Swapped first and last"	1000	BadeevTeam	mergesort	badeev	69
+"Polyakov team Swapped first and last"	1000	BadeevTeam	int_quicksort	knyazkin	7
+"Polyakov team Swapped first and last"	1000	BadeevTeam	combsortint	schekotovskaya	68
+"Polyakov team Swapped first and last"	1000	BadeevTeam	shakersort	tolstykh	325
+"Polyakov team Swapped first and last"	1000	LaputinTeam	heapsortbotup	laputin	50
+"Polyakov team Swapped first and last"	1000	LaputinTeam	quicksort	ageenko	15
+"Polyakov team Swapped first and last"	1000	LaputinTeam	radixsortlsd	absalyamov	82
+"Polyakov team Swapped first and last"	1000	LaputinTeam	timsort	seregin	-1
+"Polyakov team Swapped first and last"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19834
+"Polyakov team Swapped first and last"	1000	DanilovaTeam	merge_sort	danilova	60
+"Polyakov team Swapped first and last"	1000	DanilovaTeam	insertionsort	stepuro	3
+"Polyakov team Swapped first and last"	1000	DanilovaTeam	heapsort	makarov	65
+"Polyakov team Swapped first and last"	1000	DanilovaTeam	quicksort	byankina	7
+"Polyakov team Swapped first and last"	1000	DanilovaTeam	selectionsort	igoshkina	383
+"Polyakov team Swapped first and last"	1000	SimonovTeam	quicksort	simonov	9
+"Polyakov team Swapped first and last"	1000	SimonovTeam	shellsort	chiganov	13
+"Polyakov team Swapped first and last"	1000	SimonovTeam	insertsort	safonov	346
+"Polyakov team Swapped first and last"	1000	SimonovTeam	mergesort	pulkov	32
+"Polyakov team Swapped first and last"	1000	SimonovTeam	smooth	samedov	12
+"Polyakov team Swapped first and last"	1000	ShilakinTeam	quick_sort	gerasimoff	679
+"Polyakov team Swapped first and last"	1000	ShilakinTeam	tim_sort	shilakin	258
+"Polyakov team Swapped first and last"	1000	ShilakinTeam	merge_sort	vasiutin	13800
+"Polyakov team Swapped first and last"	1000	KirillovTeam	shellsort	kirillov	14
+"Polyakov team Swapped first and last"	1000	KirillovTeam	quicksort	makeev	186
+"Polyakov team Swapped first and last"	1000	KirillovTeam	insertsoft	afanasev	5
+"Polyakov team Swapped first and last"	1000	KirillovTeam	combsort	dimova	30
+"Polyakov team Swapped first and last"	1000	KirillovTeam	selectsort	klisunova	1446
+"Polyakov team Swapped first and last"	1000	PolyakovTeam	merge_sort	iliushik	40
+"Polyakov team Swapped first and last"	1000	PolyakovTeam	heapsort	polyakov	61
+"Polyakov team Swapped first and last"	1000	PolyakovTeam	quick_sort	shabalinov	654
+"Polyakov team Swapped first and last"	1000	PolyakovTeam	shellsort	kamenshchikov	23
+"Polyakov team int 1000"	1000	std	sort	std	47
+"Polyakov team int 1000"	1000	AhmatzyanovTeam	binaryheap	salikhova	83
+"Polyakov team int 1000"	1000	AhmatzyanovTeam	tim_sort	taishev	135
+"Polyakov team int 1000"	1000	AhmatzyanovTeam	quicksort	ahmatzyanov	62
+"Polyakov team int 1000"	1000	AhmatzyanovTeam	merge_sort	burlin	159
+"Polyakov team int 1000"	1000	AhmatzyanovTeam	combsort	ismailova	-1
+"Polyakov team int 1000"	1000	ShuranskyTeam	mergesort	shuranskiy	1946
+"Polyakov team int 1000"	1000	ShuranskyTeam	quicksort	pashayan	53
+"Polyakov team int 1000"	1000	ShuranskyTeam	heapsort	gabrielian	126
+"Polyakov team int 1000"	1000	ShuranskyTeam	bitonicsort	sharnin	-1
+"Polyakov team int 1000"	1000	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"Polyakov team int 1000"	1000	Shekhovtsova_team	quicksort	efimenko	95
+"Polyakov team int 1000"	1000	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team int 1000"	1000	Shekhovtsova_team	combsort	suleimenovazh	135
+"Polyakov team int 1000"	1000	KononenkoTeam	combsort	kononenko	124
+"Polyakov team int 1000"	1000	KononenkoTeam	shellsort	skriplyuk	73
+"Polyakov team int 1000"	1000	KononenkoTeam	mergesort	malakhov	104
+"Polyakov team int 1000"	1000	KononenkoTeam	quicksort	maltsev	80
+"Polyakov team int 1000"	1000	TkachevTeam	countingsort	tkachev	-1
+"Polyakov team int 1000"	1000	TkachevTeam	quicksort	karyagin	53
+"Polyakov team int 1000"	1000	TkachevTeam	merge_sort	kotova	108
+"Polyakov team int 1000"	1000	TkachevTeam	heapsort	kulagina	80
+"Polyakov team int 1000"	1000	BadeevTeam	mergesort	badeev	1729
+"Polyakov team int 1000"	1000	BadeevTeam	int_quicksort	knyazkin	56
+"Polyakov team int 1000"	1000	BadeevTeam	combsortint	schekotovskaya	128
+"Polyakov team int 1000"	1000	BadeevTeam	shakersort	tolstykh	777
+"Polyakov team int 1000"	1000	LaputinTeam	heapsortbotup	laputin	57
+"Polyakov team int 1000"	1000	LaputinTeam	quicksort	ageenko	69
+"Polyakov team int 1000"	1000	LaputinTeam	radixsortlsd	absalyamov	-1
+"Polyakov team int 1000"	1000	LaputinTeam	timsort	seregin	105
+"Polyakov team int 1000"	1000	LaputinTeam	merge_sort	niyazmuhammedow	19938
+"Polyakov team int 1000"	1000	DanilovaTeam	merge_sort	danilova	116
+"Polyakov team int 1000"	1000	DanilovaTeam	insertionsort	stepuro	185
+"Polyakov team int 1000"	1000	DanilovaTeam	heapsort	makarov	82
+"Polyakov team int 1000"	1000	DanilovaTeam	quicksort	byankina	62
+"Polyakov team int 1000"	1000	DanilovaTeam	selectionsort	igoshkina	1888
+"Polyakov team int 1000"	1000	SimonovTeam	quicksort	simonov	52
+"Polyakov team int 1000"	1000	SimonovTeam	shellsort	chiganov	55
+"Polyakov team int 1000"	1000	SimonovTeam	insertsort	safonov	364
+"Polyakov team int 1000"	1000	SimonovTeam	mergesort	pulkov	68
+"Polyakov team int 1000"	1000	SimonovTeam	smooth	samedov	107
+"Polyakov team int 1000"	1000	ShilakinTeam	quick_sort	gerasimoff	50
+"Polyakov team int 1000"	1000	ShilakinTeam	tim_sort	shilakin	311
+"Polyakov team int 1000"	1000	ShilakinTeam	merge_sort	vasiutin	13811
+"Polyakov team int 1000"	1000	KirillovTeam	shellsort	kirillov	59
+"Polyakov team int 1000"	1000	KirillovTeam	quicksort	makeev	51
+"Polyakov team int 1000"	1000	KirillovTeam	insertsoft	afanasev	248
+"Polyakov team int 1000"	1000	KirillovTeam	combsort	dimova	-1
+"Polyakov team int 1000"	1000	KirillovTeam	selectsort	klisunova	1447
+"Polyakov team int 1000"	1000	PolyakovTeam	merge_sort	iliushik	81
+"Polyakov team int 1000"	1000	PolyakovTeam	heapsort	polyakov	79
+"Polyakov team int 1000"	1000	PolyakovTeam	quick_sort	shabalinov	50
+"Polyakov team int 1000"	1000	PolyakovTeam	shellsort	kamenshchikov	73
+"Polyakov team int 100"	100	std	sort	std	4
+"Polyakov team int 100"	100	AhmatzyanovTeam	binaryheap	salikhova	6
+"Polyakov team int 100"	100	AhmatzyanovTeam	tim_sort	taishev	12
+"Polyakov team int 100"	100	AhmatzyanovTeam	quicksort	ahmatzyanov	5
+"Polyakov team int 100"	100	AhmatzyanovTeam	merge_sort	burlin	15
+"Polyakov team int 100"	100	AhmatzyanovTeam	combsort	ismailova	5
+"Polyakov team int 100"	100	ShuranskyTeam	mergesort	shuranskiy	164
+"Polyakov team int 100"	100	ShuranskyTeam	quicksort	pashayan	4
+"Polyakov team int 100"	100	ShuranskyTeam	heapsort	gabrielian	9
+"Polyakov team int 100"	100	ShuranskyTeam	bitonicsort	sharnin	-1
+"Polyakov team int 100"	100	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"Polyakov team int 100"	100	Shekhovtsova_team	quicksort	efimenko	9
+"Polyakov team int 100"	100	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team int 100"	100	Shekhovtsova_team	combsort	suleimenovazh	8
+"Polyakov team int 100"	100	KononenkoTeam	combsort	kononenko	8
+"Polyakov team int 100"	100	KononenkoTeam	shellsort	skriplyuk	4
+"Polyakov team int 100"	100	KononenkoTeam	mergesort	malakhov	10
+"Polyakov team int 100"	100	KononenkoTeam	quicksort	maltsev	7
+"Polyakov team int 100"	100	TkachevTeam	countingsort	tkachev	-1
+"Polyakov team int 100"	100	TkachevTeam	quicksort	karyagin	4
+"Polyakov team int 100"	100	TkachevTeam	merge_sort	kotova	19
+"Polyakov team int 100"	100	TkachevTeam	heapsort	kulagina	6
+"Polyakov team int 100"	100	BadeevTeam	mergesort	badeev	143
+"Polyakov team int 100"	100	BadeevTeam	int_quicksort	knyazkin	4
+"Polyakov team int 100"	100	BadeevTeam	combsortint	schekotovskaya	7
+"Polyakov team int 100"	100	BadeevTeam	shakersort	tolstykh	12
+"Polyakov team int 100"	100	LaputinTeam	heapsortbotup	laputin	4
+"Polyakov team int 100"	100	LaputinTeam	quicksort	ageenko	5
+"Polyakov team int 100"	100	LaputinTeam	radixsortlsd	absalyamov	-1
+"Polyakov team int 100"	100	LaputinTeam	timsort	seregin	8
+"Polyakov team int 100"	100	LaputinTeam	merge_sort	niyazmuhammedow	1580
+"Polyakov team int 100"	100	DanilovaTeam	merge_sort	danilova	10
+"Polyakov team int 100"	100	DanilovaTeam	insertionsort	stepuro	3
+"Polyakov team int 100"	100	DanilovaTeam	heapsort	makarov	6
+"Polyakov team int 100"	100	DanilovaTeam	quicksort	byankina	4
+"Polyakov team int 100"	100	DanilovaTeam	selectionsort	igoshkina	15
+"Polyakov team int 100"	100	SimonovTeam	quicksort	simonov	4
+"Polyakov team int 100"	100	SimonovTeam	shellsort	chiganov	3
+"Polyakov team int 100"	100	SimonovTeam	insertsort	safonov	6
+"Polyakov team int 100"	100	SimonovTeam	mergesort	pulkov	7
+"Polyakov team int 100"	100	SimonovTeam	smooth	samedov	8
+"Polyakov team int 100"	100	ShilakinTeam	quick_sort	gerasimoff	4
+"Polyakov team int 100"	100	ShilakinTeam	tim_sort	shilakin	25
+"Polyakov team int 100"	100	ShilakinTeam	merge_sort	vasiutin	335
+"Polyakov team int 100"	100	KirillovTeam	shellsort	kirillov	4
+"Polyakov team int 100"	100	KirillovTeam	quicksort	makeev	4
+"Polyakov team int 100"	100	KirillovTeam	insertsoft	afanasev	3
+"Polyakov team int 100"	100	KirillovTeam	combsort	dimova	4
+"Polyakov team int 100"	100	KirillovTeam	selectsort	klisunova	15
+"Polyakov team int 100"	100	PolyakovTeam	merge_sort	iliushik	8
+"Polyakov team int 100"	100	PolyakovTeam	heapsort	polyakov	7
+"Polyakov team int 100"	100	PolyakovTeam	quick_sort	shabalinov	3
+"Polyakov team int 100"	100	PolyakovTeam	shellsort	kamenshchikov	4
+"Polyakov team int 10"	10	std	sort	std	0
+"Polyakov team int 10"	10	AhmatzyanovTeam	binaryheap	salikhova	0
+"Polyakov team int 10"	10	AhmatzyanovTeam	tim_sort	taishev	2
+"Polyakov team int 10"	10	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"Polyakov team int 10"	10	AhmatzyanovTeam	merge_sort	burlin	1
+"Polyakov team int 10"	10	AhmatzyanovTeam	combsort	ismailova	0
+"Polyakov team int 10"	10	ShuranskyTeam	mergesort	shuranskiy	11
+"Polyakov team int 10"	10	ShuranskyTeam	quicksort	pashayan	0
+"Polyakov team int 10"	10	ShuranskyTeam	heapsort	gabrielian	0
+"Polyakov team int 10"	10	ShuranskyTeam	bitonicsort	sharnin	-1
+"Polyakov team int 10"	10	Shekhovtsova_team	radixsort	shekhovtsova	-1
+"Polyakov team int 10"	10	Shekhovtsova_team	quicksort	efimenko	1
+"Polyakov team int 10"	10	Shekhovtsova_team	treesort	issabek	-1
+"Polyakov team int 10"	10	Shekhovtsova_team	combsort	suleimenovazh	0
+"Polyakov team int 10"	10	KononenkoTeam	combsort	kononenko	0
+"Polyakov team int 10"	10	KononenkoTeam	shellsort	skriplyuk	0
+"Polyakov team int 10"	10	KononenkoTeam	mergesort	malakhov	94
+"Polyakov team int 10"	10	KononenkoTeam	quicksort	maltsev	2
+"Polyakov team int 10"	10	TkachevTeam	countingsort	tkachev	-1
+"Polyakov team int 10"	10	TkachevTeam	quicksort	karyagin	0
+"Polyakov team int 10"	10	TkachevTeam	merge_sort	kotova	7
+"Polyakov team int 10"	10	TkachevTeam	heapsort	kulagina	0
+"Polyakov team int 10"	10	BadeevTeam	mergesort	badeev	13
+"Polyakov team int 10"	10	BadeevTeam	int_quicksort	knyazkin	0
+"Polyakov team int 10"	10	BadeevTeam	combsortint	schekotovskaya	0
+"Polyakov team int 10"	10	BadeevTeam	shakersort	tolstykh	0
+"Polyakov team int 10"	10	LaputinTeam	heapsortbotup	laputin	0
+"Polyakov team int 10"	10	LaputinTeam	quicksort	ageenko	0
+"Polyakov team int 10"	10	LaputinTeam	radixsortlsd	absalyamov	-1
+"Polyakov team int 10"	10	LaputinTeam	timsort	seregin	2
+"Polyakov team int 10"	10	LaputinTeam	merge_sort	niyazmuhammedow	120
+"Polyakov team int 10"	10	DanilovaTeam	merge_sort	danilova	2
+"Polyakov team int 10"	10	DanilovaTeam	insertionsort	stepuro	0
+"Polyakov team int 10"	10	DanilovaTeam	heapsort	makarov	0
+"Polyakov team int 10"	10	DanilovaTeam	quicksort	byankina	0
+"Polyakov team int 10"	10	DanilovaTeam	selectionsort	igoshkina	0
+"Polyakov team int 10"	10	SimonovTeam	quicksort	simonov	0
+"Polyakov team int 10"	10	SimonovTeam	shellsort	chiganov	0
+"Polyakov team int 10"	10	SimonovTeam	insertsort	safonov	0
+"Polyakov team int 10"	10	SimonovTeam	mergesort	pulkov	2
+"Polyakov team int 10"	10	SimonovTeam	smooth	samedov	0
+"Polyakov team int 10"	10	ShilakinTeam	quick_sort	gerasimoff	0
+"Polyakov team int 10"	10	ShilakinTeam	tim_sort	shilakin	0
+"Polyakov team int 10"	10	ShilakinTeam	merge_sort	vasiutin	16
+"Polyakov team int 10"	10	KirillovTeam	shellsort	kirillov	0
+"Polyakov team int 10"	10	KirillovTeam	quicksort	makeev	0
+"Polyakov team int 10"	10	KirillovTeam	insertsoft	afanasev	0
+"Polyakov team int 10"	10	KirillovTeam	combsort	dimova	0
+"Polyakov team int 10"	10	KirillovTeam	selectsort	klisunova	0
+"Polyakov team int 10"	10	PolyakovTeam	merge_sort	iliushik	2
+"Polyakov team int 10"	10	PolyakovTeam	heapsort	polyakov	0
+"Polyakov team int 10"	10	PolyakovTeam	quick_sort	shabalinov	0
+"Polyakov team int 10"	10	PolyakovTeam	shellsort	kamenshchikov	0
+"zeros by tm"	3	std	sort	std	0
+"zeros by tm"	3	AhmatzyanovTeam	binaryheap	salikhova	0
+"zeros by tm"	3	AhmatzyanovTeam	tim_sort	taishev	2
+"zeros by tm"	3	AhmatzyanovTeam	quicksort	ahmatzyanov	0
+"zeros by tm"	3	AhmatzyanovTeam	merge_sort	burlin	0
+"zeros by tm"	3	AhmatzyanovTeam	combsort	ismailova	0
+"zeros by tm"	3	ShuranskyTeam	mergesort	shuranskiy	4
+"zeros by tm"	3	ShuranskyTeam	quicksort	pashayan	0
+"zeros by tm"	3	ShuranskyTeam	heapsort	gabrielian	0
+"zeros by tm"	3	ShuranskyTeam	bitonicsort	sharnin	0
+"zeros by tm"	3	Shekhovtsova_team	radixsort	shekhovtsova	0
+"zeros by tm"	3	Shekhovtsova_team	quicksort	efimenko	0
+"zeros by tm"	3	Shekhovtsova_team	treesort	issabek	-1
+"zeros by tm"	3	Shekhovtsova_team	combsort	suleimenovazh	0
+"zeros by tm"	3	KononenkoTeam	combsort	kononenko	0
+"zeros by tm"	3	KononenkoTeam	shellsort	skriplyuk	0
+"zeros by tm"	3	KononenkoTeam	mergesort	malakhov	2
+"zeros by tm"	3	KononenkoTeam	quicksort	maltsev	1
+"zeros by tm"	3	TkachevTeam	countingsort	tkachev	2
+"zeros by tm"	3	TkachevTeam	quicksort	karyagin	0
+"zeros by tm"	3	TkachevTeam	merge_sort	kotova	3
+"zeros by tm"	3	TkachevTeam	heapsort	kulagina	0
+"zeros by tm"	3	BadeevTeam	mergesort	badeev	4
+"zeros by tm"	3	BadeevTeam	int_quicksort	knyazkin	0
+"zeros by tm"	3	BadeevTeam	combsortint	schekotovskaya	0
+"zeros by tm"	3	BadeevTeam	shakersort	tolstykh	0
+"zeros by tm"	3	LaputinTeam	heapsortbotup	laputin	0
+"zeros by tm"	3	LaputinTeam	quicksort	ageenko	0
+"zeros by tm"	3	LaputinTeam	radixsortlsd	absalyamov	0
+"zeros by tm"	3	LaputinTeam	timsort	seregin	2
+"zeros by tm"	3	LaputinTeam	merge_sort	niyazmuhammedow	22
+"zeros by tm"	3	DanilovaTeam	merge_sort	danilova	2
+"zeros by tm"	3	DanilovaTeam	insertionsort	stepuro	0
+"zeros by tm"	3	DanilovaTeam	heapsort	makarov	0
+"zeros by tm"	3	DanilovaTeam	quicksort	byankina	0
+"zeros by tm"	3	DanilovaTeam	selectionsort	igoshkina	0
+"zeros by tm"	3	SimonovTeam	quicksort	simonov	0
+"zeros by tm"	3	SimonovTeam	shellsort	chiganov	0
+"zeros by tm"	3	SimonovTeam	insertsort	safonov	0
+"zeros by tm"	3	SimonovTeam	mergesort	pulkov	1
+"zeros by tm"	3	SimonovTeam	smooth	samedov	0
+"zeros by tm"	3	ShilakinTeam	quick_sort	gerasimoff	0
+"zeros by tm"	3	ShilakinTeam	tim_sort	shilakin	0
+"zeros by tm"	3	ShilakinTeam	merge_sort	vasiutin	4
+"zeros by tm"	3	KirillovTeam	shellsort	kirillov	0
+"zeros by tm"	3	KirillovTeam	quicksort	makeev	0
+"zeros by tm"	3	KirillovTeam	insertsoft	afanasev	0
+"zeros by tm"	3	KirillovTeam	combsort	dimova	0
+"zeros by tm"	3	KirillovTeam	selectsort	klisunova	0
+"zeros by tm"	3	PolyakovTeam	merge_sort	iliushik	1
+"zeros by tm"	3	PolyakovTeam	heapsort	polyakov	0
+"zeros by tm"	3	PolyakovTeam	quick_sort	shabalinov	0
+"zeros by tm"	3	PolyakovTeam	shellsort	kamenshchikov	0
