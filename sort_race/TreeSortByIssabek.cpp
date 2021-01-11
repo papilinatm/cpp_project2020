@@ -1,21 +1,22 @@
 #include <vector>
 
-using mytype = int;
 using namespace std;
 struct Tree
 {
-    mytype data{};
-    Tree* left{}, * right{};
-
-    Tree(mytype key) : data(key) {}
+    int data;
+    struct Tree* left, * right;
 };
 
-Tree* newtree(mytype key)
+struct Tree* newtree(int key)
 {
-    return new Tree{ key };
+    struct Tree* temp= new Tree;
+    temp->data=key;
+    temp->left=nullptr;
+    temp->right=nullptr;
+    return temp;
 }
 
-Tree* insert(Tree* tree, mytype key)
+Tree* insert(Tree* tree, int key)
 {
     if (tree == nullptr)
         return newtree(key);
@@ -27,25 +28,24 @@ Tree* insert(Tree* tree, mytype key)
 
     return tree;
 }
-
-void store(Tree* root, vector<mytype>& a)
+template <typename T>
+void store(Tree* root, T* a, int &i)
 {
     if (root != nullptr) {
-        store(root->left, a);
-        a.push_back(root->data);
-        store(root->right, a);
+        store(root->left, a,i);
+        a[i++]=(root->data);
+        store(root->right, a,i);
     }
 }
-
-void TreeSort(vector<mytype>& a)
+template <typename T>
+void TreeSort(vector<T>& a)
 {
-    Tree* root{};
-
-    for (const auto& aa : a)
-        insert(root, aa);
-
-    a.clear();
-    store(root, a);
+    struct Tree* root=nullptr;
+    root = insert(root, a.size()-1);
+    for (int i=1; i<a.size(); i++)
+        insert(root, a.at(i));
+    int i=0;
+    store(root, a.data(),i);
 }
 vector<int> TreeSortByIssabek(vector<int> a) {
     TreeSort(a);
@@ -53,5 +53,6 @@ vector<int> TreeSortByIssabek(vector<int> a) {
 }
 
 vector<double> TreeSortByIssabek(vector<double> a) {
+    TreeSort(a);
     return a;
 }
