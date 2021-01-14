@@ -2,7 +2,7 @@
 using namespace std;
 
 template<typename T>
-void shellsort(T* mas, int size)
+void shellsort(vector<T>& mas, int size)
     {
     size--;
         int h;
@@ -24,12 +24,12 @@ void shellsort(T* mas, int size)
 
 vector<int> shellsort_By_Chiganov(vector<int> data)
 {
-    shellsort(&data[0], data.size());
+    shellsort(data, data.size());
     return data;
 }
 
 vector<double> shellsort_By_Chiganov(vector<double> data)
 {
-    shellsort(&data[0], data.size());
+    shellsort(data, data.size());
     return data;
 }
