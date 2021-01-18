@@ -56,6 +56,6 @@ vector<int> TreeSortByIssabek(vector<int> a) {
 }
 
 vector<double> TreeSortByIssabek(vector<double> a) {
-    TreeSort(a)
+    TreeSort(a);
     return a;
 }
